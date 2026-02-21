@@ -1,0 +1,7722 @@
+{
+  "schema": "tibia-travel-graph.v1",
+  "currency": "gp",
+  "nodes": [
+    {
+      "id": "Ab'Dendriel",
+      "type": "city"
+    },
+    {
+      "id": "Carlin",
+      "type": "city"
+    },
+    {
+      "id": "Edron",
+      "type": "city"
+    },
+    {
+      "id": "Thais",
+      "type": "city"
+    },
+    {
+      "id": "Venore",
+      "type": "city"
+    },
+    {
+      "id": "Yalahar",
+      "type": "city"
+    },
+    {
+      "id": "Ankrahmun",
+      "type": "city"
+    },
+    {
+      "id": "Darashia",
+      "type": "city"
+    },
+    {
+      "id": "Liberty Bay",
+      "type": "city"
+    },
+    {
+      "id": "Port Hope",
+      "type": "city"
+    },
+    {
+      "id": "Svargrond",
+      "type": "city"
+    },
+    {
+      "id": "Krailos",
+      "type": "city"
+    },
+    {
+      "id": "Issavi",
+      "type": "city"
+    },
+    {
+      "id": "Oramond",
+      "type": "city"
+    },
+    {
+      "id": "Roshamuul",
+      "type": "city"
+    },
+    {
+      "id": "Farmine",
+      "type": "city"
+    },
+    {
+      "id": "Femor Hills",
+      "type": "city"
+    },
+    {
+      "id": "Kazordoon",
+      "type": "city"
+    }
+  ],
+  "edges": [
+    {
+      "from": "Ab'Dendriel",
+      "to": "Carlin",
+      "method": "boat",
+      "cost": 80
+    },
+    {
+      "from": "Ab'Dendriel",
+      "to": "Edron",
+      "method": "boat",
+      "cost": 70
+    },
+    {
+      "from": "Ab'Dendriel",
+      "to": "Thais",
+      "method": "boat",
+      "cost": 130
+    },
+    {
+      "from": "Ab'Dendriel",
+      "to": "Venore",
+      "method": "boat",
+      "cost": 90
+    },
+    {
+      "from": "Ab'Dendriel",
+      "to": "Yalahar",
+      "method": "boat",
+      "cost": 160
+    },
+    {
+      "from": "Ankrahmun",
+      "to": "Darashia",
+      "method": "boat",
+      "cost": 100
+    },
+    {
+      "from": "Ankrahmun",
+      "to": "Edron",
+      "method": "boat",
+      "cost": 160
+    },
+    {
+      "from": "Ankrahmun",
+      "to": "Liberty Bay",
+      "method": "boat",
+      "cost": 90
+    },
+    {
+      "from": "Ankrahmun",
+      "to": "Port Hope",
+      "method": "boat",
+      "cost": 80
+    },
+    {
+      "from": "Ankrahmun",
+      "to": "Venore",
+      "method": "boat",
+      "cost": 150
+    },
+    {
+      "from": "Ankrahmun",
+      "to": "Yalahar",
+      "method": "boat",
+      "cost": 230
+    },
+    {
+      "from": "Carlin",
+      "to": "Ab'Dendriel",
+      "method": "boat",
+      "cost": 80
+    },
+    {
+      "from": "Carlin",
+      "to": "Edron",
+      "method": "boat",
+      "cost": 110
+    },
+    {
+      "from": "Carlin",
+      "to": "Svargrond",
+      "method": "boat",
+      "cost": 110
+    },
+    {
+      "from": "Carlin",
+      "to": "Thais",
+      "method": "boat",
+      "cost": 110
+    },
+    {
+      "from": "Carlin",
+      "to": "Venore",
+      "method": "boat",
+      "cost": 130
+    },
+    {
+      "from": "Carlin",
+      "to": "Yalahar",
+      "method": "boat",
+      "cost": 185
+    },
+    {
+      "from": "Darashia",
+      "to": "Ankrahmun",
+      "method": "boat",
+      "cost": 100
+    },
+    {
+      "from": "Darashia",
+      "to": "Liberty Bay",
+      "method": "boat",
+      "cost": 200
+    },
+    {
+      "from": "Darashia",
+      "to": "Port Hope",
+      "method": "boat",
+      "cost": 180
+    },
+    {
+      "from": "Darashia",
+      "to": "Venore",
+      "method": "boat",
+      "cost": 60
+    },
+    {
+      "from": "Darashia",
+      "to": "Yalahar",
+      "method": "boat",
+      "cost": 210
+    },
+    {
+      "from": "Darashia",
+      "to": "Krailos",
+      "method": "boat",
+      "cost": 110
+    },
+    {
+      "from": "Darashia",
+      "to": "Issavi",
+      "method": "boat",
+      "cost": 130
+    },
+    {
+      "from": "Edron",
+      "to": "Ab'Dendriel",
+      "method": "boat",
+      "cost": 70
+    },
+    {
+      "from": "Edron",
+      "to": "Ankrahmun",
+      "method": "boat",
+      "cost": 160
+    },
+    {
+      "from": "Edron",
+      "to": "Carlin",
+      "method": "boat",
+      "cost": 110
+    },
+    {
+      "from": "Edron",
+      "to": "Liberty Bay",
+      "method": "boat",
+      "cost": 170
+    },
+    {
+      "from": "Edron",
+      "to": "Port Hope",
+      "method": "boat",
+      "cost": 150
+    },
+    {
+      "from": "Edron",
+      "to": "Oramond",
+      "method": "boat",
+      "cost": 110
+    },
+    {
+      "from": "Edron",
+      "to": "Thais",
+      "method": "boat",
+      "cost": 160
+    },
+    {
+      "from": "Edron",
+      "to": "Venore",
+      "method": "boat",
+      "cost": 40
+    },
+    {
+      "from": "Edron",
+      "to": "Krailos",
+      "method": "boat",
+      "cost": 100
+    },
+    {
+      "from": "Liberty Bay",
+      "to": "Ankrahmun",
+      "method": "boat",
+      "cost": 90
+    },
+    {
+      "from": "Liberty Bay",
+      "to": "Darashia",
+      "method": "boat",
+      "cost": 200
+    },
+    {
+      "from": "Liberty Bay",
+      "to": "Edron",
+      "method": "boat",
+      "cost": 170
+    },
+    {
+      "from": "Liberty Bay",
+      "to": "Port Hope",
+      "method": "boat",
+      "cost": 50
+    },
+    {
+      "from": "Liberty Bay",
+      "to": "Thais",
+      "method": "boat",
+      "cost": 180
+    },
+    {
+      "from": "Liberty Bay",
+      "to": "Venore",
+      "method": "boat",
+      "cost": 180
+    },
+    {
+      "from": "Liberty Bay",
+      "to": "Yalahar",
+      "method": "boat",
+      "cost": 275
+    },
+    {
+      "from": "Port Hope",
+      "to": "Ankrahmun",
+      "method": "boat",
+      "cost": 110
+    },
+    {
+      "from": "Port Hope",
+      "to": "Darashia",
+      "method": "boat",
+      "cost": 180
+    },
+    {
+      "from": "Port Hope",
+      "to": "Edron",
+      "method": "boat",
+      "cost": 150
+    },
+    {
+      "from": "Port Hope",
+      "to": "Liberty Bay",
+      "method": "boat",
+      "cost": 50
+    },
+    {
+      "from": "Port Hope",
+      "to": "Oramond",
+      "method": "boat",
+      "cost": 200
+    },
+    {
+      "from": "Port Hope",
+      "to": "Thais",
+      "method": "boat",
+      "cost": 160
+    },
+    {
+      "from": "Port Hope",
+      "to": "Venore",
+      "method": "boat",
+      "cost": 160
+    },
+    {
+      "from": "Port Hope",
+      "to": "Yalahar",
+      "method": "boat",
+      "cost": 260
+    },
+    {
+      "from": "Roshamuul",
+      "to": "Thais",
+      "method": "boat",
+      "cost": 210
+    },
+    {
+      "from": "Oramond",
+      "to": "Edron",
+      "method": "boat",
+      "cost": 110
+    },
+    {
+      "from": "Oramond",
+      "to": "Port Hope",
+      "method": "boat",
+      "cost": 200
+    },
+    {
+      "from": "Oramond",
+      "to": "Thais",
+      "method": "boat",
+      "cost": 150
+    },
+    {
+      "from": "Oramond",
+      "to": "Venore",
+      "method": "boat",
+      "cost": 130
+    },
+    {
+      "from": "Oramond",
+      "to": "Krailos",
+      "method": "boat",
+      "cost": 60
+    },
+    {
+      "from": "Oramond",
+      "to": "Issavi",
+      "method": "boat",
+      "cost": 120
+    },
+    {
+      "from": "Svargrond",
+      "to": "Carlin",
+      "method": "boat",
+      "cost": 110
+    },
+    {
+      "from": "Svargrond",
+      "to": "Thais",
+      "method": "boat",
+      "cost": 180
+    },
+    {
+      "from": "Svargrond",
+      "to": "Venore",
+      "method": "boat",
+      "cost": 150
+    },
+    {
+      "from": "Thais",
+      "to": "Ab'Dendriel",
+      "method": "boat",
+      "cost": 130
+    },
+    {
+      "from": "Thais",
+      "to": "Carlin",
+      "method": "boat",
+      "cost": 110
+    },
+    {
+      "from": "Thais",
+      "to": "Edron",
+      "method": "boat",
+      "cost": 160
+    },
+    {
+      "from": "Thais",
+      "to": "Liberty Bay",
+      "method": "boat",
+      "cost": 180
+    },
+    {
+      "from": "Thais",
+      "to": "Port Hope",
+      "method": "boat",
+      "cost": 160
+    },
+    {
+      "from": "Thais",
+      "to": "Roshamuul",
+      "method": "boat",
+      "cost": 210
+    },
+    {
+      "from": "Thais",
+      "to": "Oramond",
+      "method": "boat",
+      "cost": 150
+    },
+    {
+      "from": "Thais",
+      "to": "Svargrond",
+      "method": "boat",
+      "cost": 180
+    },
+    {
+      "from": "Thais",
+      "to": "Venore",
+      "method": "boat",
+      "cost": 170
+    },
+    {
+      "from": "Thais",
+      "to": "Yalahar",
+      "method": "boat",
+      "cost": 200
+    },
+    {
+      "from": "Venore",
+      "to": "Ab'Dendriel",
+      "method": "boat",
+      "cost": 90
+    },
+    {
+      "from": "Venore",
+      "to": "Ankrahmun",
+      "method": "boat",
+      "cost": 150
+    },
+    {
+      "from": "Venore",
+      "to": "Carlin",
+      "method": "boat",
+      "cost": 130
+    },
+    {
+      "from": "Venore",
+      "to": "Darashia",
+      "method": "boat",
+      "cost": 60
+    },
+    {
+      "from": "Venore",
+      "to": "Edron",
+      "method": "boat",
+      "cost": 40
+    },
+    {
+      "from": "Venore",
+      "to": "Liberty Bay",
+      "method": "boat",
+      "cost": 180
+    },
+    {
+      "from": "Venore",
+      "to": "Port Hope",
+      "method": "boat",
+      "cost": 160
+    },
+    {
+      "from": "Venore",
+      "to": "Oramond",
+      "method": "boat",
+      "cost": 130
+    },
+    {
+      "from": "Venore",
+      "to": "Svargrond",
+      "method": "boat",
+      "cost": 150
+    },
+    {
+      "from": "Venore",
+      "to": "Thais",
+      "method": "boat",
+      "cost": 170
+    },
+    {
+      "from": "Venore",
+      "to": "Yalahar",
+      "method": "boat",
+      "cost": 185
+    },
+    {
+      "from": "Venore",
+      "to": "Krailos",
+      "method": "boat",
+      "cost": 110
+    },
+    {
+      "from": "Venore",
+      "to": "Issavi",
+      "method": "boat",
+      "cost": 130
+    },
+    {
+      "from": "Yalahar",
+      "to": "Ab'Dendriel",
+      "method": "boat",
+      "cost": 160
+    },
+    {
+      "from": "Yalahar",
+      "to": "Ankrahmun",
+      "method": "boat",
+      "cost": 230
+    },
+    {
+      "from": "Yalahar",
+      "to": "Carlin",
+      "method": "boat",
+      "cost": 185
+    },
+    {
+      "from": "Yalahar",
+      "to": "Darashia",
+      "method": "boat",
+      "cost": 210
+    },
+    {
+      "from": "Yalahar",
+      "to": "Liberty Bay",
+      "method": "boat",
+      "cost": 275
+    },
+    {
+      "from": "Yalahar",
+      "to": "Port Hope",
+      "method": "boat",
+      "cost": 260
+    },
+    {
+      "from": "Yalahar",
+      "to": "Thais",
+      "method": "boat",
+      "cost": 200
+    },
+    {
+      "from": "Yalahar",
+      "to": "Venore",
+      "method": "boat",
+      "cost": 185
+    },
+    {
+      "from": "Krailos",
+      "to": "Darashia",
+      "method": "boat",
+      "cost": 110
+    },
+    {
+      "from": "Krailos",
+      "to": "Edron",
+      "method": "boat",
+      "cost": 100
+    },
+    {
+      "from": "Krailos",
+      "to": "Oramond",
+      "method": "boat",
+      "cost": 60
+    },
+    {
+      "from": "Krailos",
+      "to": "Venore",
+      "method": "boat",
+      "cost": 110
+    },
+    {
+      "from": "Krailos",
+      "to": "Issavi",
+      "method": "boat",
+      "cost": 70
+    },
+    {
+      "from": "Issavi",
+      "to": "Darashia",
+      "method": "boat",
+      "cost": 80
+    },
+    {
+      "from": "Issavi",
+      "to": "Oramond",
+      "method": "boat",
+      "cost": 100
+    },
+    {
+      "from": "Issavi",
+      "to": "Venore",
+      "method": "boat",
+      "cost": 80
+    },
+    {
+      "from": "Issavi",
+      "to": "Krailos",
+      "method": "boat",
+      "cost": 80
+    },
+    {
+      "from": "Darashia",
+      "to": "Edron",
+      "method": "carpet",
+      "cost": 40
+    },
+    {
+      "from": "Darashia",
+      "to": "Farmine",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Darashia",
+      "to": "Femor Hills",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Darashia",
+      "to": "Svargrond",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Darashia",
+      "to": "Kazordoon",
+      "method": "carpet",
+      "cost": 80
+    },
+    {
+      "from": "Darashia",
+      "to": "Issavi",
+      "method": "carpet",
+      "cost": 100
+    },
+    {
+      "from": "Edron",
+      "to": "Darashia",
+      "method": "carpet",
+      "cost": 40
+    },
+    {
+      "from": "Edron",
+      "to": "Farmine",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Edron",
+      "to": "Femor Hills",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Edron",
+      "to": "Svargrond",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Edron",
+      "to": "Kazordoon",
+      "method": "carpet",
+      "cost": 70
+    },
+    {
+      "from": "Edron",
+      "to": "Issavi",
+      "method": "carpet",
+      "cost": 100
+    },
+    {
+      "from": "Farmine",
+      "to": "Darashia",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Farmine",
+      "to": "Edron",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Farmine",
+      "to": "Femor Hills",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Farmine",
+      "to": "Svargrond",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Farmine",
+      "to": "Kazordoon",
+      "method": "carpet",
+      "cost": 70
+    },
+    {
+      "from": "Farmine",
+      "to": "Issavi",
+      "method": "carpet",
+      "cost": 100
+    },
+    {
+      "from": "Femor Hills",
+      "to": "Darashia",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Femor Hills",
+      "to": "Edron",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Femor Hills",
+      "to": "Farmine",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Femor Hills",
+      "to": "Svargrond",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Femor Hills",
+      "to": "Kazordoon",
+      "method": "carpet",
+      "cost": 70
+    },
+    {
+      "from": "Femor Hills",
+      "to": "Issavi",
+      "method": "carpet",
+      "cost": 100
+    },
+    {
+      "from": "Svargrond",
+      "to": "Darashia",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Svargrond",
+      "to": "Edron",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Svargrond",
+      "to": "Farmine",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Svargrond",
+      "to": "Femor Hills",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Svargrond",
+      "to": "Kazordoon",
+      "method": "carpet",
+      "cost": 70
+    },
+    {
+      "from": "Svargrond",
+      "to": "Issavi",
+      "method": "carpet",
+      "cost": 100
+    },
+    {
+      "from": "Kazordoon",
+      "to": "Darashia",
+      "method": "carpet",
+      "cost": 40
+    },
+    {
+      "from": "Kazordoon",
+      "to": "Edron",
+      "method": "carpet",
+      "cost": 40
+    },
+    {
+      "from": "Kazordoon",
+      "to": "Farmine",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Kazordoon",
+      "to": "Femor Hills",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Kazordoon",
+      "to": "Svargrond",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Kazordoon",
+      "to": "Issavi",
+      "method": "carpet",
+      "cost": 100
+    },
+    {
+      "from": "Issavi",
+      "to": "Darashia",
+      "method": "carpet",
+      "cost": 40
+    },
+    {
+      "from": "Issavi",
+      "to": "Edron",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Issavi",
+      "to": "Farmine",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Issavi",
+      "to": "Femor Hills",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Issavi",
+      "to": "Svargrond",
+      "method": "carpet",
+      "cost": 60
+    },
+    {
+      "from": "Issavi",
+      "to": "Kazordoon",
+      "method": "carpet",
+      "cost": 70
+    }
+  ],
+  "precomputed": {
+    "algorithm": "dijkstra",
+    "description": "Cheapest cost (gp) between all city pairs using boat+carpet edges. Directed graph.",
+    "costMatrix": {
+      "Ab'Dendriel": {
+        "Ab'Dendriel": 0,
+        "Carlin": 80,
+        "Edron": 70,
+        "Thais": 130,
+        "Venore": 90,
+        "Yalahar": 160,
+        "Ankrahmun": 210,
+        "Darashia": 110,
+        "Liberty Bay": 240,
+        "Port Hope": 220,
+        "Svargrond": 130,
+        "Krailos": 170,
+        "Issavi": 170,
+        "Oramond": 180,
+        "Roshamuul": 340,
+        "Farmine": 130,
+        "Femor Hills": 130,
+        "Kazordoon": 140
+      },
+      "Carlin": {
+        "Ab'Dendriel": 80,
+        "Carlin": 0,
+        "Edron": 110,
+        "Thais": 110,
+        "Venore": 130,
+        "Yalahar": 185,
+        "Ankrahmun": 250,
+        "Darashia": 150,
+        "Liberty Bay": 280,
+        "Port Hope": 260,
+        "Svargrond": 110,
+        "Krailos": 210,
+        "Issavi": 210,
+        "Oramond": 220,
+        "Roshamuul": 320,
+        "Farmine": 170,
+        "Femor Hills": 170,
+        "Kazordoon": 180
+      },
+      "Edron": {
+        "Ab'Dendriel": 70,
+        "Carlin": 110,
+        "Edron": 0,
+        "Thais": 160,
+        "Venore": 40,
+        "Yalahar": 225,
+        "Ankrahmun": 140,
+        "Darashia": 40,
+        "Liberty Bay": 170,
+        "Port Hope": 150,
+        "Svargrond": 60,
+        "Krailos": 100,
+        "Issavi": 100,
+        "Oramond": 110,
+        "Roshamuul": 370,
+        "Farmine": 60,
+        "Femor Hills": 60,
+        "Kazordoon": 70
+      },
+      "Thais": {
+        "Ab'Dendriel": 130,
+        "Carlin": 110,
+        "Edron": 160,
+        "Thais": 0,
+        "Venore": 170,
+        "Yalahar": 200,
+        "Ankrahmun": 270,
+        "Darashia": 200,
+        "Liberty Bay": 180,
+        "Port Hope": 160,
+        "Svargrond": 180,
+        "Krailos": 210,
+        "Issavi": 260,
+        "Oramond": 150,
+        "Roshamuul": 210,
+        "Farmine": 220,
+        "Femor Hills": 220,
+        "Kazordoon": 230
+      },
+      "Venore": {
+        "Ab'Dendriel": 90,
+        "Carlin": 130,
+        "Edron": 40,
+        "Thais": 170,
+        "Venore": 0,
+        "Yalahar": 185,
+        "Ankrahmun": 150,
+        "Darashia": 60,
+        "Liberty Bay": 180,
+        "Port Hope": 160,
+        "Svargrond": 100,
+        "Krailos": 110,
+        "Issavi": 130,
+        "Oramond": 130,
+        "Roshamuul": 380,
+        "Farmine": 100,
+        "Femor Hills": 100,
+        "Kazordoon": 110
+      },
+      "Yalahar": {
+        "Ab'Dendriel": 160,
+        "Carlin": 185,
+        "Edron": 225,
+        "Thais": 200,
+        "Venore": 185,
+        "Yalahar": 0,
+        "Ankrahmun": 230,
+        "Darashia": 210,
+        "Liberty Bay": 275,
+        "Port Hope": 260,
+        "Svargrond": 270,
+        "Krailos": 295,
+        "Issavi": 310,
+        "Oramond": 315,
+        "Roshamuul": 410,
+        "Farmine": 270,
+        "Femor Hills": 270,
+        "Kazordoon": 290
+      },
+      "Ankrahmun": {
+        "Ab'Dendriel": 210,
+        "Carlin": 250,
+        "Edron": 140,
+        "Thais": 240,
+        "Venore": 150,
+        "Yalahar": 230,
+        "Ankrahmun": 0,
+        "Darashia": 100,
+        "Liberty Bay": 90,
+        "Port Hope": 80,
+        "Svargrond": 160,
+        "Krailos": 210,
+        "Issavi": 200,
+        "Oramond": 250,
+        "Roshamuul": 450,
+        "Farmine": 160,
+        "Femor Hills": 160,
+        "Kazordoon": 180
+      },
+      "Darashia": {
+        "Ab'Dendriel": 110,
+        "Carlin": 150,
+        "Edron": 40,
+        "Thais": 200,
+        "Venore": 60,
+        "Yalahar": 210,
+        "Ankrahmun": 100,
+        "Darashia": 0,
+        "Liberty Bay": 190,
+        "Port Hope": 180,
+        "Svargrond": 60,
+        "Krailos": 110,
+        "Issavi": 100,
+        "Oramond": 150,
+        "Roshamuul": 410,
+        "Farmine": 60,
+        "Femor Hills": 60,
+        "Kazordoon": 80
+      },
+      "Liberty Bay": {
+        "Ab'Dendriel": 240,
+        "Carlin": 280,
+        "Edron": 170,
+        "Thais": 180,
+        "Venore": 180,
+        "Yalahar": 275,
+        "Ankrahmun": 90,
+        "Darashia": 190,
+        "Liberty Bay": 0,
+        "Port Hope": 50,
+        "Svargrond": 230,
+        "Krailos": 270,
+        "Issavi": 270,
+        "Oramond": 250,
+        "Roshamuul": 390,
+        "Farmine": 230,
+        "Femor Hills": 230,
+        "Kazordoon": 240
+      },
+      "Port Hope": {
+        "Ab'Dendriel": 220,
+        "Carlin": 260,
+        "Edron": 150,
+        "Thais": 160,
+        "Venore": 160,
+        "Yalahar": 260,
+        "Ankrahmun": 110,
+        "Darashia": 180,
+        "Liberty Bay": 50,
+        "Port Hope": 0,
+        "Svargrond": 210,
+        "Krailos": 250,
+        "Issavi": 250,
+        "Oramond": 200,
+        "Roshamuul": 370,
+        "Farmine": 210,
+        "Femor Hills": 210,
+        "Kazordoon": 220
+      },
+      "Svargrond": {
+        "Ab'Dendriel": 130,
+        "Carlin": 110,
+        "Edron": 60,
+        "Thais": 180,
+        "Venore": 100,
+        "Yalahar": 270,
+        "Ankrahmun": 160,
+        "Darashia": 60,
+        "Liberty Bay": 230,
+        "Port Hope": 210,
+        "Svargrond": 0,
+        "Krailos": 160,
+        "Issavi": 100,
+        "Oramond": 170,
+        "Roshamuul": 390,
+        "Farmine": 60,
+        "Femor Hills": 60,
+        "Kazordoon": 70
+      },
+      "Krailos": {
+        "Ab'Dendriel": 170,
+        "Carlin": 210,
+        "Edron": 100,
+        "Thais": 210,
+        "Venore": 110,
+        "Yalahar": 295,
+        "Ankrahmun": 210,
+        "Darashia": 110,
+        "Liberty Bay": 270,
+        "Port Hope": 250,
+        "Svargrond": 130,
+        "Krailos": 0,
+        "Issavi": 70,
+        "Oramond": 60,
+        "Roshamuul": 420,
+        "Farmine": 130,
+        "Femor Hills": 130,
+        "Kazordoon": 140
+      },
+      "Issavi": {
+        "Ab'Dendriel": 130,
+        "Carlin": 170,
+        "Edron": 60,
+        "Thais": 220,
+        "Venore": 80,
+        "Yalahar": 250,
+        "Ankrahmun": 140,
+        "Darashia": 40,
+        "Liberty Bay": 230,
+        "Port Hope": 210,
+        "Svargrond": 60,
+        "Krailos": 80,
+        "Issavi": 0,
+        "Oramond": 100,
+        "Roshamuul": 430,
+        "Farmine": 60,
+        "Femor Hills": 60,
+        "Kazordoon": 70
+      },
+      "Oramond": {
+        "Ab'Dendriel": 180,
+        "Carlin": 220,
+        "Edron": 110,
+        "Thais": 150,
+        "Venore": 130,
+        "Yalahar": 315,
+        "Ankrahmun": 250,
+        "Darashia": 150,
+        "Liberty Bay": 250,
+        "Port Hope": 200,
+        "Svargrond": 170,
+        "Krailos": 60,
+        "Issavi": 120,
+        "Oramond": 0,
+        "Roshamuul": 360,
+        "Farmine": 170,
+        "Femor Hills": 170,
+        "Kazordoon": 180
+      },
+      "Roshamuul": {
+        "Ab'Dendriel": 340,
+        "Carlin": 320,
+        "Edron": 370,
+        "Thais": 210,
+        "Venore": 380,
+        "Yalahar": 410,
+        "Ankrahmun": 480,
+        "Darashia": 410,
+        "Liberty Bay": 390,
+        "Port Hope": 370,
+        "Svargrond": 390,
+        "Krailos": 420,
+        "Issavi": 470,
+        "Oramond": 360,
+        "Roshamuul": 0,
+        "Farmine": 430,
+        "Femor Hills": 430,
+        "Kazordoon": 440
+      },
+      "Farmine": {
+        "Ab'Dendriel": 130,
+        "Carlin": 170,
+        "Edron": 60,
+        "Thais": 220,
+        "Venore": 100,
+        "Yalahar": 270,
+        "Ankrahmun": 160,
+        "Darashia": 60,
+        "Liberty Bay": 230,
+        "Port Hope": 210,
+        "Svargrond": 60,
+        "Krailos": 160,
+        "Issavi": 100,
+        "Oramond": 170,
+        "Roshamuul": 430,
+        "Farmine": 0,
+        "Femor Hills": 60,
+        "Kazordoon": 70
+      },
+      "Femor Hills": {
+        "Ab'Dendriel": 130,
+        "Carlin": 170,
+        "Edron": 60,
+        "Thais": 220,
+        "Venore": 100,
+        "Yalahar": 270,
+        "Ankrahmun": 160,
+        "Darashia": 60,
+        "Liberty Bay": 230,
+        "Port Hope": 210,
+        "Svargrond": 60,
+        "Krailos": 160,
+        "Issavi": 100,
+        "Oramond": 170,
+        "Roshamuul": 430,
+        "Farmine": 60,
+        "Femor Hills": 0,
+        "Kazordoon": 70
+      },
+      "Kazordoon": {
+        "Ab'Dendriel": 110,
+        "Carlin": 150,
+        "Edron": 40,
+        "Thais": 200,
+        "Venore": 80,
+        "Yalahar": 250,
+        "Ankrahmun": 140,
+        "Darashia": 40,
+        "Liberty Bay": 210,
+        "Port Hope": 190,
+        "Svargrond": 60,
+        "Krailos": 140,
+        "Issavi": 100,
+        "Oramond": 150,
+        "Roshamuul": 410,
+        "Farmine": 60,
+        "Femor Hills": 60,
+        "Kazordoon": 0
+      }
+    },
+    "routes": {
+      "Ab'Dendriel": {
+        "Ab'Dendriel": {
+          "totalCost": 0,
+          "hops": 0,
+          "path": [
+            "Ab'Dendriel"
+          ],
+          "steps": []
+        },
+        "Carlin": {
+          "totalCost": 80,
+          "hops": 1,
+          "path": [
+            "Ab'Dendriel",
+            "Carlin"
+          ],
+          "steps": [
+            {
+              "from": "Ab'Dendriel",
+              "to": "Carlin",
+              "method": "boat",
+              "cost": 80
+            }
+          ]
+        },
+        "Edron": {
+          "totalCost": 70,
+          "hops": 1,
+          "path": [
+            "Ab'Dendriel",
+            "Edron"
+          ],
+          "steps": [
+            {
+              "from": "Ab'Dendriel",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 70
+            }
+          ]
+        },
+        "Thais": {
+          "totalCost": 130,
+          "hops": 1,
+          "path": [
+            "Ab'Dendriel",
+            "Thais"
+          ],
+          "steps": [
+            {
+              "from": "Ab'Dendriel",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 130
+            }
+          ]
+        },
+        "Venore": {
+          "totalCost": 90,
+          "hops": 1,
+          "path": [
+            "Ab'Dendriel",
+            "Venore"
+          ],
+          "steps": [
+            {
+              "from": "Ab'Dendriel",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 90
+            }
+          ]
+        },
+        "Yalahar": {
+          "totalCost": 160,
+          "hops": 1,
+          "path": [
+            "Ab'Dendriel",
+            "Yalahar"
+          ],
+          "steps": [
+            {
+              "from": "Ab'Dendriel",
+              "to": "Yalahar",
+              "method": "boat",
+              "cost": 160
+            }
+          ]
+        },
+        "Ankrahmun": {
+          "totalCost": 210,
+          "hops": 3,
+          "path": [
+            "Ab'Dendriel",
+            "Edron",
+            "Darashia",
+            "Ankrahmun"
+          ],
+          "steps": [
+            {
+              "from": "Ab'Dendriel",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 70
+            },
+            {
+              "from": "Edron",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Darashia",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Darashia": {
+          "totalCost": 110,
+          "hops": 2,
+          "path": [
+            "Ab'Dendriel",
+            "Edron",
+            "Darashia"
+          ],
+          "steps": [
+            {
+              "from": "Ab'Dendriel",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 70
+            },
+            {
+              "from": "Edron",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 40
+            }
+          ]
+        },
+        "Liberty Bay": {
+          "totalCost": 240,
+          "hops": 2,
+          "path": [
+            "Ab'Dendriel",
+            "Edron",
+            "Liberty Bay"
+          ],
+          "steps": [
+            {
+              "from": "Ab'Dendriel",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 70
+            },
+            {
+              "from": "Edron",
+              "to": "Liberty Bay",
+              "method": "boat",
+              "cost": 170
+            }
+          ]
+        },
+        "Port Hope": {
+          "totalCost": 220,
+          "hops": 2,
+          "path": [
+            "Ab'Dendriel",
+            "Edron",
+            "Port Hope"
+          ],
+          "steps": [
+            {
+              "from": "Ab'Dendriel",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 70
+            },
+            {
+              "from": "Edron",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 150
+            }
+          ]
+        },
+        "Svargrond": {
+          "totalCost": 130,
+          "hops": 2,
+          "path": [
+            "Ab'Dendriel",
+            "Edron",
+            "Svargrond"
+          ],
+          "steps": [
+            {
+              "from": "Ab'Dendriel",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 70
+            },
+            {
+              "from": "Edron",
+              "to": "Svargrond",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Krailos": {
+          "totalCost": 170,
+          "hops": 2,
+          "path": [
+            "Ab'Dendriel",
+            "Edron",
+            "Krailos"
+          ],
+          "steps": [
+            {
+              "from": "Ab'Dendriel",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 70
+            },
+            {
+              "from": "Edron",
+              "to": "Krailos",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Issavi": {
+          "totalCost": 170,
+          "hops": 2,
+          "path": [
+            "Ab'Dendriel",
+            "Edron",
+            "Issavi"
+          ],
+          "steps": [
+            {
+              "from": "Ab'Dendriel",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 70
+            },
+            {
+              "from": "Edron",
+              "to": "Issavi",
+              "method": "carpet",
+              "cost": 100
+            }
+          ]
+        },
+        "Oramond": {
+          "totalCost": 180,
+          "hops": 2,
+          "path": [
+            "Ab'Dendriel",
+            "Edron",
+            "Oramond"
+          ],
+          "steps": [
+            {
+              "from": "Ab'Dendriel",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 70
+            },
+            {
+              "from": "Edron",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Roshamuul": {
+          "totalCost": 340,
+          "hops": 2,
+          "path": [
+            "Ab'Dendriel",
+            "Thais",
+            "Roshamuul"
+          ],
+          "steps": [
+            {
+              "from": "Ab'Dendriel",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 130
+            },
+            {
+              "from": "Thais",
+              "to": "Roshamuul",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Farmine": {
+          "totalCost": 130,
+          "hops": 2,
+          "path": [
+            "Ab'Dendriel",
+            "Edron",
+            "Farmine"
+          ],
+          "steps": [
+            {
+              "from": "Ab'Dendriel",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 70
+            },
+            {
+              "from": "Edron",
+              "to": "Farmine",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Femor Hills": {
+          "totalCost": 130,
+          "hops": 2,
+          "path": [
+            "Ab'Dendriel",
+            "Edron",
+            "Femor Hills"
+          ],
+          "steps": [
+            {
+              "from": "Ab'Dendriel",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 70
+            },
+            {
+              "from": "Edron",
+              "to": "Femor Hills",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Kazordoon": {
+          "totalCost": 140,
+          "hops": 2,
+          "path": [
+            "Ab'Dendriel",
+            "Edron",
+            "Kazordoon"
+          ],
+          "steps": [
+            {
+              "from": "Ab'Dendriel",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 70
+            },
+            {
+              "from": "Edron",
+              "to": "Kazordoon",
+              "method": "carpet",
+              "cost": 70
+            }
+          ]
+        }
+      },
+      "Carlin": {
+        "Ab'Dendriel": {
+          "totalCost": 80,
+          "hops": 1,
+          "path": [
+            "Carlin",
+            "Ab'Dendriel"
+          ],
+          "steps": [
+            {
+              "from": "Carlin",
+              "to": "Ab'Dendriel",
+              "method": "boat",
+              "cost": 80
+            }
+          ]
+        },
+        "Carlin": {
+          "totalCost": 0,
+          "hops": 0,
+          "path": [
+            "Carlin"
+          ],
+          "steps": []
+        },
+        "Edron": {
+          "totalCost": 110,
+          "hops": 1,
+          "path": [
+            "Carlin",
+            "Edron"
+          ],
+          "steps": [
+            {
+              "from": "Carlin",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Thais": {
+          "totalCost": 110,
+          "hops": 1,
+          "path": [
+            "Carlin",
+            "Thais"
+          ],
+          "steps": [
+            {
+              "from": "Carlin",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Venore": {
+          "totalCost": 130,
+          "hops": 1,
+          "path": [
+            "Carlin",
+            "Venore"
+          ],
+          "steps": [
+            {
+              "from": "Carlin",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 130
+            }
+          ]
+        },
+        "Yalahar": {
+          "totalCost": 185,
+          "hops": 1,
+          "path": [
+            "Carlin",
+            "Yalahar"
+          ],
+          "steps": [
+            {
+              "from": "Carlin",
+              "to": "Yalahar",
+              "method": "boat",
+              "cost": 185
+            }
+          ]
+        },
+        "Ankrahmun": {
+          "totalCost": 250,
+          "hops": 3,
+          "path": [
+            "Carlin",
+            "Edron",
+            "Darashia",
+            "Ankrahmun"
+          ],
+          "steps": [
+            {
+              "from": "Carlin",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Edron",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Darashia",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Darashia": {
+          "totalCost": 150,
+          "hops": 2,
+          "path": [
+            "Carlin",
+            "Edron",
+            "Darashia"
+          ],
+          "steps": [
+            {
+              "from": "Carlin",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Edron",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 40
+            }
+          ]
+        },
+        "Liberty Bay": {
+          "totalCost": 280,
+          "hops": 2,
+          "path": [
+            "Carlin",
+            "Edron",
+            "Liberty Bay"
+          ],
+          "steps": [
+            {
+              "from": "Carlin",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Edron",
+              "to": "Liberty Bay",
+              "method": "boat",
+              "cost": 170
+            }
+          ]
+        },
+        "Port Hope": {
+          "totalCost": 260,
+          "hops": 2,
+          "path": [
+            "Carlin",
+            "Edron",
+            "Port Hope"
+          ],
+          "steps": [
+            {
+              "from": "Carlin",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Edron",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 150
+            }
+          ]
+        },
+        "Svargrond": {
+          "totalCost": 110,
+          "hops": 1,
+          "path": [
+            "Carlin",
+            "Svargrond"
+          ],
+          "steps": [
+            {
+              "from": "Carlin",
+              "to": "Svargrond",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Krailos": {
+          "totalCost": 210,
+          "hops": 2,
+          "path": [
+            "Carlin",
+            "Edron",
+            "Krailos"
+          ],
+          "steps": [
+            {
+              "from": "Carlin",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Edron",
+              "to": "Krailos",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Issavi": {
+          "totalCost": 210,
+          "hops": 2,
+          "path": [
+            "Carlin",
+            "Edron",
+            "Issavi"
+          ],
+          "steps": [
+            {
+              "from": "Carlin",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Edron",
+              "to": "Issavi",
+              "method": "carpet",
+              "cost": 100
+            }
+          ]
+        },
+        "Oramond": {
+          "totalCost": 220,
+          "hops": 2,
+          "path": [
+            "Carlin",
+            "Edron",
+            "Oramond"
+          ],
+          "steps": [
+            {
+              "from": "Carlin",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Edron",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Roshamuul": {
+          "totalCost": 320,
+          "hops": 2,
+          "path": [
+            "Carlin",
+            "Thais",
+            "Roshamuul"
+          ],
+          "steps": [
+            {
+              "from": "Carlin",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Thais",
+              "to": "Roshamuul",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Farmine": {
+          "totalCost": 170,
+          "hops": 2,
+          "path": [
+            "Carlin",
+            "Edron",
+            "Farmine"
+          ],
+          "steps": [
+            {
+              "from": "Carlin",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Edron",
+              "to": "Farmine",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Femor Hills": {
+          "totalCost": 170,
+          "hops": 2,
+          "path": [
+            "Carlin",
+            "Edron",
+            "Femor Hills"
+          ],
+          "steps": [
+            {
+              "from": "Carlin",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Edron",
+              "to": "Femor Hills",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Kazordoon": {
+          "totalCost": 180,
+          "hops": 2,
+          "path": [
+            "Carlin",
+            "Edron",
+            "Kazordoon"
+          ],
+          "steps": [
+            {
+              "from": "Carlin",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Edron",
+              "to": "Kazordoon",
+              "method": "carpet",
+              "cost": 70
+            }
+          ]
+        }
+      },
+      "Edron": {
+        "Ab'Dendriel": {
+          "totalCost": 70,
+          "hops": 1,
+          "path": [
+            "Edron",
+            "Ab'Dendriel"
+          ],
+          "steps": [
+            {
+              "from": "Edron",
+              "to": "Ab'Dendriel",
+              "method": "boat",
+              "cost": 70
+            }
+          ]
+        },
+        "Carlin": {
+          "totalCost": 110,
+          "hops": 1,
+          "path": [
+            "Edron",
+            "Carlin"
+          ],
+          "steps": [
+            {
+              "from": "Edron",
+              "to": "Carlin",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Edron": {
+          "totalCost": 0,
+          "hops": 0,
+          "path": [
+            "Edron"
+          ],
+          "steps": []
+        },
+        "Thais": {
+          "totalCost": 160,
+          "hops": 1,
+          "path": [
+            "Edron",
+            "Thais"
+          ],
+          "steps": [
+            {
+              "from": "Edron",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 160
+            }
+          ]
+        },
+        "Venore": {
+          "totalCost": 40,
+          "hops": 1,
+          "path": [
+            "Edron",
+            "Venore"
+          ],
+          "steps": [
+            {
+              "from": "Edron",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 40
+            }
+          ]
+        },
+        "Yalahar": {
+          "totalCost": 225,
+          "hops": 2,
+          "path": [
+            "Edron",
+            "Venore",
+            "Yalahar"
+          ],
+          "steps": [
+            {
+              "from": "Edron",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 40
+            },
+            {
+              "from": "Venore",
+              "to": "Yalahar",
+              "method": "boat",
+              "cost": 185
+            }
+          ]
+        },
+        "Ankrahmun": {
+          "totalCost": 140,
+          "hops": 2,
+          "path": [
+            "Edron",
+            "Darashia",
+            "Ankrahmun"
+          ],
+          "steps": [
+            {
+              "from": "Edron",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Darashia",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Darashia": {
+          "totalCost": 40,
+          "hops": 1,
+          "path": [
+            "Edron",
+            "Darashia"
+          ],
+          "steps": [
+            {
+              "from": "Edron",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 40
+            }
+          ]
+        },
+        "Liberty Bay": {
+          "totalCost": 170,
+          "hops": 1,
+          "path": [
+            "Edron",
+            "Liberty Bay"
+          ],
+          "steps": [
+            {
+              "from": "Edron",
+              "to": "Liberty Bay",
+              "method": "boat",
+              "cost": 170
+            }
+          ]
+        },
+        "Port Hope": {
+          "totalCost": 150,
+          "hops": 1,
+          "path": [
+            "Edron",
+            "Port Hope"
+          ],
+          "steps": [
+            {
+              "from": "Edron",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 150
+            }
+          ]
+        },
+        "Svargrond": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Edron",
+            "Svargrond"
+          ],
+          "steps": [
+            {
+              "from": "Edron",
+              "to": "Svargrond",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Krailos": {
+          "totalCost": 100,
+          "hops": 1,
+          "path": [
+            "Edron",
+            "Krailos"
+          ],
+          "steps": [
+            {
+              "from": "Edron",
+              "to": "Krailos",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Issavi": {
+          "totalCost": 100,
+          "hops": 1,
+          "path": [
+            "Edron",
+            "Issavi"
+          ],
+          "steps": [
+            {
+              "from": "Edron",
+              "to": "Issavi",
+              "method": "carpet",
+              "cost": 100
+            }
+          ]
+        },
+        "Oramond": {
+          "totalCost": 110,
+          "hops": 1,
+          "path": [
+            "Edron",
+            "Oramond"
+          ],
+          "steps": [
+            {
+              "from": "Edron",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Roshamuul": {
+          "totalCost": 370,
+          "hops": 2,
+          "path": [
+            "Edron",
+            "Thais",
+            "Roshamuul"
+          ],
+          "steps": [
+            {
+              "from": "Edron",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Thais",
+              "to": "Roshamuul",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Farmine": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Edron",
+            "Farmine"
+          ],
+          "steps": [
+            {
+              "from": "Edron",
+              "to": "Farmine",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Femor Hills": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Edron",
+            "Femor Hills"
+          ],
+          "steps": [
+            {
+              "from": "Edron",
+              "to": "Femor Hills",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Kazordoon": {
+          "totalCost": 70,
+          "hops": 1,
+          "path": [
+            "Edron",
+            "Kazordoon"
+          ],
+          "steps": [
+            {
+              "from": "Edron",
+              "to": "Kazordoon",
+              "method": "carpet",
+              "cost": 70
+            }
+          ]
+        }
+      },
+      "Thais": {
+        "Ab'Dendriel": {
+          "totalCost": 130,
+          "hops": 1,
+          "path": [
+            "Thais",
+            "Ab'Dendriel"
+          ],
+          "steps": [
+            {
+              "from": "Thais",
+              "to": "Ab'Dendriel",
+              "method": "boat",
+              "cost": 130
+            }
+          ]
+        },
+        "Carlin": {
+          "totalCost": 110,
+          "hops": 1,
+          "path": [
+            "Thais",
+            "Carlin"
+          ],
+          "steps": [
+            {
+              "from": "Thais",
+              "to": "Carlin",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Edron": {
+          "totalCost": 160,
+          "hops": 1,
+          "path": [
+            "Thais",
+            "Edron"
+          ],
+          "steps": [
+            {
+              "from": "Thais",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 160
+            }
+          ]
+        },
+        "Thais": {
+          "totalCost": 0,
+          "hops": 0,
+          "path": [
+            "Thais"
+          ],
+          "steps": []
+        },
+        "Venore": {
+          "totalCost": 170,
+          "hops": 1,
+          "path": [
+            "Thais",
+            "Venore"
+          ],
+          "steps": [
+            {
+              "from": "Thais",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 170
+            }
+          ]
+        },
+        "Yalahar": {
+          "totalCost": 200,
+          "hops": 1,
+          "path": [
+            "Thais",
+            "Yalahar"
+          ],
+          "steps": [
+            {
+              "from": "Thais",
+              "to": "Yalahar",
+              "method": "boat",
+              "cost": 200
+            }
+          ]
+        },
+        "Ankrahmun": {
+          "totalCost": 270,
+          "hops": 2,
+          "path": [
+            "Thais",
+            "Port Hope",
+            "Ankrahmun"
+          ],
+          "steps": [
+            {
+              "from": "Thais",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Port Hope",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Darashia": {
+          "totalCost": 200,
+          "hops": 2,
+          "path": [
+            "Thais",
+            "Edron",
+            "Darashia"
+          ],
+          "steps": [
+            {
+              "from": "Thais",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Edron",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 40
+            }
+          ]
+        },
+        "Liberty Bay": {
+          "totalCost": 180,
+          "hops": 1,
+          "path": [
+            "Thais",
+            "Liberty Bay"
+          ],
+          "steps": [
+            {
+              "from": "Thais",
+              "to": "Liberty Bay",
+              "method": "boat",
+              "cost": 180
+            }
+          ]
+        },
+        "Port Hope": {
+          "totalCost": 160,
+          "hops": 1,
+          "path": [
+            "Thais",
+            "Port Hope"
+          ],
+          "steps": [
+            {
+              "from": "Thais",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 160
+            }
+          ]
+        },
+        "Svargrond": {
+          "totalCost": 180,
+          "hops": 1,
+          "path": [
+            "Thais",
+            "Svargrond"
+          ],
+          "steps": [
+            {
+              "from": "Thais",
+              "to": "Svargrond",
+              "method": "boat",
+              "cost": 180
+            }
+          ]
+        },
+        "Krailos": {
+          "totalCost": 210,
+          "hops": 2,
+          "path": [
+            "Thais",
+            "Oramond",
+            "Krailos"
+          ],
+          "steps": [
+            {
+              "from": "Thais",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 150
+            },
+            {
+              "from": "Oramond",
+              "to": "Krailos",
+              "method": "boat",
+              "cost": 60
+            }
+          ]
+        },
+        "Issavi": {
+          "totalCost": 260,
+          "hops": 2,
+          "path": [
+            "Thais",
+            "Edron",
+            "Issavi"
+          ],
+          "steps": [
+            {
+              "from": "Thais",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Edron",
+              "to": "Issavi",
+              "method": "carpet",
+              "cost": 100
+            }
+          ]
+        },
+        "Oramond": {
+          "totalCost": 150,
+          "hops": 1,
+          "path": [
+            "Thais",
+            "Oramond"
+          ],
+          "steps": [
+            {
+              "from": "Thais",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 150
+            }
+          ]
+        },
+        "Roshamuul": {
+          "totalCost": 210,
+          "hops": 1,
+          "path": [
+            "Thais",
+            "Roshamuul"
+          ],
+          "steps": [
+            {
+              "from": "Thais",
+              "to": "Roshamuul",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Farmine": {
+          "totalCost": 220,
+          "hops": 2,
+          "path": [
+            "Thais",
+            "Edron",
+            "Farmine"
+          ],
+          "steps": [
+            {
+              "from": "Thais",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Edron",
+              "to": "Farmine",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Femor Hills": {
+          "totalCost": 220,
+          "hops": 2,
+          "path": [
+            "Thais",
+            "Edron",
+            "Femor Hills"
+          ],
+          "steps": [
+            {
+              "from": "Thais",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Edron",
+              "to": "Femor Hills",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Kazordoon": {
+          "totalCost": 230,
+          "hops": 2,
+          "path": [
+            "Thais",
+            "Edron",
+            "Kazordoon"
+          ],
+          "steps": [
+            {
+              "from": "Thais",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Edron",
+              "to": "Kazordoon",
+              "method": "carpet",
+              "cost": 70
+            }
+          ]
+        }
+      },
+      "Venore": {
+        "Ab'Dendriel": {
+          "totalCost": 90,
+          "hops": 1,
+          "path": [
+            "Venore",
+            "Ab'Dendriel"
+          ],
+          "steps": [
+            {
+              "from": "Venore",
+              "to": "Ab'Dendriel",
+              "method": "boat",
+              "cost": 90
+            }
+          ]
+        },
+        "Carlin": {
+          "totalCost": 130,
+          "hops": 1,
+          "path": [
+            "Venore",
+            "Carlin"
+          ],
+          "steps": [
+            {
+              "from": "Venore",
+              "to": "Carlin",
+              "method": "boat",
+              "cost": 130
+            }
+          ]
+        },
+        "Edron": {
+          "totalCost": 40,
+          "hops": 1,
+          "path": [
+            "Venore",
+            "Edron"
+          ],
+          "steps": [
+            {
+              "from": "Venore",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 40
+            }
+          ]
+        },
+        "Thais": {
+          "totalCost": 170,
+          "hops": 1,
+          "path": [
+            "Venore",
+            "Thais"
+          ],
+          "steps": [
+            {
+              "from": "Venore",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 170
+            }
+          ]
+        },
+        "Venore": {
+          "totalCost": 0,
+          "hops": 0,
+          "path": [
+            "Venore"
+          ],
+          "steps": []
+        },
+        "Yalahar": {
+          "totalCost": 185,
+          "hops": 1,
+          "path": [
+            "Venore",
+            "Yalahar"
+          ],
+          "steps": [
+            {
+              "from": "Venore",
+              "to": "Yalahar",
+              "method": "boat",
+              "cost": 185
+            }
+          ]
+        },
+        "Ankrahmun": {
+          "totalCost": 150,
+          "hops": 1,
+          "path": [
+            "Venore",
+            "Ankrahmun"
+          ],
+          "steps": [
+            {
+              "from": "Venore",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 150
+            }
+          ]
+        },
+        "Darashia": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Venore",
+            "Darashia"
+          ],
+          "steps": [
+            {
+              "from": "Venore",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 60
+            }
+          ]
+        },
+        "Liberty Bay": {
+          "totalCost": 180,
+          "hops": 1,
+          "path": [
+            "Venore",
+            "Liberty Bay"
+          ],
+          "steps": [
+            {
+              "from": "Venore",
+              "to": "Liberty Bay",
+              "method": "boat",
+              "cost": 180
+            }
+          ]
+        },
+        "Port Hope": {
+          "totalCost": 160,
+          "hops": 1,
+          "path": [
+            "Venore",
+            "Port Hope"
+          ],
+          "steps": [
+            {
+              "from": "Venore",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 160
+            }
+          ]
+        },
+        "Svargrond": {
+          "totalCost": 100,
+          "hops": 2,
+          "path": [
+            "Venore",
+            "Edron",
+            "Svargrond"
+          ],
+          "steps": [
+            {
+              "from": "Venore",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Svargrond",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Krailos": {
+          "totalCost": 110,
+          "hops": 1,
+          "path": [
+            "Venore",
+            "Krailos"
+          ],
+          "steps": [
+            {
+              "from": "Venore",
+              "to": "Krailos",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Issavi": {
+          "totalCost": 130,
+          "hops": 1,
+          "path": [
+            "Venore",
+            "Issavi"
+          ],
+          "steps": [
+            {
+              "from": "Venore",
+              "to": "Issavi",
+              "method": "boat",
+              "cost": 130
+            }
+          ]
+        },
+        "Oramond": {
+          "totalCost": 130,
+          "hops": 1,
+          "path": [
+            "Venore",
+            "Oramond"
+          ],
+          "steps": [
+            {
+              "from": "Venore",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 130
+            }
+          ]
+        },
+        "Roshamuul": {
+          "totalCost": 380,
+          "hops": 2,
+          "path": [
+            "Venore",
+            "Thais",
+            "Roshamuul"
+          ],
+          "steps": [
+            {
+              "from": "Venore",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 170
+            },
+            {
+              "from": "Thais",
+              "to": "Roshamuul",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Farmine": {
+          "totalCost": 100,
+          "hops": 2,
+          "path": [
+            "Venore",
+            "Edron",
+            "Farmine"
+          ],
+          "steps": [
+            {
+              "from": "Venore",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Farmine",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Femor Hills": {
+          "totalCost": 100,
+          "hops": 2,
+          "path": [
+            "Venore",
+            "Edron",
+            "Femor Hills"
+          ],
+          "steps": [
+            {
+              "from": "Venore",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Femor Hills",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Kazordoon": {
+          "totalCost": 110,
+          "hops": 2,
+          "path": [
+            "Venore",
+            "Edron",
+            "Kazordoon"
+          ],
+          "steps": [
+            {
+              "from": "Venore",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Kazordoon",
+              "method": "carpet",
+              "cost": 70
+            }
+          ]
+        }
+      },
+      "Yalahar": {
+        "Ab'Dendriel": {
+          "totalCost": 160,
+          "hops": 1,
+          "path": [
+            "Yalahar",
+            "Ab'Dendriel"
+          ],
+          "steps": [
+            {
+              "from": "Yalahar",
+              "to": "Ab'Dendriel",
+              "method": "boat",
+              "cost": 160
+            }
+          ]
+        },
+        "Carlin": {
+          "totalCost": 185,
+          "hops": 1,
+          "path": [
+            "Yalahar",
+            "Carlin"
+          ],
+          "steps": [
+            {
+              "from": "Yalahar",
+              "to": "Carlin",
+              "method": "boat",
+              "cost": 185
+            }
+          ]
+        },
+        "Edron": {
+          "totalCost": 225,
+          "hops": 2,
+          "path": [
+            "Yalahar",
+            "Venore",
+            "Edron"
+          ],
+          "steps": [
+            {
+              "from": "Yalahar",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 185
+            },
+            {
+              "from": "Venore",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 40
+            }
+          ]
+        },
+        "Thais": {
+          "totalCost": 200,
+          "hops": 1,
+          "path": [
+            "Yalahar",
+            "Thais"
+          ],
+          "steps": [
+            {
+              "from": "Yalahar",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 200
+            }
+          ]
+        },
+        "Venore": {
+          "totalCost": 185,
+          "hops": 1,
+          "path": [
+            "Yalahar",
+            "Venore"
+          ],
+          "steps": [
+            {
+              "from": "Yalahar",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 185
+            }
+          ]
+        },
+        "Yalahar": {
+          "totalCost": 0,
+          "hops": 0,
+          "path": [
+            "Yalahar"
+          ],
+          "steps": []
+        },
+        "Ankrahmun": {
+          "totalCost": 230,
+          "hops": 1,
+          "path": [
+            "Yalahar",
+            "Ankrahmun"
+          ],
+          "steps": [
+            {
+              "from": "Yalahar",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 230
+            }
+          ]
+        },
+        "Darashia": {
+          "totalCost": 210,
+          "hops": 1,
+          "path": [
+            "Yalahar",
+            "Darashia"
+          ],
+          "steps": [
+            {
+              "from": "Yalahar",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Liberty Bay": {
+          "totalCost": 275,
+          "hops": 1,
+          "path": [
+            "Yalahar",
+            "Liberty Bay"
+          ],
+          "steps": [
+            {
+              "from": "Yalahar",
+              "to": "Liberty Bay",
+              "method": "boat",
+              "cost": 275
+            }
+          ]
+        },
+        "Port Hope": {
+          "totalCost": 260,
+          "hops": 1,
+          "path": [
+            "Yalahar",
+            "Port Hope"
+          ],
+          "steps": [
+            {
+              "from": "Yalahar",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 260
+            }
+          ]
+        },
+        "Svargrond": {
+          "totalCost": 270,
+          "hops": 2,
+          "path": [
+            "Yalahar",
+            "Darashia",
+            "Svargrond"
+          ],
+          "steps": [
+            {
+              "from": "Yalahar",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Darashia",
+              "to": "Svargrond",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Krailos": {
+          "totalCost": 295,
+          "hops": 2,
+          "path": [
+            "Yalahar",
+            "Venore",
+            "Krailos"
+          ],
+          "steps": [
+            {
+              "from": "Yalahar",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 185
+            },
+            {
+              "from": "Venore",
+              "to": "Krailos",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Issavi": {
+          "totalCost": 310,
+          "hops": 2,
+          "path": [
+            "Yalahar",
+            "Darashia",
+            "Issavi"
+          ],
+          "steps": [
+            {
+              "from": "Yalahar",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Darashia",
+              "to": "Issavi",
+              "method": "carpet",
+              "cost": 100
+            }
+          ]
+        },
+        "Oramond": {
+          "totalCost": 315,
+          "hops": 2,
+          "path": [
+            "Yalahar",
+            "Venore",
+            "Oramond"
+          ],
+          "steps": [
+            {
+              "from": "Yalahar",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 185
+            },
+            {
+              "from": "Venore",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 130
+            }
+          ]
+        },
+        "Roshamuul": {
+          "totalCost": 410,
+          "hops": 2,
+          "path": [
+            "Yalahar",
+            "Thais",
+            "Roshamuul"
+          ],
+          "steps": [
+            {
+              "from": "Yalahar",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 200
+            },
+            {
+              "from": "Thais",
+              "to": "Roshamuul",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Farmine": {
+          "totalCost": 270,
+          "hops": 2,
+          "path": [
+            "Yalahar",
+            "Darashia",
+            "Farmine"
+          ],
+          "steps": [
+            {
+              "from": "Yalahar",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Darashia",
+              "to": "Farmine",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Femor Hills": {
+          "totalCost": 270,
+          "hops": 2,
+          "path": [
+            "Yalahar",
+            "Darashia",
+            "Femor Hills"
+          ],
+          "steps": [
+            {
+              "from": "Yalahar",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Darashia",
+              "to": "Femor Hills",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Kazordoon": {
+          "totalCost": 290,
+          "hops": 2,
+          "path": [
+            "Yalahar",
+            "Darashia",
+            "Kazordoon"
+          ],
+          "steps": [
+            {
+              "from": "Yalahar",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Darashia",
+              "to": "Kazordoon",
+              "method": "carpet",
+              "cost": 80
+            }
+          ]
+        }
+      },
+      "Ankrahmun": {
+        "Ab'Dendriel": {
+          "totalCost": 210,
+          "hops": 3,
+          "path": [
+            "Ankrahmun",
+            "Darashia",
+            "Edron",
+            "Ab'Dendriel"
+          ],
+          "steps": [
+            {
+              "from": "Ankrahmun",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 100
+            },
+            {
+              "from": "Darashia",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Ab'Dendriel",
+              "method": "boat",
+              "cost": 70
+            }
+          ]
+        },
+        "Carlin": {
+          "totalCost": 250,
+          "hops": 3,
+          "path": [
+            "Ankrahmun",
+            "Darashia",
+            "Edron",
+            "Carlin"
+          ],
+          "steps": [
+            {
+              "from": "Ankrahmun",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 100
+            },
+            {
+              "from": "Darashia",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Carlin",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Edron": {
+          "totalCost": 140,
+          "hops": 2,
+          "path": [
+            "Ankrahmun",
+            "Darashia",
+            "Edron"
+          ],
+          "steps": [
+            {
+              "from": "Ankrahmun",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 100
+            },
+            {
+              "from": "Darashia",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            }
+          ]
+        },
+        "Thais": {
+          "totalCost": 240,
+          "hops": 2,
+          "path": [
+            "Ankrahmun",
+            "Port Hope",
+            "Thais"
+          ],
+          "steps": [
+            {
+              "from": "Ankrahmun",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 80
+            },
+            {
+              "from": "Port Hope",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 160
+            }
+          ]
+        },
+        "Venore": {
+          "totalCost": 150,
+          "hops": 1,
+          "path": [
+            "Ankrahmun",
+            "Venore"
+          ],
+          "steps": [
+            {
+              "from": "Ankrahmun",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 150
+            }
+          ]
+        },
+        "Yalahar": {
+          "totalCost": 230,
+          "hops": 1,
+          "path": [
+            "Ankrahmun",
+            "Yalahar"
+          ],
+          "steps": [
+            {
+              "from": "Ankrahmun",
+              "to": "Yalahar",
+              "method": "boat",
+              "cost": 230
+            }
+          ]
+        },
+        "Ankrahmun": {
+          "totalCost": 0,
+          "hops": 0,
+          "path": [
+            "Ankrahmun"
+          ],
+          "steps": []
+        },
+        "Darashia": {
+          "totalCost": 100,
+          "hops": 1,
+          "path": [
+            "Ankrahmun",
+            "Darashia"
+          ],
+          "steps": [
+            {
+              "from": "Ankrahmun",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Liberty Bay": {
+          "totalCost": 90,
+          "hops": 1,
+          "path": [
+            "Ankrahmun",
+            "Liberty Bay"
+          ],
+          "steps": [
+            {
+              "from": "Ankrahmun",
+              "to": "Liberty Bay",
+              "method": "boat",
+              "cost": 90
+            }
+          ]
+        },
+        "Port Hope": {
+          "totalCost": 80,
+          "hops": 1,
+          "path": [
+            "Ankrahmun",
+            "Port Hope"
+          ],
+          "steps": [
+            {
+              "from": "Ankrahmun",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 80
+            }
+          ]
+        },
+        "Svargrond": {
+          "totalCost": 160,
+          "hops": 2,
+          "path": [
+            "Ankrahmun",
+            "Darashia",
+            "Svargrond"
+          ],
+          "steps": [
+            {
+              "from": "Ankrahmun",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 100
+            },
+            {
+              "from": "Darashia",
+              "to": "Svargrond",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Krailos": {
+          "totalCost": 210,
+          "hops": 2,
+          "path": [
+            "Ankrahmun",
+            "Darashia",
+            "Krailos"
+          ],
+          "steps": [
+            {
+              "from": "Ankrahmun",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 100
+            },
+            {
+              "from": "Darashia",
+              "to": "Krailos",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Issavi": {
+          "totalCost": 200,
+          "hops": 2,
+          "path": [
+            "Ankrahmun",
+            "Darashia",
+            "Issavi"
+          ],
+          "steps": [
+            {
+              "from": "Ankrahmun",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 100
+            },
+            {
+              "from": "Darashia",
+              "to": "Issavi",
+              "method": "carpet",
+              "cost": 100
+            }
+          ]
+        },
+        "Oramond": {
+          "totalCost": 250,
+          "hops": 3,
+          "path": [
+            "Ankrahmun",
+            "Darashia",
+            "Edron",
+            "Oramond"
+          ],
+          "steps": [
+            {
+              "from": "Ankrahmun",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 100
+            },
+            {
+              "from": "Darashia",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Roshamuul": {
+          "totalCost": 450,
+          "hops": 3,
+          "path": [
+            "Ankrahmun",
+            "Port Hope",
+            "Thais",
+            "Roshamuul"
+          ],
+          "steps": [
+            {
+              "from": "Ankrahmun",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 80
+            },
+            {
+              "from": "Port Hope",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Thais",
+              "to": "Roshamuul",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Farmine": {
+          "totalCost": 160,
+          "hops": 2,
+          "path": [
+            "Ankrahmun",
+            "Darashia",
+            "Farmine"
+          ],
+          "steps": [
+            {
+              "from": "Ankrahmun",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 100
+            },
+            {
+              "from": "Darashia",
+              "to": "Farmine",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Femor Hills": {
+          "totalCost": 160,
+          "hops": 2,
+          "path": [
+            "Ankrahmun",
+            "Darashia",
+            "Femor Hills"
+          ],
+          "steps": [
+            {
+              "from": "Ankrahmun",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 100
+            },
+            {
+              "from": "Darashia",
+              "to": "Femor Hills",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Kazordoon": {
+          "totalCost": 180,
+          "hops": 2,
+          "path": [
+            "Ankrahmun",
+            "Darashia",
+            "Kazordoon"
+          ],
+          "steps": [
+            {
+              "from": "Ankrahmun",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 100
+            },
+            {
+              "from": "Darashia",
+              "to": "Kazordoon",
+              "method": "carpet",
+              "cost": 80
+            }
+          ]
+        }
+      },
+      "Darashia": {
+        "Ab'Dendriel": {
+          "totalCost": 110,
+          "hops": 2,
+          "path": [
+            "Darashia",
+            "Edron",
+            "Ab'Dendriel"
+          ],
+          "steps": [
+            {
+              "from": "Darashia",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Ab'Dendriel",
+              "method": "boat",
+              "cost": 70
+            }
+          ]
+        },
+        "Carlin": {
+          "totalCost": 150,
+          "hops": 2,
+          "path": [
+            "Darashia",
+            "Edron",
+            "Carlin"
+          ],
+          "steps": [
+            {
+              "from": "Darashia",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Carlin",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Edron": {
+          "totalCost": 40,
+          "hops": 1,
+          "path": [
+            "Darashia",
+            "Edron"
+          ],
+          "steps": [
+            {
+              "from": "Darashia",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            }
+          ]
+        },
+        "Thais": {
+          "totalCost": 200,
+          "hops": 2,
+          "path": [
+            "Darashia",
+            "Edron",
+            "Thais"
+          ],
+          "steps": [
+            {
+              "from": "Darashia",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 160
+            }
+          ]
+        },
+        "Venore": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Darashia",
+            "Venore"
+          ],
+          "steps": [
+            {
+              "from": "Darashia",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 60
+            }
+          ]
+        },
+        "Yalahar": {
+          "totalCost": 210,
+          "hops": 1,
+          "path": [
+            "Darashia",
+            "Yalahar"
+          ],
+          "steps": [
+            {
+              "from": "Darashia",
+              "to": "Yalahar",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Ankrahmun": {
+          "totalCost": 100,
+          "hops": 1,
+          "path": [
+            "Darashia",
+            "Ankrahmun"
+          ],
+          "steps": [
+            {
+              "from": "Darashia",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Darashia": {
+          "totalCost": 0,
+          "hops": 0,
+          "path": [
+            "Darashia"
+          ],
+          "steps": []
+        },
+        "Liberty Bay": {
+          "totalCost": 190,
+          "hops": 2,
+          "path": [
+            "Darashia",
+            "Ankrahmun",
+            "Liberty Bay"
+          ],
+          "steps": [
+            {
+              "from": "Darashia",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 100
+            },
+            {
+              "from": "Ankrahmun",
+              "to": "Liberty Bay",
+              "method": "boat",
+              "cost": 90
+            }
+          ]
+        },
+        "Port Hope": {
+          "totalCost": 180,
+          "hops": 1,
+          "path": [
+            "Darashia",
+            "Port Hope"
+          ],
+          "steps": [
+            {
+              "from": "Darashia",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 180
+            }
+          ]
+        },
+        "Svargrond": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Darashia",
+            "Svargrond"
+          ],
+          "steps": [
+            {
+              "from": "Darashia",
+              "to": "Svargrond",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Krailos": {
+          "totalCost": 110,
+          "hops": 1,
+          "path": [
+            "Darashia",
+            "Krailos"
+          ],
+          "steps": [
+            {
+              "from": "Darashia",
+              "to": "Krailos",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Issavi": {
+          "totalCost": 100,
+          "hops": 1,
+          "path": [
+            "Darashia",
+            "Issavi"
+          ],
+          "steps": [
+            {
+              "from": "Darashia",
+              "to": "Issavi",
+              "method": "carpet",
+              "cost": 100
+            }
+          ]
+        },
+        "Oramond": {
+          "totalCost": 150,
+          "hops": 2,
+          "path": [
+            "Darashia",
+            "Edron",
+            "Oramond"
+          ],
+          "steps": [
+            {
+              "from": "Darashia",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Roshamuul": {
+          "totalCost": 410,
+          "hops": 3,
+          "path": [
+            "Darashia",
+            "Edron",
+            "Thais",
+            "Roshamuul"
+          ],
+          "steps": [
+            {
+              "from": "Darashia",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Thais",
+              "to": "Roshamuul",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Farmine": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Darashia",
+            "Farmine"
+          ],
+          "steps": [
+            {
+              "from": "Darashia",
+              "to": "Farmine",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Femor Hills": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Darashia",
+            "Femor Hills"
+          ],
+          "steps": [
+            {
+              "from": "Darashia",
+              "to": "Femor Hills",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Kazordoon": {
+          "totalCost": 80,
+          "hops": 1,
+          "path": [
+            "Darashia",
+            "Kazordoon"
+          ],
+          "steps": [
+            {
+              "from": "Darashia",
+              "to": "Kazordoon",
+              "method": "carpet",
+              "cost": 80
+            }
+          ]
+        }
+      },
+      "Liberty Bay": {
+        "Ab'Dendriel": {
+          "totalCost": 240,
+          "hops": 2,
+          "path": [
+            "Liberty Bay",
+            "Edron",
+            "Ab'Dendriel"
+          ],
+          "steps": [
+            {
+              "from": "Liberty Bay",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 170
+            },
+            {
+              "from": "Edron",
+              "to": "Ab'Dendriel",
+              "method": "boat",
+              "cost": 70
+            }
+          ]
+        },
+        "Carlin": {
+          "totalCost": 280,
+          "hops": 2,
+          "path": [
+            "Liberty Bay",
+            "Edron",
+            "Carlin"
+          ],
+          "steps": [
+            {
+              "from": "Liberty Bay",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 170
+            },
+            {
+              "from": "Edron",
+              "to": "Carlin",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Edron": {
+          "totalCost": 170,
+          "hops": 1,
+          "path": [
+            "Liberty Bay",
+            "Edron"
+          ],
+          "steps": [
+            {
+              "from": "Liberty Bay",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 170
+            }
+          ]
+        },
+        "Thais": {
+          "totalCost": 180,
+          "hops": 1,
+          "path": [
+            "Liberty Bay",
+            "Thais"
+          ],
+          "steps": [
+            {
+              "from": "Liberty Bay",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 180
+            }
+          ]
+        },
+        "Venore": {
+          "totalCost": 180,
+          "hops": 1,
+          "path": [
+            "Liberty Bay",
+            "Venore"
+          ],
+          "steps": [
+            {
+              "from": "Liberty Bay",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 180
+            }
+          ]
+        },
+        "Yalahar": {
+          "totalCost": 275,
+          "hops": 1,
+          "path": [
+            "Liberty Bay",
+            "Yalahar"
+          ],
+          "steps": [
+            {
+              "from": "Liberty Bay",
+              "to": "Yalahar",
+              "method": "boat",
+              "cost": 275
+            }
+          ]
+        },
+        "Ankrahmun": {
+          "totalCost": 90,
+          "hops": 1,
+          "path": [
+            "Liberty Bay",
+            "Ankrahmun"
+          ],
+          "steps": [
+            {
+              "from": "Liberty Bay",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 90
+            }
+          ]
+        },
+        "Darashia": {
+          "totalCost": 190,
+          "hops": 2,
+          "path": [
+            "Liberty Bay",
+            "Ankrahmun",
+            "Darashia"
+          ],
+          "steps": [
+            {
+              "from": "Liberty Bay",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 90
+            },
+            {
+              "from": "Ankrahmun",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Liberty Bay": {
+          "totalCost": 0,
+          "hops": 0,
+          "path": [
+            "Liberty Bay"
+          ],
+          "steps": []
+        },
+        "Port Hope": {
+          "totalCost": 50,
+          "hops": 1,
+          "path": [
+            "Liberty Bay",
+            "Port Hope"
+          ],
+          "steps": [
+            {
+              "from": "Liberty Bay",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 50
+            }
+          ]
+        },
+        "Svargrond": {
+          "totalCost": 230,
+          "hops": 2,
+          "path": [
+            "Liberty Bay",
+            "Edron",
+            "Svargrond"
+          ],
+          "steps": [
+            {
+              "from": "Liberty Bay",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 170
+            },
+            {
+              "from": "Edron",
+              "to": "Svargrond",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Krailos": {
+          "totalCost": 270,
+          "hops": 2,
+          "path": [
+            "Liberty Bay",
+            "Edron",
+            "Krailos"
+          ],
+          "steps": [
+            {
+              "from": "Liberty Bay",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 170
+            },
+            {
+              "from": "Edron",
+              "to": "Krailos",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Issavi": {
+          "totalCost": 270,
+          "hops": 2,
+          "path": [
+            "Liberty Bay",
+            "Edron",
+            "Issavi"
+          ],
+          "steps": [
+            {
+              "from": "Liberty Bay",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 170
+            },
+            {
+              "from": "Edron",
+              "to": "Issavi",
+              "method": "carpet",
+              "cost": 100
+            }
+          ]
+        },
+        "Oramond": {
+          "totalCost": 250,
+          "hops": 2,
+          "path": [
+            "Liberty Bay",
+            "Port Hope",
+            "Oramond"
+          ],
+          "steps": [
+            {
+              "from": "Liberty Bay",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 50
+            },
+            {
+              "from": "Port Hope",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 200
+            }
+          ]
+        },
+        "Roshamuul": {
+          "totalCost": 390,
+          "hops": 2,
+          "path": [
+            "Liberty Bay",
+            "Thais",
+            "Roshamuul"
+          ],
+          "steps": [
+            {
+              "from": "Liberty Bay",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 180
+            },
+            {
+              "from": "Thais",
+              "to": "Roshamuul",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Farmine": {
+          "totalCost": 230,
+          "hops": 2,
+          "path": [
+            "Liberty Bay",
+            "Edron",
+            "Farmine"
+          ],
+          "steps": [
+            {
+              "from": "Liberty Bay",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 170
+            },
+            {
+              "from": "Edron",
+              "to": "Farmine",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Femor Hills": {
+          "totalCost": 230,
+          "hops": 2,
+          "path": [
+            "Liberty Bay",
+            "Edron",
+            "Femor Hills"
+          ],
+          "steps": [
+            {
+              "from": "Liberty Bay",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 170
+            },
+            {
+              "from": "Edron",
+              "to": "Femor Hills",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Kazordoon": {
+          "totalCost": 240,
+          "hops": 2,
+          "path": [
+            "Liberty Bay",
+            "Edron",
+            "Kazordoon"
+          ],
+          "steps": [
+            {
+              "from": "Liberty Bay",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 170
+            },
+            {
+              "from": "Edron",
+              "to": "Kazordoon",
+              "method": "carpet",
+              "cost": 70
+            }
+          ]
+        }
+      },
+      "Port Hope": {
+        "Ab'Dendriel": {
+          "totalCost": 220,
+          "hops": 2,
+          "path": [
+            "Port Hope",
+            "Edron",
+            "Ab'Dendriel"
+          ],
+          "steps": [
+            {
+              "from": "Port Hope",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 150
+            },
+            {
+              "from": "Edron",
+              "to": "Ab'Dendriel",
+              "method": "boat",
+              "cost": 70
+            }
+          ]
+        },
+        "Carlin": {
+          "totalCost": 260,
+          "hops": 2,
+          "path": [
+            "Port Hope",
+            "Edron",
+            "Carlin"
+          ],
+          "steps": [
+            {
+              "from": "Port Hope",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 150
+            },
+            {
+              "from": "Edron",
+              "to": "Carlin",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Edron": {
+          "totalCost": 150,
+          "hops": 1,
+          "path": [
+            "Port Hope",
+            "Edron"
+          ],
+          "steps": [
+            {
+              "from": "Port Hope",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 150
+            }
+          ]
+        },
+        "Thais": {
+          "totalCost": 160,
+          "hops": 1,
+          "path": [
+            "Port Hope",
+            "Thais"
+          ],
+          "steps": [
+            {
+              "from": "Port Hope",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 160
+            }
+          ]
+        },
+        "Venore": {
+          "totalCost": 160,
+          "hops": 1,
+          "path": [
+            "Port Hope",
+            "Venore"
+          ],
+          "steps": [
+            {
+              "from": "Port Hope",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 160
+            }
+          ]
+        },
+        "Yalahar": {
+          "totalCost": 260,
+          "hops": 1,
+          "path": [
+            "Port Hope",
+            "Yalahar"
+          ],
+          "steps": [
+            {
+              "from": "Port Hope",
+              "to": "Yalahar",
+              "method": "boat",
+              "cost": 260
+            }
+          ]
+        },
+        "Ankrahmun": {
+          "totalCost": 110,
+          "hops": 1,
+          "path": [
+            "Port Hope",
+            "Ankrahmun"
+          ],
+          "steps": [
+            {
+              "from": "Port Hope",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Darashia": {
+          "totalCost": 180,
+          "hops": 1,
+          "path": [
+            "Port Hope",
+            "Darashia"
+          ],
+          "steps": [
+            {
+              "from": "Port Hope",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 180
+            }
+          ]
+        },
+        "Liberty Bay": {
+          "totalCost": 50,
+          "hops": 1,
+          "path": [
+            "Port Hope",
+            "Liberty Bay"
+          ],
+          "steps": [
+            {
+              "from": "Port Hope",
+              "to": "Liberty Bay",
+              "method": "boat",
+              "cost": 50
+            }
+          ]
+        },
+        "Port Hope": {
+          "totalCost": 0,
+          "hops": 0,
+          "path": [
+            "Port Hope"
+          ],
+          "steps": []
+        },
+        "Svargrond": {
+          "totalCost": 210,
+          "hops": 2,
+          "path": [
+            "Port Hope",
+            "Edron",
+            "Svargrond"
+          ],
+          "steps": [
+            {
+              "from": "Port Hope",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 150
+            },
+            {
+              "from": "Edron",
+              "to": "Svargrond",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Krailos": {
+          "totalCost": 250,
+          "hops": 2,
+          "path": [
+            "Port Hope",
+            "Edron",
+            "Krailos"
+          ],
+          "steps": [
+            {
+              "from": "Port Hope",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 150
+            },
+            {
+              "from": "Edron",
+              "to": "Krailos",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Issavi": {
+          "totalCost": 250,
+          "hops": 2,
+          "path": [
+            "Port Hope",
+            "Edron",
+            "Issavi"
+          ],
+          "steps": [
+            {
+              "from": "Port Hope",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 150
+            },
+            {
+              "from": "Edron",
+              "to": "Issavi",
+              "method": "carpet",
+              "cost": 100
+            }
+          ]
+        },
+        "Oramond": {
+          "totalCost": 200,
+          "hops": 1,
+          "path": [
+            "Port Hope",
+            "Oramond"
+          ],
+          "steps": [
+            {
+              "from": "Port Hope",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 200
+            }
+          ]
+        },
+        "Roshamuul": {
+          "totalCost": 370,
+          "hops": 2,
+          "path": [
+            "Port Hope",
+            "Thais",
+            "Roshamuul"
+          ],
+          "steps": [
+            {
+              "from": "Port Hope",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Thais",
+              "to": "Roshamuul",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Farmine": {
+          "totalCost": 210,
+          "hops": 2,
+          "path": [
+            "Port Hope",
+            "Edron",
+            "Farmine"
+          ],
+          "steps": [
+            {
+              "from": "Port Hope",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 150
+            },
+            {
+              "from": "Edron",
+              "to": "Farmine",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Femor Hills": {
+          "totalCost": 210,
+          "hops": 2,
+          "path": [
+            "Port Hope",
+            "Edron",
+            "Femor Hills"
+          ],
+          "steps": [
+            {
+              "from": "Port Hope",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 150
+            },
+            {
+              "from": "Edron",
+              "to": "Femor Hills",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Kazordoon": {
+          "totalCost": 220,
+          "hops": 2,
+          "path": [
+            "Port Hope",
+            "Edron",
+            "Kazordoon"
+          ],
+          "steps": [
+            {
+              "from": "Port Hope",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 150
+            },
+            {
+              "from": "Edron",
+              "to": "Kazordoon",
+              "method": "carpet",
+              "cost": 70
+            }
+          ]
+        }
+      },
+      "Svargrond": {
+        "Ab'Dendriel": {
+          "totalCost": 130,
+          "hops": 2,
+          "path": [
+            "Svargrond",
+            "Edron",
+            "Ab'Dendriel"
+          ],
+          "steps": [
+            {
+              "from": "Svargrond",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Ab'Dendriel",
+              "method": "boat",
+              "cost": 70
+            }
+          ]
+        },
+        "Carlin": {
+          "totalCost": 110,
+          "hops": 1,
+          "path": [
+            "Svargrond",
+            "Carlin"
+          ],
+          "steps": [
+            {
+              "from": "Svargrond",
+              "to": "Carlin",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Edron": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Svargrond",
+            "Edron"
+          ],
+          "steps": [
+            {
+              "from": "Svargrond",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Thais": {
+          "totalCost": 180,
+          "hops": 1,
+          "path": [
+            "Svargrond",
+            "Thais"
+          ],
+          "steps": [
+            {
+              "from": "Svargrond",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 180
+            }
+          ]
+        },
+        "Venore": {
+          "totalCost": 100,
+          "hops": 2,
+          "path": [
+            "Svargrond",
+            "Edron",
+            "Venore"
+          ],
+          "steps": [
+            {
+              "from": "Svargrond",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 40
+            }
+          ]
+        },
+        "Yalahar": {
+          "totalCost": 270,
+          "hops": 2,
+          "path": [
+            "Svargrond",
+            "Darashia",
+            "Yalahar"
+          ],
+          "steps": [
+            {
+              "from": "Svargrond",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Darashia",
+              "to": "Yalahar",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Ankrahmun": {
+          "totalCost": 160,
+          "hops": 2,
+          "path": [
+            "Svargrond",
+            "Darashia",
+            "Ankrahmun"
+          ],
+          "steps": [
+            {
+              "from": "Svargrond",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Darashia",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Darashia": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Svargrond",
+            "Darashia"
+          ],
+          "steps": [
+            {
+              "from": "Svargrond",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Liberty Bay": {
+          "totalCost": 230,
+          "hops": 2,
+          "path": [
+            "Svargrond",
+            "Edron",
+            "Liberty Bay"
+          ],
+          "steps": [
+            {
+              "from": "Svargrond",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Liberty Bay",
+              "method": "boat",
+              "cost": 170
+            }
+          ]
+        },
+        "Port Hope": {
+          "totalCost": 210,
+          "hops": 2,
+          "path": [
+            "Svargrond",
+            "Edron",
+            "Port Hope"
+          ],
+          "steps": [
+            {
+              "from": "Svargrond",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 150
+            }
+          ]
+        },
+        "Svargrond": {
+          "totalCost": 0,
+          "hops": 0,
+          "path": [
+            "Svargrond"
+          ],
+          "steps": []
+        },
+        "Krailos": {
+          "totalCost": 160,
+          "hops": 2,
+          "path": [
+            "Svargrond",
+            "Edron",
+            "Krailos"
+          ],
+          "steps": [
+            {
+              "from": "Svargrond",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Krailos",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Issavi": {
+          "totalCost": 100,
+          "hops": 1,
+          "path": [
+            "Svargrond",
+            "Issavi"
+          ],
+          "steps": [
+            {
+              "from": "Svargrond",
+              "to": "Issavi",
+              "method": "carpet",
+              "cost": 100
+            }
+          ]
+        },
+        "Oramond": {
+          "totalCost": 170,
+          "hops": 2,
+          "path": [
+            "Svargrond",
+            "Edron",
+            "Oramond"
+          ],
+          "steps": [
+            {
+              "from": "Svargrond",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Roshamuul": {
+          "totalCost": 390,
+          "hops": 2,
+          "path": [
+            "Svargrond",
+            "Thais",
+            "Roshamuul"
+          ],
+          "steps": [
+            {
+              "from": "Svargrond",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 180
+            },
+            {
+              "from": "Thais",
+              "to": "Roshamuul",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Farmine": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Svargrond",
+            "Farmine"
+          ],
+          "steps": [
+            {
+              "from": "Svargrond",
+              "to": "Farmine",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Femor Hills": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Svargrond",
+            "Femor Hills"
+          ],
+          "steps": [
+            {
+              "from": "Svargrond",
+              "to": "Femor Hills",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Kazordoon": {
+          "totalCost": 70,
+          "hops": 1,
+          "path": [
+            "Svargrond",
+            "Kazordoon"
+          ],
+          "steps": [
+            {
+              "from": "Svargrond",
+              "to": "Kazordoon",
+              "method": "carpet",
+              "cost": 70
+            }
+          ]
+        }
+      },
+      "Krailos": {
+        "Ab'Dendriel": {
+          "totalCost": 170,
+          "hops": 2,
+          "path": [
+            "Krailos",
+            "Edron",
+            "Ab'Dendriel"
+          ],
+          "steps": [
+            {
+              "from": "Krailos",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 100
+            },
+            {
+              "from": "Edron",
+              "to": "Ab'Dendriel",
+              "method": "boat",
+              "cost": 70
+            }
+          ]
+        },
+        "Carlin": {
+          "totalCost": 210,
+          "hops": 2,
+          "path": [
+            "Krailos",
+            "Edron",
+            "Carlin"
+          ],
+          "steps": [
+            {
+              "from": "Krailos",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 100
+            },
+            {
+              "from": "Edron",
+              "to": "Carlin",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Edron": {
+          "totalCost": 100,
+          "hops": 1,
+          "path": [
+            "Krailos",
+            "Edron"
+          ],
+          "steps": [
+            {
+              "from": "Krailos",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Thais": {
+          "totalCost": 210,
+          "hops": 2,
+          "path": [
+            "Krailos",
+            "Oramond",
+            "Thais"
+          ],
+          "steps": [
+            {
+              "from": "Krailos",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 60
+            },
+            {
+              "from": "Oramond",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 150
+            }
+          ]
+        },
+        "Venore": {
+          "totalCost": 110,
+          "hops": 1,
+          "path": [
+            "Krailos",
+            "Venore"
+          ],
+          "steps": [
+            {
+              "from": "Krailos",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Yalahar": {
+          "totalCost": 295,
+          "hops": 2,
+          "path": [
+            "Krailos",
+            "Venore",
+            "Yalahar"
+          ],
+          "steps": [
+            {
+              "from": "Krailos",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Venore",
+              "to": "Yalahar",
+              "method": "boat",
+              "cost": 185
+            }
+          ]
+        },
+        "Ankrahmun": {
+          "totalCost": 210,
+          "hops": 2,
+          "path": [
+            "Krailos",
+            "Darashia",
+            "Ankrahmun"
+          ],
+          "steps": [
+            {
+              "from": "Krailos",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Darashia",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Darashia": {
+          "totalCost": 110,
+          "hops": 1,
+          "path": [
+            "Krailos",
+            "Darashia"
+          ],
+          "steps": [
+            {
+              "from": "Krailos",
+              "to": "Darashia",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Liberty Bay": {
+          "totalCost": 270,
+          "hops": 2,
+          "path": [
+            "Krailos",
+            "Edron",
+            "Liberty Bay"
+          ],
+          "steps": [
+            {
+              "from": "Krailos",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 100
+            },
+            {
+              "from": "Edron",
+              "to": "Liberty Bay",
+              "method": "boat",
+              "cost": 170
+            }
+          ]
+        },
+        "Port Hope": {
+          "totalCost": 250,
+          "hops": 2,
+          "path": [
+            "Krailos",
+            "Edron",
+            "Port Hope"
+          ],
+          "steps": [
+            {
+              "from": "Krailos",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 100
+            },
+            {
+              "from": "Edron",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 150
+            }
+          ]
+        },
+        "Svargrond": {
+          "totalCost": 130,
+          "hops": 2,
+          "path": [
+            "Krailos",
+            "Issavi",
+            "Svargrond"
+          ],
+          "steps": [
+            {
+              "from": "Krailos",
+              "to": "Issavi",
+              "method": "boat",
+              "cost": 70
+            },
+            {
+              "from": "Issavi",
+              "to": "Svargrond",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Krailos": {
+          "totalCost": 0,
+          "hops": 0,
+          "path": [
+            "Krailos"
+          ],
+          "steps": []
+        },
+        "Issavi": {
+          "totalCost": 70,
+          "hops": 1,
+          "path": [
+            "Krailos",
+            "Issavi"
+          ],
+          "steps": [
+            {
+              "from": "Krailos",
+              "to": "Issavi",
+              "method": "boat",
+              "cost": 70
+            }
+          ]
+        },
+        "Oramond": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Krailos",
+            "Oramond"
+          ],
+          "steps": [
+            {
+              "from": "Krailos",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 60
+            }
+          ]
+        },
+        "Roshamuul": {
+          "totalCost": 420,
+          "hops": 3,
+          "path": [
+            "Krailos",
+            "Oramond",
+            "Thais",
+            "Roshamuul"
+          ],
+          "steps": [
+            {
+              "from": "Krailos",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 60
+            },
+            {
+              "from": "Oramond",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 150
+            },
+            {
+              "from": "Thais",
+              "to": "Roshamuul",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Farmine": {
+          "totalCost": 130,
+          "hops": 2,
+          "path": [
+            "Krailos",
+            "Issavi",
+            "Farmine"
+          ],
+          "steps": [
+            {
+              "from": "Krailos",
+              "to": "Issavi",
+              "method": "boat",
+              "cost": 70
+            },
+            {
+              "from": "Issavi",
+              "to": "Farmine",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Femor Hills": {
+          "totalCost": 130,
+          "hops": 2,
+          "path": [
+            "Krailos",
+            "Issavi",
+            "Femor Hills"
+          ],
+          "steps": [
+            {
+              "from": "Krailos",
+              "to": "Issavi",
+              "method": "boat",
+              "cost": 70
+            },
+            {
+              "from": "Issavi",
+              "to": "Femor Hills",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Kazordoon": {
+          "totalCost": 140,
+          "hops": 2,
+          "path": [
+            "Krailos",
+            "Issavi",
+            "Kazordoon"
+          ],
+          "steps": [
+            {
+              "from": "Krailos",
+              "to": "Issavi",
+              "method": "boat",
+              "cost": 70
+            },
+            {
+              "from": "Issavi",
+              "to": "Kazordoon",
+              "method": "carpet",
+              "cost": 70
+            }
+          ]
+        }
+      },
+      "Issavi": {
+        "Ab'Dendriel": {
+          "totalCost": 130,
+          "hops": 2,
+          "path": [
+            "Issavi",
+            "Edron",
+            "Ab'Dendriel"
+          ],
+          "steps": [
+            {
+              "from": "Issavi",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Ab'Dendriel",
+              "method": "boat",
+              "cost": 70
+            }
+          ]
+        },
+        "Carlin": {
+          "totalCost": 170,
+          "hops": 2,
+          "path": [
+            "Issavi",
+            "Edron",
+            "Carlin"
+          ],
+          "steps": [
+            {
+              "from": "Issavi",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Carlin",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Edron": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Issavi",
+            "Edron"
+          ],
+          "steps": [
+            {
+              "from": "Issavi",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Thais": {
+          "totalCost": 220,
+          "hops": 2,
+          "path": [
+            "Issavi",
+            "Edron",
+            "Thais"
+          ],
+          "steps": [
+            {
+              "from": "Issavi",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 160
+            }
+          ]
+        },
+        "Venore": {
+          "totalCost": 80,
+          "hops": 1,
+          "path": [
+            "Issavi",
+            "Venore"
+          ],
+          "steps": [
+            {
+              "from": "Issavi",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 80
+            }
+          ]
+        },
+        "Yalahar": {
+          "totalCost": 250,
+          "hops": 2,
+          "path": [
+            "Issavi",
+            "Darashia",
+            "Yalahar"
+          ],
+          "steps": [
+            {
+              "from": "Issavi",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Darashia",
+              "to": "Yalahar",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Ankrahmun": {
+          "totalCost": 140,
+          "hops": 2,
+          "path": [
+            "Issavi",
+            "Darashia",
+            "Ankrahmun"
+          ],
+          "steps": [
+            {
+              "from": "Issavi",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Darashia",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Darashia": {
+          "totalCost": 40,
+          "hops": 1,
+          "path": [
+            "Issavi",
+            "Darashia"
+          ],
+          "steps": [
+            {
+              "from": "Issavi",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 40
+            }
+          ]
+        },
+        "Liberty Bay": {
+          "totalCost": 230,
+          "hops": 2,
+          "path": [
+            "Issavi",
+            "Edron",
+            "Liberty Bay"
+          ],
+          "steps": [
+            {
+              "from": "Issavi",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Liberty Bay",
+              "method": "boat",
+              "cost": 170
+            }
+          ]
+        },
+        "Port Hope": {
+          "totalCost": 210,
+          "hops": 2,
+          "path": [
+            "Issavi",
+            "Edron",
+            "Port Hope"
+          ],
+          "steps": [
+            {
+              "from": "Issavi",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 150
+            }
+          ]
+        },
+        "Svargrond": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Issavi",
+            "Svargrond"
+          ],
+          "steps": [
+            {
+              "from": "Issavi",
+              "to": "Svargrond",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Krailos": {
+          "totalCost": 80,
+          "hops": 1,
+          "path": [
+            "Issavi",
+            "Krailos"
+          ],
+          "steps": [
+            {
+              "from": "Issavi",
+              "to": "Krailos",
+              "method": "boat",
+              "cost": 80
+            }
+          ]
+        },
+        "Issavi": {
+          "totalCost": 0,
+          "hops": 0,
+          "path": [
+            "Issavi"
+          ],
+          "steps": []
+        },
+        "Oramond": {
+          "totalCost": 100,
+          "hops": 1,
+          "path": [
+            "Issavi",
+            "Oramond"
+          ],
+          "steps": [
+            {
+              "from": "Issavi",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Roshamuul": {
+          "totalCost": 430,
+          "hops": 3,
+          "path": [
+            "Issavi",
+            "Edron",
+            "Thais",
+            "Roshamuul"
+          ],
+          "steps": [
+            {
+              "from": "Issavi",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Thais",
+              "to": "Roshamuul",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Farmine": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Issavi",
+            "Farmine"
+          ],
+          "steps": [
+            {
+              "from": "Issavi",
+              "to": "Farmine",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Femor Hills": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Issavi",
+            "Femor Hills"
+          ],
+          "steps": [
+            {
+              "from": "Issavi",
+              "to": "Femor Hills",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Kazordoon": {
+          "totalCost": 70,
+          "hops": 1,
+          "path": [
+            "Issavi",
+            "Kazordoon"
+          ],
+          "steps": [
+            {
+              "from": "Issavi",
+              "to": "Kazordoon",
+              "method": "carpet",
+              "cost": 70
+            }
+          ]
+        }
+      },
+      "Oramond": {
+        "Ab'Dendriel": {
+          "totalCost": 180,
+          "hops": 2,
+          "path": [
+            "Oramond",
+            "Edron",
+            "Ab'Dendriel"
+          ],
+          "steps": [
+            {
+              "from": "Oramond",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Edron",
+              "to": "Ab'Dendriel",
+              "method": "boat",
+              "cost": 70
+            }
+          ]
+        },
+        "Carlin": {
+          "totalCost": 220,
+          "hops": 2,
+          "path": [
+            "Oramond",
+            "Edron",
+            "Carlin"
+          ],
+          "steps": [
+            {
+              "from": "Oramond",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Edron",
+              "to": "Carlin",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Edron": {
+          "totalCost": 110,
+          "hops": 1,
+          "path": [
+            "Oramond",
+            "Edron"
+          ],
+          "steps": [
+            {
+              "from": "Oramond",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Thais": {
+          "totalCost": 150,
+          "hops": 1,
+          "path": [
+            "Oramond",
+            "Thais"
+          ],
+          "steps": [
+            {
+              "from": "Oramond",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 150
+            }
+          ]
+        },
+        "Venore": {
+          "totalCost": 130,
+          "hops": 1,
+          "path": [
+            "Oramond",
+            "Venore"
+          ],
+          "steps": [
+            {
+              "from": "Oramond",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 130
+            }
+          ]
+        },
+        "Yalahar": {
+          "totalCost": 315,
+          "hops": 2,
+          "path": [
+            "Oramond",
+            "Venore",
+            "Yalahar"
+          ],
+          "steps": [
+            {
+              "from": "Oramond",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 130
+            },
+            {
+              "from": "Venore",
+              "to": "Yalahar",
+              "method": "boat",
+              "cost": 185
+            }
+          ]
+        },
+        "Ankrahmun": {
+          "totalCost": 250,
+          "hops": 3,
+          "path": [
+            "Oramond",
+            "Edron",
+            "Darashia",
+            "Ankrahmun"
+          ],
+          "steps": [
+            {
+              "from": "Oramond",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Edron",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Darashia",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Darashia": {
+          "totalCost": 150,
+          "hops": 2,
+          "path": [
+            "Oramond",
+            "Edron",
+            "Darashia"
+          ],
+          "steps": [
+            {
+              "from": "Oramond",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Edron",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 40
+            }
+          ]
+        },
+        "Liberty Bay": {
+          "totalCost": 250,
+          "hops": 2,
+          "path": [
+            "Oramond",
+            "Port Hope",
+            "Liberty Bay"
+          ],
+          "steps": [
+            {
+              "from": "Oramond",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 200
+            },
+            {
+              "from": "Port Hope",
+              "to": "Liberty Bay",
+              "method": "boat",
+              "cost": 50
+            }
+          ]
+        },
+        "Port Hope": {
+          "totalCost": 200,
+          "hops": 1,
+          "path": [
+            "Oramond",
+            "Port Hope"
+          ],
+          "steps": [
+            {
+              "from": "Oramond",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 200
+            }
+          ]
+        },
+        "Svargrond": {
+          "totalCost": 170,
+          "hops": 2,
+          "path": [
+            "Oramond",
+            "Edron",
+            "Svargrond"
+          ],
+          "steps": [
+            {
+              "from": "Oramond",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Edron",
+              "to": "Svargrond",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Krailos": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Oramond",
+            "Krailos"
+          ],
+          "steps": [
+            {
+              "from": "Oramond",
+              "to": "Krailos",
+              "method": "boat",
+              "cost": 60
+            }
+          ]
+        },
+        "Issavi": {
+          "totalCost": 120,
+          "hops": 1,
+          "path": [
+            "Oramond",
+            "Issavi"
+          ],
+          "steps": [
+            {
+              "from": "Oramond",
+              "to": "Issavi",
+              "method": "boat",
+              "cost": 120
+            }
+          ]
+        },
+        "Oramond": {
+          "totalCost": 0,
+          "hops": 0,
+          "path": [
+            "Oramond"
+          ],
+          "steps": []
+        },
+        "Roshamuul": {
+          "totalCost": 360,
+          "hops": 2,
+          "path": [
+            "Oramond",
+            "Thais",
+            "Roshamuul"
+          ],
+          "steps": [
+            {
+              "from": "Oramond",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 150
+            },
+            {
+              "from": "Thais",
+              "to": "Roshamuul",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Farmine": {
+          "totalCost": 170,
+          "hops": 2,
+          "path": [
+            "Oramond",
+            "Edron",
+            "Farmine"
+          ],
+          "steps": [
+            {
+              "from": "Oramond",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Edron",
+              "to": "Farmine",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Femor Hills": {
+          "totalCost": 170,
+          "hops": 2,
+          "path": [
+            "Oramond",
+            "Edron",
+            "Femor Hills"
+          ],
+          "steps": [
+            {
+              "from": "Oramond",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Edron",
+              "to": "Femor Hills",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Kazordoon": {
+          "totalCost": 180,
+          "hops": 2,
+          "path": [
+            "Oramond",
+            "Edron",
+            "Kazordoon"
+          ],
+          "steps": [
+            {
+              "from": "Oramond",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 110
+            },
+            {
+              "from": "Edron",
+              "to": "Kazordoon",
+              "method": "carpet",
+              "cost": 70
+            }
+          ]
+        }
+      },
+      "Roshamuul": {
+        "Ab'Dendriel": {
+          "totalCost": 340,
+          "hops": 2,
+          "path": [
+            "Roshamuul",
+            "Thais",
+            "Ab'Dendriel"
+          ],
+          "steps": [
+            {
+              "from": "Roshamuul",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Thais",
+              "to": "Ab'Dendriel",
+              "method": "boat",
+              "cost": 130
+            }
+          ]
+        },
+        "Carlin": {
+          "totalCost": 320,
+          "hops": 2,
+          "path": [
+            "Roshamuul",
+            "Thais",
+            "Carlin"
+          ],
+          "steps": [
+            {
+              "from": "Roshamuul",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Thais",
+              "to": "Carlin",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Edron": {
+          "totalCost": 370,
+          "hops": 2,
+          "path": [
+            "Roshamuul",
+            "Thais",
+            "Edron"
+          ],
+          "steps": [
+            {
+              "from": "Roshamuul",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Thais",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 160
+            }
+          ]
+        },
+        "Thais": {
+          "totalCost": 210,
+          "hops": 1,
+          "path": [
+            "Roshamuul",
+            "Thais"
+          ],
+          "steps": [
+            {
+              "from": "Roshamuul",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Venore": {
+          "totalCost": 380,
+          "hops": 2,
+          "path": [
+            "Roshamuul",
+            "Thais",
+            "Venore"
+          ],
+          "steps": [
+            {
+              "from": "Roshamuul",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Thais",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 170
+            }
+          ]
+        },
+        "Yalahar": {
+          "totalCost": 410,
+          "hops": 2,
+          "path": [
+            "Roshamuul",
+            "Thais",
+            "Yalahar"
+          ],
+          "steps": [
+            {
+              "from": "Roshamuul",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Thais",
+              "to": "Yalahar",
+              "method": "boat",
+              "cost": 200
+            }
+          ]
+        },
+        "Ankrahmun": {
+          "totalCost": 480,
+          "hops": 3,
+          "path": [
+            "Roshamuul",
+            "Thais",
+            "Port Hope",
+            "Ankrahmun"
+          ],
+          "steps": [
+            {
+              "from": "Roshamuul",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Thais",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Port Hope",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Darashia": {
+          "totalCost": 410,
+          "hops": 3,
+          "path": [
+            "Roshamuul",
+            "Thais",
+            "Edron",
+            "Darashia"
+          ],
+          "steps": [
+            {
+              "from": "Roshamuul",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Thais",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Edron",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 40
+            }
+          ]
+        },
+        "Liberty Bay": {
+          "totalCost": 390,
+          "hops": 2,
+          "path": [
+            "Roshamuul",
+            "Thais",
+            "Liberty Bay"
+          ],
+          "steps": [
+            {
+              "from": "Roshamuul",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Thais",
+              "to": "Liberty Bay",
+              "method": "boat",
+              "cost": 180
+            }
+          ]
+        },
+        "Port Hope": {
+          "totalCost": 370,
+          "hops": 2,
+          "path": [
+            "Roshamuul",
+            "Thais",
+            "Port Hope"
+          ],
+          "steps": [
+            {
+              "from": "Roshamuul",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Thais",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 160
+            }
+          ]
+        },
+        "Svargrond": {
+          "totalCost": 390,
+          "hops": 2,
+          "path": [
+            "Roshamuul",
+            "Thais",
+            "Svargrond"
+          ],
+          "steps": [
+            {
+              "from": "Roshamuul",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Thais",
+              "to": "Svargrond",
+              "method": "boat",
+              "cost": 180
+            }
+          ]
+        },
+        "Krailos": {
+          "totalCost": 420,
+          "hops": 3,
+          "path": [
+            "Roshamuul",
+            "Thais",
+            "Oramond",
+            "Krailos"
+          ],
+          "steps": [
+            {
+              "from": "Roshamuul",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Thais",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 150
+            },
+            {
+              "from": "Oramond",
+              "to": "Krailos",
+              "method": "boat",
+              "cost": 60
+            }
+          ]
+        },
+        "Issavi": {
+          "totalCost": 470,
+          "hops": 3,
+          "path": [
+            "Roshamuul",
+            "Thais",
+            "Edron",
+            "Issavi"
+          ],
+          "steps": [
+            {
+              "from": "Roshamuul",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Thais",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Edron",
+              "to": "Issavi",
+              "method": "carpet",
+              "cost": 100
+            }
+          ]
+        },
+        "Oramond": {
+          "totalCost": 360,
+          "hops": 2,
+          "path": [
+            "Roshamuul",
+            "Thais",
+            "Oramond"
+          ],
+          "steps": [
+            {
+              "from": "Roshamuul",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Thais",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 150
+            }
+          ]
+        },
+        "Roshamuul": {
+          "totalCost": 0,
+          "hops": 0,
+          "path": [
+            "Roshamuul"
+          ],
+          "steps": []
+        },
+        "Farmine": {
+          "totalCost": 430,
+          "hops": 3,
+          "path": [
+            "Roshamuul",
+            "Thais",
+            "Edron",
+            "Farmine"
+          ],
+          "steps": [
+            {
+              "from": "Roshamuul",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Thais",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Edron",
+              "to": "Farmine",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Femor Hills": {
+          "totalCost": 430,
+          "hops": 3,
+          "path": [
+            "Roshamuul",
+            "Thais",
+            "Edron",
+            "Femor Hills"
+          ],
+          "steps": [
+            {
+              "from": "Roshamuul",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Thais",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Edron",
+              "to": "Femor Hills",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Kazordoon": {
+          "totalCost": 440,
+          "hops": 3,
+          "path": [
+            "Roshamuul",
+            "Thais",
+            "Edron",
+            "Kazordoon"
+          ],
+          "steps": [
+            {
+              "from": "Roshamuul",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 210
+            },
+            {
+              "from": "Thais",
+              "to": "Edron",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Edron",
+              "to": "Kazordoon",
+              "method": "carpet",
+              "cost": 70
+            }
+          ]
+        }
+      },
+      "Farmine": {
+        "Ab'Dendriel": {
+          "totalCost": 130,
+          "hops": 2,
+          "path": [
+            "Farmine",
+            "Edron",
+            "Ab'Dendriel"
+          ],
+          "steps": [
+            {
+              "from": "Farmine",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Ab'Dendriel",
+              "method": "boat",
+              "cost": 70
+            }
+          ]
+        },
+        "Carlin": {
+          "totalCost": 170,
+          "hops": 2,
+          "path": [
+            "Farmine",
+            "Edron",
+            "Carlin"
+          ],
+          "steps": [
+            {
+              "from": "Farmine",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Carlin",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Edron": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Farmine",
+            "Edron"
+          ],
+          "steps": [
+            {
+              "from": "Farmine",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Thais": {
+          "totalCost": 220,
+          "hops": 2,
+          "path": [
+            "Farmine",
+            "Edron",
+            "Thais"
+          ],
+          "steps": [
+            {
+              "from": "Farmine",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 160
+            }
+          ]
+        },
+        "Venore": {
+          "totalCost": 100,
+          "hops": 2,
+          "path": [
+            "Farmine",
+            "Edron",
+            "Venore"
+          ],
+          "steps": [
+            {
+              "from": "Farmine",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 40
+            }
+          ]
+        },
+        "Yalahar": {
+          "totalCost": 270,
+          "hops": 2,
+          "path": [
+            "Farmine",
+            "Darashia",
+            "Yalahar"
+          ],
+          "steps": [
+            {
+              "from": "Farmine",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Darashia",
+              "to": "Yalahar",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Ankrahmun": {
+          "totalCost": 160,
+          "hops": 2,
+          "path": [
+            "Farmine",
+            "Darashia",
+            "Ankrahmun"
+          ],
+          "steps": [
+            {
+              "from": "Farmine",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Darashia",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Darashia": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Farmine",
+            "Darashia"
+          ],
+          "steps": [
+            {
+              "from": "Farmine",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Liberty Bay": {
+          "totalCost": 230,
+          "hops": 2,
+          "path": [
+            "Farmine",
+            "Edron",
+            "Liberty Bay"
+          ],
+          "steps": [
+            {
+              "from": "Farmine",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Liberty Bay",
+              "method": "boat",
+              "cost": 170
+            }
+          ]
+        },
+        "Port Hope": {
+          "totalCost": 210,
+          "hops": 2,
+          "path": [
+            "Farmine",
+            "Edron",
+            "Port Hope"
+          ],
+          "steps": [
+            {
+              "from": "Farmine",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 150
+            }
+          ]
+        },
+        "Svargrond": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Farmine",
+            "Svargrond"
+          ],
+          "steps": [
+            {
+              "from": "Farmine",
+              "to": "Svargrond",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Krailos": {
+          "totalCost": 160,
+          "hops": 2,
+          "path": [
+            "Farmine",
+            "Edron",
+            "Krailos"
+          ],
+          "steps": [
+            {
+              "from": "Farmine",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Krailos",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Issavi": {
+          "totalCost": 100,
+          "hops": 1,
+          "path": [
+            "Farmine",
+            "Issavi"
+          ],
+          "steps": [
+            {
+              "from": "Farmine",
+              "to": "Issavi",
+              "method": "carpet",
+              "cost": 100
+            }
+          ]
+        },
+        "Oramond": {
+          "totalCost": 170,
+          "hops": 2,
+          "path": [
+            "Farmine",
+            "Edron",
+            "Oramond"
+          ],
+          "steps": [
+            {
+              "from": "Farmine",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Roshamuul": {
+          "totalCost": 430,
+          "hops": 3,
+          "path": [
+            "Farmine",
+            "Edron",
+            "Thais",
+            "Roshamuul"
+          ],
+          "steps": [
+            {
+              "from": "Farmine",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Thais",
+              "to": "Roshamuul",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Farmine": {
+          "totalCost": 0,
+          "hops": 0,
+          "path": [
+            "Farmine"
+          ],
+          "steps": []
+        },
+        "Femor Hills": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Farmine",
+            "Femor Hills"
+          ],
+          "steps": [
+            {
+              "from": "Farmine",
+              "to": "Femor Hills",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Kazordoon": {
+          "totalCost": 70,
+          "hops": 1,
+          "path": [
+            "Farmine",
+            "Kazordoon"
+          ],
+          "steps": [
+            {
+              "from": "Farmine",
+              "to": "Kazordoon",
+              "method": "carpet",
+              "cost": 70
+            }
+          ]
+        }
+      },
+      "Femor Hills": {
+        "Ab'Dendriel": {
+          "totalCost": 130,
+          "hops": 2,
+          "path": [
+            "Femor Hills",
+            "Edron",
+            "Ab'Dendriel"
+          ],
+          "steps": [
+            {
+              "from": "Femor Hills",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Ab'Dendriel",
+              "method": "boat",
+              "cost": 70
+            }
+          ]
+        },
+        "Carlin": {
+          "totalCost": 170,
+          "hops": 2,
+          "path": [
+            "Femor Hills",
+            "Edron",
+            "Carlin"
+          ],
+          "steps": [
+            {
+              "from": "Femor Hills",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Carlin",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Edron": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Femor Hills",
+            "Edron"
+          ],
+          "steps": [
+            {
+              "from": "Femor Hills",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Thais": {
+          "totalCost": 220,
+          "hops": 2,
+          "path": [
+            "Femor Hills",
+            "Edron",
+            "Thais"
+          ],
+          "steps": [
+            {
+              "from": "Femor Hills",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 160
+            }
+          ]
+        },
+        "Venore": {
+          "totalCost": 100,
+          "hops": 2,
+          "path": [
+            "Femor Hills",
+            "Edron",
+            "Venore"
+          ],
+          "steps": [
+            {
+              "from": "Femor Hills",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 40
+            }
+          ]
+        },
+        "Yalahar": {
+          "totalCost": 270,
+          "hops": 2,
+          "path": [
+            "Femor Hills",
+            "Darashia",
+            "Yalahar"
+          ],
+          "steps": [
+            {
+              "from": "Femor Hills",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Darashia",
+              "to": "Yalahar",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Ankrahmun": {
+          "totalCost": 160,
+          "hops": 2,
+          "path": [
+            "Femor Hills",
+            "Darashia",
+            "Ankrahmun"
+          ],
+          "steps": [
+            {
+              "from": "Femor Hills",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Darashia",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Darashia": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Femor Hills",
+            "Darashia"
+          ],
+          "steps": [
+            {
+              "from": "Femor Hills",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Liberty Bay": {
+          "totalCost": 230,
+          "hops": 2,
+          "path": [
+            "Femor Hills",
+            "Edron",
+            "Liberty Bay"
+          ],
+          "steps": [
+            {
+              "from": "Femor Hills",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Liberty Bay",
+              "method": "boat",
+              "cost": 170
+            }
+          ]
+        },
+        "Port Hope": {
+          "totalCost": 210,
+          "hops": 2,
+          "path": [
+            "Femor Hills",
+            "Edron",
+            "Port Hope"
+          ],
+          "steps": [
+            {
+              "from": "Femor Hills",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 150
+            }
+          ]
+        },
+        "Svargrond": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Femor Hills",
+            "Svargrond"
+          ],
+          "steps": [
+            {
+              "from": "Femor Hills",
+              "to": "Svargrond",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Krailos": {
+          "totalCost": 160,
+          "hops": 2,
+          "path": [
+            "Femor Hills",
+            "Edron",
+            "Krailos"
+          ],
+          "steps": [
+            {
+              "from": "Femor Hills",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Krailos",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Issavi": {
+          "totalCost": 100,
+          "hops": 1,
+          "path": [
+            "Femor Hills",
+            "Issavi"
+          ],
+          "steps": [
+            {
+              "from": "Femor Hills",
+              "to": "Issavi",
+              "method": "carpet",
+              "cost": 100
+            }
+          ]
+        },
+        "Oramond": {
+          "totalCost": 170,
+          "hops": 2,
+          "path": [
+            "Femor Hills",
+            "Edron",
+            "Oramond"
+          ],
+          "steps": [
+            {
+              "from": "Femor Hills",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Roshamuul": {
+          "totalCost": 430,
+          "hops": 3,
+          "path": [
+            "Femor Hills",
+            "Edron",
+            "Thais",
+            "Roshamuul"
+          ],
+          "steps": [
+            {
+              "from": "Femor Hills",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 60
+            },
+            {
+              "from": "Edron",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Thais",
+              "to": "Roshamuul",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Farmine": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Femor Hills",
+            "Farmine"
+          ],
+          "steps": [
+            {
+              "from": "Femor Hills",
+              "to": "Farmine",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Femor Hills": {
+          "totalCost": 0,
+          "hops": 0,
+          "path": [
+            "Femor Hills"
+          ],
+          "steps": []
+        },
+        "Kazordoon": {
+          "totalCost": 70,
+          "hops": 1,
+          "path": [
+            "Femor Hills",
+            "Kazordoon"
+          ],
+          "steps": [
+            {
+              "from": "Femor Hills",
+              "to": "Kazordoon",
+              "method": "carpet",
+              "cost": 70
+            }
+          ]
+        }
+      },
+      "Kazordoon": {
+        "Ab'Dendriel": {
+          "totalCost": 110,
+          "hops": 2,
+          "path": [
+            "Kazordoon",
+            "Edron",
+            "Ab'Dendriel"
+          ],
+          "steps": [
+            {
+              "from": "Kazordoon",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Ab'Dendriel",
+              "method": "boat",
+              "cost": 70
+            }
+          ]
+        },
+        "Carlin": {
+          "totalCost": 150,
+          "hops": 2,
+          "path": [
+            "Kazordoon",
+            "Edron",
+            "Carlin"
+          ],
+          "steps": [
+            {
+              "from": "Kazordoon",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Carlin",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Edron": {
+          "totalCost": 40,
+          "hops": 1,
+          "path": [
+            "Kazordoon",
+            "Edron"
+          ],
+          "steps": [
+            {
+              "from": "Kazordoon",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            }
+          ]
+        },
+        "Thais": {
+          "totalCost": 200,
+          "hops": 2,
+          "path": [
+            "Kazordoon",
+            "Edron",
+            "Thais"
+          ],
+          "steps": [
+            {
+              "from": "Kazordoon",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 160
+            }
+          ]
+        },
+        "Venore": {
+          "totalCost": 80,
+          "hops": 2,
+          "path": [
+            "Kazordoon",
+            "Edron",
+            "Venore"
+          ],
+          "steps": [
+            {
+              "from": "Kazordoon",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Venore",
+              "method": "boat",
+              "cost": 40
+            }
+          ]
+        },
+        "Yalahar": {
+          "totalCost": 250,
+          "hops": 2,
+          "path": [
+            "Kazordoon",
+            "Darashia",
+            "Yalahar"
+          ],
+          "steps": [
+            {
+              "from": "Kazordoon",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Darashia",
+              "to": "Yalahar",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Ankrahmun": {
+          "totalCost": 140,
+          "hops": 2,
+          "path": [
+            "Kazordoon",
+            "Darashia",
+            "Ankrahmun"
+          ],
+          "steps": [
+            {
+              "from": "Kazordoon",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Darashia",
+              "to": "Ankrahmun",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Darashia": {
+          "totalCost": 40,
+          "hops": 1,
+          "path": [
+            "Kazordoon",
+            "Darashia"
+          ],
+          "steps": [
+            {
+              "from": "Kazordoon",
+              "to": "Darashia",
+              "method": "carpet",
+              "cost": 40
+            }
+          ]
+        },
+        "Liberty Bay": {
+          "totalCost": 210,
+          "hops": 2,
+          "path": [
+            "Kazordoon",
+            "Edron",
+            "Liberty Bay"
+          ],
+          "steps": [
+            {
+              "from": "Kazordoon",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Liberty Bay",
+              "method": "boat",
+              "cost": 170
+            }
+          ]
+        },
+        "Port Hope": {
+          "totalCost": 190,
+          "hops": 2,
+          "path": [
+            "Kazordoon",
+            "Edron",
+            "Port Hope"
+          ],
+          "steps": [
+            {
+              "from": "Kazordoon",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Port Hope",
+              "method": "boat",
+              "cost": 150
+            }
+          ]
+        },
+        "Svargrond": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Kazordoon",
+            "Svargrond"
+          ],
+          "steps": [
+            {
+              "from": "Kazordoon",
+              "to": "Svargrond",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Krailos": {
+          "totalCost": 140,
+          "hops": 2,
+          "path": [
+            "Kazordoon",
+            "Edron",
+            "Krailos"
+          ],
+          "steps": [
+            {
+              "from": "Kazordoon",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Krailos",
+              "method": "boat",
+              "cost": 100
+            }
+          ]
+        },
+        "Issavi": {
+          "totalCost": 100,
+          "hops": 1,
+          "path": [
+            "Kazordoon",
+            "Issavi"
+          ],
+          "steps": [
+            {
+              "from": "Kazordoon",
+              "to": "Issavi",
+              "method": "carpet",
+              "cost": 100
+            }
+          ]
+        },
+        "Oramond": {
+          "totalCost": 150,
+          "hops": 2,
+          "path": [
+            "Kazordoon",
+            "Edron",
+            "Oramond"
+          ],
+          "steps": [
+            {
+              "from": "Kazordoon",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Oramond",
+              "method": "boat",
+              "cost": 110
+            }
+          ]
+        },
+        "Roshamuul": {
+          "totalCost": 410,
+          "hops": 3,
+          "path": [
+            "Kazordoon",
+            "Edron",
+            "Thais",
+            "Roshamuul"
+          ],
+          "steps": [
+            {
+              "from": "Kazordoon",
+              "to": "Edron",
+              "method": "carpet",
+              "cost": 40
+            },
+            {
+              "from": "Edron",
+              "to": "Thais",
+              "method": "boat",
+              "cost": 160
+            },
+            {
+              "from": "Thais",
+              "to": "Roshamuul",
+              "method": "boat",
+              "cost": 210
+            }
+          ]
+        },
+        "Farmine": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Kazordoon",
+            "Farmine"
+          ],
+          "steps": [
+            {
+              "from": "Kazordoon",
+              "to": "Farmine",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Femor Hills": {
+          "totalCost": 60,
+          "hops": 1,
+          "path": [
+            "Kazordoon",
+            "Femor Hills"
+          ],
+          "steps": [
+            {
+              "from": "Kazordoon",
+              "to": "Femor Hills",
+              "method": "carpet",
+              "cost": 60
+            }
+          ]
+        },
+        "Kazordoon": {
+          "totalCost": 0,
+          "hops": 0,
+          "path": [
+            "Kazordoon"
+          ],
+          "steps": []
+        }
+      }
+    }
+  }
+}

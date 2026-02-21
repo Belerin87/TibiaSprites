@@ -1,0 +1,1237 @@
+[
+  {
+    "name": "Alpha Demonosaur",
+    "file": "Alpha_Demonosaur.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/da/Alpha_Demonosaur.gif/revision/latest?cb=20250609070219&path-prefix=en"
+  },
+  {
+    "name": "Antelope",
+    "file": "Antelope.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/8a/Antelope.gif/revision/latest?cb=20191113150441&path-prefix=en"
+  },
+  {
+    "name": "Arctic Unicorn",
+    "file": "Arctic_Unicorn.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/ba/Arctic_Unicorn.gif/revision/latest?cb=20170828040205&path-prefix=en"
+  },
+  {
+    "name": "Armoured War Horse",
+    "file": "Armoured_War_Horse.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c8/Armoured_War_Horse.gif/revision/latest?cb=20141219153652&path-prefix=en"
+  },
+  {
+    "name": "Azudocus",
+    "file": "Azudocus.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/ae/Azudocus.gif/revision/latest?cb=20141219153937&path-prefix=en"
+  },
+  {
+    "name": "Batcat",
+    "file": "Batcat.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/d3/Batcat.gif/revision/latest?cb=20150430142745&path-prefix=en"
+  },
+  {
+    "name": "Battle Badger",
+    "file": "Battle_Badger.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/ba/Battle_Badger.gif/revision/latest?cb=20190809124035&path-prefix=en"
+  },
+  {
+    "name": "Battle Werewolf",
+    "file": "Battle_Werewolf.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/fd/Battle_Werewolf.gif/revision/latest?cb=20251103043529&path-prefix=en"
+  },
+  {
+    "name": "Battlefrazzle",
+    "file": "Battlefrazzle.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/88/Battlefrazzle.gif/revision/latest?cb=20251113202920&path-prefix=en"
+  },
+  {
+    "name": "Benevolent Coral Rhea",
+    "file": "Benevolent_Coral_Rhea.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c1/Benevolent_Coral_Rhea.gif/revision/latest?cb=20200417211705&path-prefix=en"
+  },
+  {
+    "name": "Benevolent Eventide Nandu",
+    "file": "Benevolent_Eventide_Nandu.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/7/72/Benevolent_Eventide_Nandu.gif/revision/latest?cb=20200417211704&path-prefix=en"
+  },
+  {
+    "name": "Benevolent Savanna Ostrich",
+    "file": "Benevolent_Savanna_Ostrich.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/6c/Benevolent_Savanna_Ostrich.gif/revision/latest?cb=20200417211705&path-prefix=en"
+  },
+  {
+    "name": "Black Sheep (Mount)",
+    "file": "Black_Sheep_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/14/Black_Sheep_%28Mount%29.gif/revision/latest?cb=20141219154237&path-prefix=en"
+  },
+  {
+    "name": "Black Stag",
+    "file": "Black_Stag.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/63/Black_Stag.gif/revision/latest?cb=20141218231845&path-prefix=en"
+  },
+  {
+    "name": "Blackpelt",
+    "file": "Blackpelt.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/de/Blackpelt.gif/revision/latest?cb=20141218232847&path-prefix=en"
+  },
+  {
+    "name": "Blazebringer",
+    "file": "Blazebringer.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/e/ea/Blazebringer.gif/revision/latest?cb=20140123150543&path-prefix=en"
+  },
+  {
+    "name": "Blazing Unicorn",
+    "file": "Blazing_Unicorn.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/d4/Blazing_Unicorn.gif/revision/latest?cb=20170828040310&path-prefix=en"
+  },
+  {
+    "name": "Bloodcurl",
+    "file": "Bloodcurl.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/a3/Bloodcurl.gif/revision/latest?cb=20160309192050&path-prefix=en"
+  },
+  {
+    "name": "Blue Rolling Barrel",
+    "file": "Blue_Rolling_Barrel.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/27/Blue_Rolling_Barrel.gif/revision/latest?cb=20191127192934&path-prefix=en"
+  },
+  {
+    "name": "Bog Tyrant",
+    "file": "Bog_Tyrant.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/89/Bog_Tyrant.gif/revision/latest?cb=20240517143307&path-prefix=en"
+  },
+  {
+    "name": "Bogwurm",
+    "file": "Bogwurm.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/89/Bogwurm.gif/revision/latest?cb=20210910112742&path-prefix=en"
+  },
+  {
+    "name": "Boisterous Bull",
+    "file": "Boisterous_Bull.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/22/Boisterous_Bull.gif/revision/latest?cb=20230807224336&path-prefix=en"
+  },
+  {
+    "name": "Boreal Owl",
+    "file": "Boreal_Owl.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/47/Boreal_Owl.gif/revision/latest?cb=20180914123723&path-prefix=en"
+  },
+  {
+    "name": "Brass Speckled Koi",
+    "file": "Brass_Speckled_Koi.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/36/Brass_Speckled_Koi.gif/revision/latest?cb=20221125092409&path-prefix=en"
+  },
+  {
+    "name": "Bright Percht Sleigh",
+    "file": "Bright_Percht_Sleigh.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/89/Bright_Percht_Sleigh.gif/revision/latest?cb=20200127213551&path-prefix=en"
+  },
+  {
+    "name": "Bright Percht Sleigh Variant",
+    "file": "Bright_Percht_Sleigh_Variant.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/0/03/Bright_Percht_Sleigh_Variant.gif/revision/latest?cb=20200127213826&path-prefix=en"
+  },
+  {
+    "name": "Bumblebee",
+    "file": "Bumblebee.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/92/Bumblebee.gif/revision/latest?cb=20240625123054&path-prefix=en"
+  },
+  {
+    "name": "Bunny Dray",
+    "file": "Bunny_Dray.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/1a/Bunny_Dray.gif/revision/latest?cb=20190412004553&path-prefix=en"
+  },
+  {
+    "name": "Caped Snowman",
+    "file": "Caped_Snowman.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/89/Caped_Snowman.gif/revision/latest?cb=20190104131008&path-prefix=en"
+  },
+  {
+    "name": "Carpacosaurus",
+    "file": "Carpacosaurus.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b1/Carpacosaurus.gif/revision/latest?cb=20140725130426&path-prefix=en"
+  },
+  {
+    "name": "Cave Tarantula",
+    "file": "Cave_Tarantula.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c4/Cave_Tarantula.gif/revision/latest?cb=20171031120301&path-prefix=en"
+  },
+  {
+    "name": "Cerberus Champion",
+    "file": "Cerberus_Champion.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/0/0d/Cerberus_Champion.gif/revision/latest?cb=20190521182212&path-prefix=en"
+  },
+  {
+    "name": "Cinderhoof",
+    "file": "Cinderhoof.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/bb/Cinderhoof.gif/revision/latest?cb=20151225154725&path-prefix=en"
+  },
+  {
+    "name": "Cinnamon Ibex",
+    "file": "Cinnamon_Ibex.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/0/02/Cinnamon_Ibex.gif/revision/latest?cb=20220513094727&path-prefix=en"
+  },
+  {
+    "name": "Cold Percht Sleigh",
+    "file": "Cold_Percht_Sleigh.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/30/Cold_Percht_Sleigh.gif/revision/latest?cb=20200127213552&path-prefix=en"
+  },
+  {
+    "name": "Cold Percht Sleigh Variant",
+    "file": "Cold_Percht_Sleigh_Variant.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/17/Cold_Percht_Sleigh_Variant.gif/revision/latest?cb=20200127213829&path-prefix=en"
+  },
+  {
+    "name": "Cony Cart",
+    "file": "Cony_Cart.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/f3/Cony_Cart.gif/revision/latest?cb=20190412004555&path-prefix=en"
+  },
+  {
+    "name": "Copper Fly",
+    "file": "Copper_Fly.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/5b/Copper_Fly.gif/revision/latest?cb=20190523172704&path-prefix=en"
+  },
+  {
+    "name": "Coral Rhea",
+    "file": "Coral_Rhea.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/0/05/Coral_Rhea.gif/revision/latest?cb=20200708131409&path-prefix=en"
+  },
+  {
+    "name": "Coralripper",
+    "file": "Coralripper.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/63/Coralripper.gif/revision/latest?cb=20150512104653&path-prefix=en"
+  },
+  {
+    "name": "Corpse Phoenix",
+    "file": "Corpse_Phoenix.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/bb/Corpse_Phoenix.gif/revision/latest?cb=20251103050551&path-prefix=en"
+  },
+  {
+    "name": "Corpsefire Skull",
+    "file": "Corpsefire_Skull.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/0/0b/Corpsefire_Skull.gif/revision/latest?cb=20230915083537&path-prefix=en"
+  },
+  {
+    "name": "Cranium Spider",
+    "file": "Cranium_Spider.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/19/Cranium_Spider.gif/revision/latest?cb=20171031120607&path-prefix=en"
+  },
+  {
+    "name": "Crimson Fang",
+    "file": "Crimson_Fang.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b2/Crimson_Fang.gif/revision/latest?cb=20240517143307&path-prefix=en"
+  },
+  {
+    "name": "Crimson Ray",
+    "file": "Crimson_Ray.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/bf/Crimson_Ray.gif/revision/latest?cb=20140215164655&path-prefix=en"
+  },
+  {
+    "name": "Crystal Wolf (Mount)",
+    "file": "Crystal_Wolf_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/f2/Crystal_Wolf_%28Mount%29.gif/revision/latest?cb=20140214233440&path-prefix=en"
+  },
+  {
+    "name": "Cunning Hyaena",
+    "file": "Cunning_Hyaena.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/38/Cunning_Hyaena.gif/revision/latest?cb=20200710120646&path-prefix=en"
+  },
+  {
+    "name": "Dandelion",
+    "file": "Dandelion.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/88/Dandelion.gif/revision/latest?cb=20210611205646&path-prefix=en"
+  },
+  {
+    "name": "Dark Percht Sleigh",
+    "file": "Dark_Percht_Sleigh.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/93/Dark_Percht_Sleigh.gif/revision/latest?cb=20200127213553&path-prefix=en"
+  },
+  {
+    "name": "Dark Percht Sleigh Variant",
+    "file": "Dark_Percht_Sleigh_Variant.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/fa/Dark_Percht_Sleigh_Variant.gif/revision/latest?cb=20200127213831&path-prefix=en"
+  },
+  {
+    "name": "Darkfire Devourer",
+    "file": "Darkfire_Devourer.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/f0/Darkfire_Devourer.gif/revision/latest?cb=20230711040325&path-prefix=en"
+  },
+  {
+    "name": "Dawn Strayer",
+    "file": "Dawn_Strayer.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/39/Dawn_Strayer.gif/revision/latest?cb=20200117204833&path-prefix=en"
+  },
+  {
+    "name": "Dawnbringer Pegasus",
+    "file": "Dawnbringer_Pegasus.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/e/ef/Dawnbringer_Pegasus.gif/revision/latest?cb=20240225123438&path-prefix=en"
+  },
+  {
+    "name": "Death Crawler",
+    "file": "Death_Crawler.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/be/Death_Crawler.gif/revision/latest?cb=20140723165903&path-prefix=en"
+  },
+  {
+    "name": "Death Phoenix",
+    "file": "Death_Phoenix.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/7/77/Death_Phoenix.gif/revision/latest?cb=20251103050552&path-prefix=en"
+  },
+  {
+    "name": "Desert King",
+    "file": "Desert_King.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b0/Desert_King.gif/revision/latest?cb=20140215170425&path-prefix=en"
+  },
+  {
+    "name": "Donkey",
+    "file": "Donkey.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/24/Donkey.gif/revision/latest?cb=20140214233557&path-prefix=en"
+  },
+  {
+    "name": "Doom Skull",
+    "file": "Doom_Skull.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/14/Doom_Skull.gif/revision/latest?cb=20230915083335&path-prefix=en"
+  },
+  {
+    "name": "Doombringer",
+    "file": "Doombringer.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/7/7d/Doombringer.gif/revision/latest?cb=20141205144634&path-prefix=en"
+  },
+  {
+    "name": "Dragonling (Mount)",
+    "file": "Dragonling_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/51/Dragonling_%28Mount%29.gif/revision/latest?cb=20140215163101&path-prefix=en"
+  },
+  {
+    "name": "Draptor (Mount)",
+    "file": "Draptor_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b5/Draptor_%28Mount%29.gif/revision/latest?cb=20140123150609&path-prefix=en"
+  },
+  {
+    "name": "Dreadhare",
+    "file": "Dreadhare.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/23/Dreadhare.gif/revision/latest?cb=20170105185300&path-prefix=en"
+  },
+  {
+    "name": "Dromedary (Mount)",
+    "file": "Dromedary_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/f4/Dromedary_%28Mount%29.gif/revision/latest?cb=20140214233651&path-prefix=en"
+  },
+  {
+    "name": "Dusk Pryer",
+    "file": "Dusk_Pryer.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/cf/Dusk_Pryer.gif/revision/latest?cb=20200117204834&path-prefix=en"
+  },
+  {
+    "name": "Ebony Tiger",
+    "file": "Ebony_Tiger.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/10/Ebony_Tiger.gif/revision/latest?cb=20180608225346&path-prefix=en"
+  },
+  {
+    "name": "Ember Saurian",
+    "file": "Ember_Saurian.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/2b/Ember_Saurian.gif/revision/latest?cb=20170513064048&path-prefix=en"
+  },
+  {
+    "name": "Emerald Raven",
+    "file": "Emerald_Raven.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/21/Emerald_Raven.gif/revision/latest?cb=20211222154135&path-prefix=en"
+  },
+  {
+    "name": "Emerald Sphinx",
+    "file": "Emerald_Sphinx.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/88/Emerald_Sphinx.gif/revision/latest?cb=20170923203823&path-prefix=en"
+  },
+  {
+    "name": "Emerald Waccoon",
+    "file": "Emerald_Waccoon.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/88/Emerald_Waccoon.gif/revision/latest?cb=20150121210537&path-prefix=en"
+  },
+  {
+    "name": "Emperor Deer",
+    "file": "Emperor_Deer.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/57/Emperor_Deer.gif/revision/latest?cb=20141218232526&path-prefix=en"
+  },
+  {
+    "name": "Ether Badger",
+    "file": "Ether_Badger.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/2b/Ether_Badger.gif/revision/latest?cb=20190809124036&path-prefix=en"
+  },
+  {
+    "name": "Eventide Nandu",
+    "file": "Eventide_Nandu.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/fb/Eventide_Nandu.gif/revision/latest?cb=20200708131409&path-prefix=en"
+  },
+  {
+    "name": "Feral Tiger",
+    "file": "Feral_Tiger.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/fe/Feral_Tiger.gif/revision/latest?cb=20180608225347&path-prefix=en"
+  },
+  {
+    "name": "Festive Mammoth",
+    "file": "Festive_Mammoth.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/57/Festive_Mammoth.gif/revision/latest?cb=20201127122542&path-prefix=en"
+  },
+  {
+    "name": "Festive Snowman",
+    "file": "Festive_Snowman.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/de/Festive_Snowman.gif/revision/latest?cb=20190104131007&path-prefix=en"
+  },
+  {
+    "name": "Finished Bright Percht Sleigh",
+    "file": "Finished_Bright_Percht_Sleigh.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/6d/Finished_Bright_Percht_Sleigh.gif/revision/latest?cb=20191229053757&path-prefix=en"
+  },
+  {
+    "name": "Finished Cold Percht Sleigh",
+    "file": "Finished_Cold_Percht_Sleigh.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/3c/Finished_Cold_Percht_Sleigh.gif/revision/latest?cb=20191229053758&path-prefix=en"
+  },
+  {
+    "name": "Finished Dark Percht Sleigh",
+    "file": "Finished_Dark_Percht_Sleigh.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/49/Finished_Dark_Percht_Sleigh.gif/revision/latest?cb=20191229053757&path-prefix=en"
+  },
+  {
+    "name": "Flame Bear",
+    "file": "Flame_Bear.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/24/Flame_Bear.gif/revision/latest?cb=20251224190852&path-prefix=en"
+  },
+  {
+    "name": "Flamesteed",
+    "file": "Flamesteed.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/d7/Flamesteed.gif/revision/latest?cb=20230329013412&path-prefix=en"
+  },
+  {
+    "name": "Fleeting Knowledge",
+    "file": "Fleeting_Knowledge.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/d8/Fleeting_Knowledge.gif/revision/latest?cb=20180607184505&path-prefix=en"
+  },
+  {
+    "name": "Flitterkatzen",
+    "file": "Flitterkatzen.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/9e/Flitterkatzen.gif/revision/latest?cb=20150430142758&path-prefix=en"
+  },
+  {
+    "name": "Floating Augur",
+    "file": "Floating_Augur.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/38/Floating_Augur.gif/revision/latest?cb=20201127124057&path-prefix=en"
+  },
+  {
+    "name": "Floating Kashmir",
+    "file": "Floating_Kashmir.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/4e/Floating_Kashmir.gif/revision/latest?cb=20141218232249&path-prefix=en"
+  },
+  {
+    "name": "Floating Sage",
+    "file": "Floating_Sage.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/20/Floating_Sage.gif/revision/latest?cb=20201127124113&path-prefix=en"
+  },
+  {
+    "name": "Floating Scholar",
+    "file": "Floating_Scholar.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c1/Floating_Scholar.gif/revision/latest?cb=20201127124121&path-prefix=en"
+  },
+  {
+    "name": "Flying Divan",
+    "file": "Flying_Divan.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/7/7b/Flying_Divan.gif/revision/latest?cb=20141218231202&path-prefix=en"
+  },
+  {
+    "name": "Foxmouse (Mount)",
+    "file": "Foxmouse_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/5f/Foxmouse.gif/revision/latest?cb=20230614172703&path-prefix=en"
+  },
+  {
+    "name": "Frostbringer",
+    "file": "Frostbringer.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c6/Frostbringer.gif/revision/latest?cb=20230312155540&path-prefix=en"
+  },
+  {
+    "name": "Frostflare",
+    "file": "Frostflare.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/da/Frostflare.gif/revision/latest?cb=20151225154835&path-prefix=en"
+  },
+  {
+    "name": "Giant Beaver (Mount)",
+    "file": "Giant_Beaver_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/94/Giant_Beaver_%28Mount%29.gif/revision/latest?cb=20220629015917&path-prefix=en"
+  },
+  {
+    "name": "Glacier Vagabond",
+    "file": "Glacier_Vagabond.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/47/Glacier_Vagabond.gif/revision/latest?cb=20141130165344&path-prefix=en"
+  },
+  {
+    "name": "Glacier Wyrm",
+    "file": "Glacier_Wyrm.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/3d/Glacier_Wyrm.gif/revision/latest?cb=20240517143308&path-prefix=en"
+  },
+  {
+    "name": "Gloom Maw (Mount)",
+    "file": "Gloom_Maw_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/34/Gloom_Maw_%28Mount%29.gif/revision/latest?cb=20250629003230&path-prefix=en"
+  },
+  {
+    "name": "Gloom Widow",
+    "file": "Gloom_Widow.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/f8/Gloom_Widow.gif/revision/latest?cb=20171031120626&path-prefix=en"
+  },
+  {
+    "name": "Gloomwurm",
+    "file": "Gloomwurm.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/ce/Gloomwurm.gif/revision/latest?cb=20210910112829&path-prefix=en"
+  },
+  {
+    "name": "Glooth Glider",
+    "file": "Glooth_Glider.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/20/Glooth_Glider.gif/revision/latest?cb=20190523171046&path-prefix=en"
+  },
+  {
+    "name": "Gloothomotive",
+    "file": "Gloothomotive.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/f7/Gloothomotive.gif/revision/latest?cb=20220107174205&path-prefix=en"
+  },
+  {
+    "name": "Gnarlhound (Mount)",
+    "file": "Gnarlhound_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/cd/Gnarlhound_%28Mount%29.gif/revision/latest?cb=20140215163221&path-prefix=en"
+  },
+  {
+    "name": "Gold Sphinx",
+    "file": "Gold_Sphinx.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/2a/Gold_Sphinx.gif/revision/latest?cb=20170923204248&path-prefix=en"
+  },
+  {
+    "name": "Golden Dragonfly",
+    "file": "Golden_Dragonfly.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/f0/Golden_Dragonfly.gif/revision/latest?cb=20190523172701&path-prefix=en"
+  },
+  {
+    "name": "Gorgon Hydra",
+    "file": "Gorgon_Hydra.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b4/Gorgon_Hydra.gif/revision/latest?cb=20231124203000&path-prefix=en"
+  },
+  {
+    "name": "Gorongra",
+    "file": "Gorongra.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/de/Gorongra.gif/revision/latest?cb=20150711000751&path-prefix=en"
+  },
+  {
+    "name": "Green Rolling Barrel",
+    "file": "Green_Rolling_Barrel.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/8a/Green_Rolling_Barrel.gif/revision/latest?cb=20191127192934&path-prefix=en"
+  },
+  {
+    "name": "Gryphon (Mount)",
+    "file": "Gryphon_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/db/Gryphon_%28Mount%29.gif/revision/latest?cb=20190701195201&path-prefix=en"
+  },
+  {
+    "name": "Hailstorm Fury",
+    "file": "Hailstorm_Fury.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/50/Hailstorm_Fury.gif/revision/latest?cb=20141205144113&path-prefix=en"
+  },
+  {
+    "name": "Haze",
+    "file": "Haze.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/d8/Haze.gif/revision/latest?cb=20191115184954&path-prefix=en"
+  },
+  {
+    "name": "Hibernal Moth (Mount)",
+    "file": "Hibernal_Moth_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/ca/Hibernal_Moth_%28Mount%29.gif/revision/latest?cb=20181108110504&path-prefix=en"
+  },
+  {
+    "name": "Highland Yak",
+    "file": "Highland_Yak.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b1/Highland_Yak.gif/revision/latest?cb=20141130165345&path-prefix=en"
+  },
+  {
+    "name": "Holiday Mammoth",
+    "file": "Holiday_Mammoth.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/45/Holiday_Mammoth.gif/revision/latest?cb=20201127122558&path-prefix=en"
+  },
+  {
+    "name": "Hyacinth (Mount)",
+    "file": "Hyacinth_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/5f/Hyacinth_%28Mount%29.gif/revision/latest?cb=20210611205647&path-prefix=en"
+  },
+  {
+    "name": "Icebreacher",
+    "file": "Icebreacher.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/0/02/Icebreacher.gif/revision/latest?cb=20230312155542&path-prefix=en"
+  },
+  {
+    "name": "Ink Spotted Koi",
+    "file": "Ink_Spotted_Koi.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/92/Ink_Spotted_Koi.gif/revision/latest?cb=20221125092410&path-prefix=en"
+  },
+  {
+    "name": "Ironblight (Mount)",
+    "file": "Ironblight_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/12/Ironblight_%28Mount%29.gif/revision/latest?cb=20140215163122&path-prefix=en"
+  },
+  {
+    "name": "Ivory Fang",
+    "file": "Ivory_Fang.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/6c/Ivory_Fang.gif/revision/latest?cb=20161009065253&path-prefix=en"
+  },
+  {
+    "name": "Jackalope",
+    "file": "Jackalope.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/12/Jackalope.gif/revision/latest?cb=20170105185229&path-prefix=en"
+  },
+  {
+    "name": "Jade Lion",
+    "file": "Jade_Lion.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/85/Jade_Lion.gif/revision/latest?cb=20140723165242&path-prefix=en"
+  },
+  {
+    "name": "Jade Pincer",
+    "file": "Jade_Pincer.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/a4/Jade_Pincer.gif/revision/latest?cb=20140723170446&path-prefix=en"
+  },
+  {
+    "name": "Jade Shrine",
+    "file": "Jade_Shrine.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/98/Jade_Shrine.gif/revision/latest?cb=20220311110524&path-prefix=en"
+  },
+  {
+    "name": "Jousting Eagle",
+    "file": "Jousting_Eagle.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/19/Jousting_Eagle.gif/revision/latest?cb=20190521182213&path-prefix=en"
+  },
+  {
+    "name": "Jousting Horse",
+    "file": "Jousting_Horse.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/66/Jousting_Horse.gif/revision/latest?cb=20220818160915&path-prefix=en"
+  },
+  {
+    "name": "Jungle Saurian",
+    "file": "Jungle_Saurian.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/6d/Jungle_Saurian.gif/revision/latest?cb=20170513064054&path-prefix=en"
+  },
+  {
+    "name": "Jungle Tiger",
+    "file": "Jungle_Tiger.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/0/08/Jungle_Tiger.gif/revision/latest?cb=20180608225347&path-prefix=en"
+  },
+  {
+    "name": "Kingly Deer",
+    "file": "Kingly_Deer.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/0/07/Kingly_Deer.gif/revision/latest?cb=20140214234139&path-prefix=en"
+  },
+  {
+    "name": "Krakoloss",
+    "file": "Krakoloss.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b7/Krakoloss.gif/revision/latest?cb=20201029121810&path-prefix=en"
+  },
+  {
+    "name": "Lacewing Moth (Mount)",
+    "file": "Lacewing_Moth_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/92/Lacewing_Moth_%28Mount%29.gif/revision/latest?cb=20181108005605&path-prefix=en"
+  },
+  {
+    "name": "Lady Bug",
+    "file": "Lady_Bug.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c9/Lady_Bug.gif/revision/latest?cb=20141219153248&path-prefix=en"
+  },
+  {
+    "name": "Lagoon Saurian",
+    "file": "Lagoon_Saurian.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/bd/Lagoon_Saurian.gif/revision/latest?cb=20170513064101&path-prefix=en"
+  },
+  {
+    "name": "Leaf Locust",
+    "file": "Leaf_Locust.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c3/Leaf_Locust.gif/revision/latest?cb=20250221103504&path-prefix=en"
+  },
+  {
+    "name": "Leafscuttler",
+    "file": "Leafscuttler.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/7/71/Leafscuttler.gif/revision/latest?cb=20160309192114&path-prefix=en"
+  },
+  {
+    "name": "Magic Carpet (Mount)",
+    "file": "Magic_Carpet_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/16/Magic_Carpet_%28Mount%29.gif/revision/latest?cb=20141218231420&path-prefix=en"
+  },
+  {
+    "name": "Magma Crawler (Mount)",
+    "file": "Magma_Crawler_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/26/Magma_Crawler_%28Mount%29.gif/revision/latest?cb=20140215163142&path-prefix=en"
+  },
+  {
+    "name": "Magma Skull",
+    "file": "Magma_Skull.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/6b/Magma_Skull.gif/revision/latest?cb=20230915083440&path-prefix=en"
+  },
+  {
+    "name": "Manta Ray (Mount)",
+    "file": "Manta_Ray_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/22/Manta_Ray_%28Mount%29.gif/revision/latest?cb=20140829205932&path-prefix=en"
+  },
+  {
+    "name": "Marsh Toad",
+    "file": "Marsh_Toad.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/93/Marsh_Toad.gif/revision/latest?cb=20180313130538&path-prefix=en"
+  },
+  {
+    "name": "Merry Mammoth",
+    "file": "Merry_Mammoth.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/1f/Merry_Mammoth.gif/revision/latest?cb=20201127122612&path-prefix=en"
+  },
+  {
+    "name": "Midnight Panther (Mount)",
+    "file": "Midnight_Panther_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/1f/Midnight_Panther_%28Mount%29.gif/revision/latest?cb=20140123150659&path-prefix=en"
+  },
+  {
+    "name": "Mint Ibex",
+    "file": "Mint_Ibex.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/7/77/Mint_Ibex.gif/revision/latest?cb=20220513094753&path-prefix=en"
+  },
+  {
+    "name": "Mole (Mount)",
+    "file": "Mole_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/0/09/Mole_%28Mount%29.gif/revision/latest?cb=20171113121340&path-prefix=en"
+  },
+  {
+    "name": "Mould Shell",
+    "file": "Mould_Shell.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/1a/Mould_Shell.gif/revision/latest?cb=20160610181314&path-prefix=en"
+  },
+  {
+    "name": "Mouldpincer",
+    "file": "Mouldpincer.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/88/Mouldpincer.gif/revision/latest?cb=20160309191958&path-prefix=en"
+  },
+  {
+    "name": "Mounts",
+    "file": "Mounts.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/da/Alpha_Demonosaur.gif/revision/latest?cb=20250609070219&path-prefix=en"
+  },
+  {
+    "name": "Muffled Snowman",
+    "file": "Muffled_Snowman.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/a4/Muffled_Snowman.gif/revision/latest?cb=20190104131007&path-prefix=en"
+  },
+  {
+    "name": "Mutated Abomination",
+    "file": "Mutated_Abomination.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/df/Mutated_Abomination.gif/revision/latest?cb=20221110001716&path-prefix=en"
+  },
+  {
+    "name": "Mystic Jaguar (Mount)",
+    "file": "Mystic_Jaguar_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/f8/Mystic_Jaguar_%28Mount%29.gif/revision/latest?cb=20231120195533&path-prefix=en"
+  },
+  {
+    "name": "Mystic Raven",
+    "file": "Mystic_Raven.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b2/Mystic_Raven.gif/revision/latest?cb=20211222154147&path-prefix=en"
+  },
+  {
+    "name": "Neon Sparkid",
+    "file": "Neon_Sparkid.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/30/Neon_Sparkid.gif/revision/latest?cb=20160526072617&path-prefix=en"
+  },
+  {
+    "name": "Nethersteed",
+    "file": "Nethersteed.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/60/Nethersteed.gif/revision/latest?cb=20140723171319&path-prefix=en"
+  },
+  {
+    "name": "Night Locust",
+    "file": "Night_Locust.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/af/Night_Locust.gif/revision/latest?cb=20250221103503&path-prefix=en"
+  },
+  {
+    "name": "Night Waccoon",
+    "file": "Night_Waccoon.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b7/Night_Waccoon.gif/revision/latest?cb=20150121210308&path-prefix=en"
+  },
+  {
+    "name": "Nightdweller",
+    "file": "Nightdweller.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/a5/Nightdweller.gif/revision/latest?cb=20151225154930&path-prefix=en"
+  },
+  {
+    "name": "Nightmarish Crocovile",
+    "file": "Nightmarish_Crocovile.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c7/Nightmarish_Crocovile.gif/revision/latest?cb=20190510134811&path-prefix=en"
+  },
+  {
+    "name": "Nightstinger",
+    "file": "Nightstinger.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/e/e5/Nightstinger.gif/revision/latest?cb=20150930225629&path-prefix=en"
+  },
+  {
+    "name": "Noble Lion (Mount)",
+    "file": "Noble_Lion_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/54/Noble_Lion_%28Mount%29.gif/revision/latest?cb=20140215170405&path-prefix=en"
+  },
+  {
+    "name": "Noctungra",
+    "file": "Noctungra.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/0/04/Noctungra.gif/revision/latest?cb=20150711000800&path-prefix=en"
+  },
+  {
+    "name": "Obsidian Shrine",
+    "file": "Obsidian_Shrine.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/64/Obsidian_Shrine.gif/revision/latest?cb=20220311110506&path-prefix=en"
+  },
+  {
+    "name": "Obstinate Ox",
+    "file": "Obstinate_Ox.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/7/76/Obstinate_Ox.gif/revision/latest?cb=20230807224359&path-prefix=en"
+  },
+  {
+    "name": "Pallbearer",
+    "file": "Pallbearer.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/2c/Pallbearer.gif/revision/latest?cb=20250221103952&path-prefix=en"
+  },
+  {
+    "name": "Parade Horse",
+    "file": "Parade_Horse.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/93/Parade_Horse.gif/revision/latest?cb=20220818160918&path-prefix=en"
+  },
+  {
+    "name": "Pearl Locust",
+    "file": "Pearl_Locust.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/11/Pearl_Locust.gif/revision/latest?cb=20250221103502&path-prefix=en"
+  },
+  {
+    "name": "Pegasus",
+    "file": "Pegasus.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/92/Pegasus.gif/revision/latest?cb=20240608220436&path-prefix=en"
+  },
+  {
+    "name": "Peony",
+    "file": "Peony.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/52/Peony.gif/revision/latest?cb=20210611205648&path-prefix=en"
+  },
+  {
+    "name": "Phant",
+    "file": "Phant.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/aa/Phant.gif/revision/latest?cb=20210612035246&path-prefix=en"
+  },
+  {
+    "name": "Phantasmal Jade",
+    "file": "Phantasmal_Jade.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/7/7f/Phantasmal_Jade.gif/revision/latest?cb=20200611065109&path-prefix=en"
+  },
+  {
+    "name": "Platesaurian",
+    "file": "Platesaurian.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b9/Platesaurian.gif/revision/latest?cb=20140215165232&path-prefix=en"
+  },
+  {
+    "name": "Plumfish",
+    "file": "Plumfish.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b4/Plumfish.gif/revision/latest?cb=20150512104709&path-prefix=en"
+  },
+  {
+    "name": "Poisonbane",
+    "file": "Poisonbane.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/96/Poisonbane.gif/revision/latest?cb=20141218233124&path-prefix=en"
+  },
+  {
+    "name": "Poppy Ibex",
+    "file": "Poppy_Ibex.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/df/Poppy_Ibex.gif/revision/latest?cb=20220513094807&path-prefix=en"
+  },
+  {
+    "name": "Primal Demonosaur",
+    "file": "Primal_Demonosaur.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/8c/Primal_Demonosaur.gif/revision/latest?cb=20241122224547&path-prefix=en"
+  },
+  {
+    "name": "Prismatic Unicorn",
+    "file": "Prismatic_Unicorn.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c7/Prismatic_Unicorn.gif/revision/latest?cb=20170828035859&path-prefix=en"
+  },
+  {
+    "name": "Rabbit Rickshaw",
+    "file": "Rabbit_Rickshaw.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/a2/Rabbit_Rickshaw.gif/revision/latest?cb=20190412004555&path-prefix=en"
+  },
+  {
+    "name": "Racing Bird",
+    "file": "Racing_Bird.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/d1/Racing_Bird.gif/revision/latest?cb=20140123150924&path-prefix=en"
+  },
+  {
+    "name": "Radiant Raven",
+    "file": "Radiant_Raven.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/43/Radiant_Raven.gif/revision/latest?cb=20211222154155&path-prefix=en"
+  },
+  {
+    "name": "Rapid Boar",
+    "file": "Rapid_Boar.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/9e/Rapid_Boar.gif/revision/latest?cb=20140123150953&path-prefix=en"
+  },
+  {
+    "name": "Razorcreep",
+    "file": "Razorcreep.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/bc/Razorcreep.gif/revision/latest?cb=20150930225641&path-prefix=en"
+  },
+  {
+    "name": "Red Rolling Barrel",
+    "file": "Red_Rolling_Barrel.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/e/ed/Red_Rolling_Barrel.gif/revision/latest?cb=20191127192935&path-prefix=en"
+  },
+  {
+    "name": "Reed Lurker",
+    "file": "Reed_Lurker.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/57/Reed_Lurker.gif/revision/latest?cb=20160610181315&path-prefix=en"
+  },
+  {
+    "name": "Rented Horse",
+    "file": "Rented_Horse.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/45/Rented_Horse.gif/revision/latest?cb=20140214234231&path-prefix=en"
+  },
+  {
+    "name": "Rift Runner",
+    "file": "Rift_Runner.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/e/e4/Rift_Runner.gif/revision/latest?cb=20160102133704&path-prefix=en"
+  },
+  {
+    "name": "Rift Watcher",
+    "file": "Rift_Watcher.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/82/Rift_Watcher.gif/revision/latest?cb=20210309142643&path-prefix=en"
+  },
+  {
+    "name": "Ringtail Waccoon",
+    "file": "Ringtail_Waccoon.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/33/Ringtail_Waccoon.gif/revision/latest?cb=20150121210011&path-prefix=en"
+  },
+  {
+    "name": "Ripptor",
+    "file": "Ripptor.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/5f/Ripptor.gif/revision/latest?cb=20220628143620&path-prefix=en"
+  },
+  {
+    "name": "River Crocovile",
+    "file": "River_Crocovile.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/57/River_Crocovile.gif/revision/latest?cb=20190510134812&path-prefix=en"
+  },
+  {
+    "name": "Rune Watcher",
+    "file": "Rune_Watcher.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/0/00/Rune_Watcher.gif/revision/latest?cb=20210309142821&path-prefix=en"
+  },
+  {
+    "name": "Rustwurm",
+    "file": "Rustwurm.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/6c/Rustwurm.gif/revision/latest?cb=20210910112641&path-prefix=en"
+  },
+  {
+    "name": "Sanguine Frog",
+    "file": "Sanguine_Frog.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/2a/Sanguine_Frog.gif/revision/latest?cb=20180313130539&path-prefix=en"
+  },
+  {
+    "name": "Satin Moth",
+    "file": "Satin_Moth.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/f0/Satin_Moth.gif/revision/latest?cb=20251224191238&path-prefix=en"
+  },
+  {
+    "name": "Savanna Ostrich",
+    "file": "Savanna_Ostrich.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/44/Savanna_Ostrich.gif/revision/latest?cb=20200708131410&path-prefix=en"
+  },
+  {
+    "name": "Scorpion King",
+    "file": "Scorpion_King.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/45/Scorpion_King.gif/revision/latest?cb=20170620191336&path-prefix=en"
+  },
+  {
+    "name": "Scruffy Hyaena",
+    "file": "Scruffy_Hyaena.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/29/Scruffy_Hyaena.gif/revision/latest?cb=20200710120647&path-prefix=en"
+  },
+  {
+    "name": "Sea Devil",
+    "file": "Sea_Devil.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/85/Sea_Devil.gif/revision/latest?cb=20150512105521&path-prefix=en"
+  },
+  {
+    "name": "Shadow Claw",
+    "file": "Shadow_Claw.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/82/Shadow_Claw.gif/revision/latest?cb=20161009065315&path-prefix=en"
+  },
+  {
+    "name": "Shadow Draptor",
+    "file": "Shadow_Draptor.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/4e/Shadow_Draptor.gif/revision/latest?cb=20140214234429&path-prefix=en"
+  },
+  {
+    "name": "Shadow Hart",
+    "file": "Shadow_Hart.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/af/Shadow_Hart.gif/revision/latest?cb=20141218231700&path-prefix=en"
+  },
+  {
+    "name": "Shadow Sphinx",
+    "file": "Shadow_Sphinx.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/f9/Shadow_Sphinx.gif/revision/latest?cb=20170923204041&path-prefix=en"
+  },
+  {
+    "name": "Shellodon",
+    "file": "Shellodon.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/1e/Shellodon.gif/revision/latest?cb=20210612034622&path-prefix=en"
+  },
+  {
+    "name": "Shock Head (Mount)",
+    "file": "Shock_Head_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b4/Shock_Head_%28Mount%29.gif/revision/latest?cb=20140215171835&path-prefix=en"
+  },
+  {
+    "name": "Siegebreaker",
+    "file": "Siegebreaker.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/83/Siegebreaker.gif/revision/latest?cb=20141218233503&path-prefix=en"
+  },
+  {
+    "name": "Silverneck",
+    "file": "Silverneck.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/66/Silverneck.gif/revision/latest?cb=20150711000809&path-prefix=en"
+  },
+  {
+    "name": "Singeing Steed",
+    "file": "Singeing_Steed.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/5f/Singeing_Steed.gif/revision/latest?cb=20210612023634&path-prefix=en"
+  },
+  {
+    "name": "Skybreaker Pegasus",
+    "file": "Skybreaker_Pegasus.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/25/Skybreaker_Pegasus.gif/revision/latest?cb=20240225123439&path-prefix=en"
+  },
+  {
+    "name": "Slagsnare",
+    "file": "Slagsnare.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c1/Slagsnare.gif/revision/latest?cb=20150930225621&path-prefix=en"
+  },
+  {
+    "name": "Snow Pelt",
+    "file": "Snow_Pelt.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/2e/Snow_Pelt.gif/revision/latest?cb=20161009065328&path-prefix=en"
+  },
+  {
+    "name": "Snow Strider",
+    "file": "Snow_Strider.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/cd/Snow_Strider.gif/revision/latest?cb=20200117204835&path-prefix=en"
+  },
+  {
+    "name": "Snowy Owl",
+    "file": "Snowy_Owl.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/f7/Snowy_Owl.gif/revision/latest?cb=20180914123724&path-prefix=en"
+  },
+  {
+    "name": "Soul Phoenix",
+    "file": "Soul_Phoenix.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/2d/Soul_Phoenix.gif/revision/latest?cb=20251103050553&path-prefix=en"
+  },
+  {
+    "name": "Sparkion (Mount)",
+    "file": "Sparkion_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/f1/Sparkion_%28Mount%29.gif/revision/latest?cb=20160415132033&path-prefix=en"
+  },
+  {
+    "name": "Spirit of Purity",
+    "file": "Spirit_of_Purity.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/af/Spirit_of_Purity.gif/revision/latest?cb=20230622075015&path-prefix=en"
+  },
+  {
+    "name": "Stampor (Mount)",
+    "file": "Stampor_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/a0/Stampor_%28Mount%29.gif/revision/latest?cb=20141218234011&path-prefix=en"
+  },
+  {
+    "name": "Steel Bee",
+    "file": "Steel_Bee.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/92/Steel_Bee.gif/revision/latest?cb=20190523172702&path-prefix=en"
+  },
+  {
+    "name": "Steelbeak",
+    "file": "Steelbeak.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/be/Steelbeak.gif/revision/latest?cb=20140215164711&path-prefix=en"
+  },
+  {
+    "name": "Stone Rhino (Mount)",
+    "file": "Stone_Rhino_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c7/Stone_Rhino_%28Mount%29.gif/revision/latest?cb=20161103184251&path-prefix=en"
+  },
+  {
+    "name": "Surly Steer",
+    "file": "Surly_Steer.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/a5/Surly_Steer.gif/revision/latest?cb=20230807224423&path-prefix=en"
+  },
+  {
+    "name": "Swamp Crocovile",
+    "file": "Swamp_Crocovile.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/ac/Swamp_Crocovile.gif/revision/latest?cb=20190510134812&path-prefix=en"
+  },
+  {
+    "name": "Swamp Snapper",
+    "file": "Swamp_Snapper.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c5/Swamp_Snapper.gif/revision/latest?cb=20160610181316&path-prefix=en"
+  },
+  {
+    "name": "Tamed Panda",
+    "file": "Tamed_Panda.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/62/Tamed_Panda.gif/revision/latest?cb=20140214234443&path-prefix=en"
+  },
+  {
+    "name": "Tangerine Flecked Koi",
+    "file": "Tangerine_Flecked_Koi.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/d0/Tangerine_Flecked_Koi.gif/revision/latest?cb=20221125092411&path-prefix=en"
+  },
+  {
+    "name": "Tawny Owl",
+    "file": "Tawny_Owl.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/67/Tawny_Owl.gif/revision/latest?cb=20180914123725&path-prefix=en"
+  },
+  {
+    "name": "Tempest",
+    "file": "Tempest.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c6/Tempest.gif/revision/latest?cb=20140723172039&path-prefix=en"
+  },
+  {
+    "name": "The Hellgrip",
+    "file": "The_Hellgrip.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/58/The_Hellgrip.gif/revision/latest?cb=20140215170319&path-prefix=en"
+  },
+  {
+    "name": "Tiger Slug",
+    "file": "Tiger_Slug.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/cc/Tiger_Slug.gif/revision/latest?cb=20140214234529&path-prefix=en"
+  },
+  {
+    "name": "Tin Lizzard",
+    "file": "Tin_Lizzard.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c2/Tin_Lizzard.gif/revision/latest?cb=20140123151244&path-prefix=en"
+  },
+  {
+    "name": "Titanica",
+    "file": "Titanica.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/32/Titanica.gif/revision/latest?cb=20140123151318&path-prefix=en"
+  },
+  {
+    "name": "Tombstinger",
+    "file": "Tombstinger.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/47/Tombstinger.gif/revision/latest?cb=20140215165239&path-prefix=en"
+  },
+  {
+    "name": "Topaz Shrine",
+    "file": "Topaz_Shrine.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/68/Topaz_Shrine.gif/revision/latest?cb=20220311110445&path-prefix=en"
+  },
+  {
+    "name": "Tourney Horse",
+    "file": "Tourney_Horse.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/5c/Tourney_Horse.gif/revision/latest?cb=20220818160917&path-prefix=en"
+  },
+  {
+    "name": "Toxic Toad",
+    "file": "Toxic_Toad.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/6a/Toxic_Toad.gif/revision/latest?cb=20180313130540&path-prefix=en"
+  },
+  {
+    "name": "Tundra Rambler",
+    "file": "Tundra_Rambler.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/89/Tundra_Rambler.gif/revision/latest?cb=20141130165346&path-prefix=en"
+  },
+  {
+    "name": "Undead Cavebear (Mount)",
+    "file": "Undead_Cavebear_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/86/Undead_Cavebear_%28Mount%29.gif/revision/latest?cb=20140123151410&path-prefix=en"
+  },
+  {
+    "name": "Uniwheel",
+    "file": "Uniwheel.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/e/e5/Uniwheel.gif/revision/latest?cb=20140214234600&path-prefix=en"
+  },
+  {
+    "name": "Ursagrodon",
+    "file": "Ursagrodon.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/bc/Ursagrodon.gif/revision/latest?cb=20140215165246&path-prefix=en"
+  },
+  {
+    "name": "Venompaw",
+    "file": "Venompaw.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/3a/Venompaw.gif/revision/latest?cb=20150430142809&path-prefix=en"
+  },
+  {
+    "name": "Void Watcher",
+    "file": "Void_Watcher.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/6e/Void_Watcher.gif/revision/latest?cb=20210309142702&path-prefix=en"
+  },
+  {
+    "name": "Voracious Hyaena",
+    "file": "Voracious_Hyaena.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/7/7c/Voracious_Hyaena.gif/revision/latest?cb=20200710120647&path-prefix=en"
+  },
+  {
+    "name": "Vortexion",
+    "file": "Vortexion.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/4d/Vortexion.gif/revision/latest?cb=20160526072655&path-prefix=en"
+  },
+  {
+    "name": "Walker (Mount)",
+    "file": "Walker_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/7/7d/Walker_%28Mount%29.gif/revision/latest?cb=20140613153549&path-prefix=en"
+  },
+  {
+    "name": "War Bear",
+    "file": "War_Bear.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/e/e5/War_Bear.gif/revision/latest?cb=20140120205612&path-prefix=en"
+  },
+  {
+    "name": "War Horse",
+    "file": "War_Horse.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/e/e7/War_Horse.gif/revision/latest?cb=20140214234637&path-prefix=en"
+  },
+  {
+    "name": "Water Buffalo (Mount)",
+    "file": "Water_Buffalo_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/d6/Water_Buffalo_%28Mount%29.gif/revision/latest?cb=20140215164630&path-prefix=en"
+  },
+  {
+    "name": "White Lion (Mount)",
+    "file": "White_Lion_(Mount).png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/34/White_Lion_%28Mount%29.gif/revision/latest?cb=20200626180513&path-prefix=en"
+  },
+  {
+    "name": "Widow Queen",
+    "file": "Widow_Queen.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/36/Widow_Queen.gif/revision/latest?cb=20140123151447&path-prefix=en"
+  },
+  {
+    "name": "Winter King",
+    "file": "Winter_King.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/9a/Winter_King.gif/revision/latest?cb=20140723164538&path-prefix=en"
+  },
+  {
+    "name": "Winterstride",
+    "file": "Winterstride.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/6e/Winterstride.gif/revision/latest?cb=20230312155541&path-prefix=en"
+  },
+  {
+    "name": "Wolpertinger",
+    "file": "Wolpertinger.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/d2/Wolpertinger.gif/revision/latest?cb=20170105185250&path-prefix=en"
+  },
+  {
+    "name": "Woodland Prince",
+    "file": "Woodland_Prince.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c7/Woodland_Prince.gif/revision/latest?cb=20141205143537&path-prefix=en"
+  },
+  {
+    "name": "Wrathfire Pegasus",
+    "file": "Wrathfire_Pegasus.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/4b/Wrathfire_Pegasus.gif/revision/latest?cb=20240225123440&path-prefix=en"
+  },
+  {
+    "name": "Zaoan Badger",
+    "file": "Zaoan_Badger.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/a9/Zaoan_Badger.gif/revision/latest?cb=20190809124036&path-prefix=en"
+  }
+]

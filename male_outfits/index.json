@@ -1,0 +1,657 @@
+[
+  {
+    "name": "Afflicted Outfits",
+    "file": "Afflicted_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/df/Outfit_Afflicted_Male_Addon_3.gif/revision/latest?cb=20110703045427&path-prefix=en"
+  },
+  {
+    "name": "Ancient Aucar Outfits",
+    "file": "Ancient_Aucar_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/8d/Outfit_Ancient_Aucar_Male_Addon_3.gif/revision/latest?cb=20221110000724&path-prefix=en"
+  },
+  {
+    "name": "Arbalester Outfits",
+    "file": "Arbalester_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/0/0d/Outfit_Arbalester_Male_Addon_3.gif/revision/latest?cb=20211008153903&path-prefix=en"
+  },
+  {
+    "name": "Arena Champion Outfits",
+    "file": "Arena_Champion_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/62/Outfit_Arena_Champion_Male_Addon_3.gif/revision/latest?cb=20170925204546&path-prefix=en"
+  },
+  {
+    "name": "Armoured Archer Outfits",
+    "file": "Armoured_Archer_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/a4/Outfit_Armoured_Archer_Male_Addon_3.gif/revision/latest?cb=20230414084456&path-prefix=en"
+  },
+  {
+    "name": "Assassin Outfits",
+    "file": "Assassin_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/df/Outfit_Assassin_Male_Addon_3.gif/revision/latest?cb=20060830000022&path-prefix=en"
+  },
+  {
+    "name": "Barbarian Outfits",
+    "file": "Barbarian_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/83/Outfit_Barbarian_Male_Addon_3.gif/revision/latest?cb=20060828193754&path-prefix=en"
+  },
+  {
+    "name": "Bat Knight Outfits",
+    "file": "Bat_Knight_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/12/Outfit_Bat_Knight_Male_Addon_3.gif/revision/latest?cb=20251103045408&path-prefix=en"
+  },
+  {
+    "name": "Battle Mage Outfits",
+    "file": "Battle_Mage_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/f7/Outfit_Battle_Mage_Male_Addon_3.gif/revision/latest?cb=20230730025049&path-prefix=en"
+  },
+  {
+    "name": "Beastmaster Outfits",
+    "file": "Beastmaster_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/a4/Outfit_Beastmaster_Male_Addon_3.gif/revision/latest?cb=20150501152344&path-prefix=en"
+  },
+  {
+    "name": "Beekeeper Outfits",
+    "file": "Beekeeper_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/4f/Outfit_Beekeeper_Male_Addon_3.gif/revision/latest?cb=20240627002857&path-prefix=en"
+  },
+  {
+    "name": "Beggar Outfits",
+    "file": "Beggar_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/15/Outfit_Beggar_Male_Addon_3.gif/revision/latest?cb=20060830023036&path-prefix=en"
+  },
+  {
+    "name": "Blade Dancer Outfits",
+    "file": "Blade_Dancer_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/2c/Outfit_Blade_Dancer_Male_Addon_3.gif/revision/latest?cb=20240517161921&path-prefix=en"
+  },
+  {
+    "name": "Breezy Garb Outfits",
+    "file": "Breezy_Garb_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/a5/Outfit_Breezy_Garb_Male_Addon_3.gif/revision/latest?cb=20190712165129&path-prefix=en"
+  },
+  {
+    "name": "Brotherhood Outfits",
+    "file": "Brotherhood_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/48/Outfit_Brotherhood_Male_Addon_3.gif/revision/latest?cb=20080106220831&path-prefix=en"
+  },
+  {
+    "name": "Cave Explorer Outfits",
+    "file": "Cave_Explorer_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/f0/Outfit_Cave_Explorer_Male_Addon_3.gif/revision/latest?cb=20140905173146&path-prefix=en"
+  },
+  {
+    "name": "Celestial Avenger Outfits",
+    "file": "Celestial_Avenger_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/54/Outfit_Celestial_Avenger_Male_Addon_3.gif/revision/latest?cb=20240225135840&path-prefix=en"
+  },
+  {
+    "name": "Ceremonial Garb Outfits",
+    "file": "Ceremonial_Garb_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/26/Outfit_Ceremonial_Garb_Male_Addon_3.gif/revision/latest?cb=20150501150748&path-prefix=en"
+  },
+  {
+    "name": "Champion Outfits",
+    "file": "Champion_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b1/Outfit_Champion_Male_Addon_3.gif/revision/latest?cb=20150501213519&path-prefix=en"
+  },
+  {
+    "name": "Chaos Acolyte Outfits",
+    "file": "Chaos_Acolyte_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/4c/Outfit_Chaos_Acolyte_Male_Addon_3.gif/revision/latest?cb=20230730025229&path-prefix=en"
+  },
+  {
+    "name": "Citizen Outfits",
+    "file": "Citizen_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/de/Outfit_Citizen_Male_Addon_3.gif/revision/latest?cb=20080914230713&path-prefix=en"
+  },
+  {
+    "name": "Citizen of Issavi Outfits",
+    "file": "Citizen_of_Issavi_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/60/Outfit_Citizen_of_Issavi_Male_Addon_3.gif/revision/latest?cb=20210521150840&path-prefix=en"
+  },
+  {
+    "name": "Conjurer Outfits",
+    "file": "Conjurer_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/8c/Outfit_Conjurer_Male_Addon_3.gif/revision/latest?cb=20141015215034&path-prefix=en"
+  },
+  {
+    "name": "Crystal Warlord Outfits",
+    "file": "Crystal_Warlord_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/11/Outfit_Crystal_Warlord_Male_Addon_3.gif/revision/latest?cb=20120627183205&path-prefix=en"
+  },
+  {
+    "name": "Darklight Evoker Outfits",
+    "file": "Darklight_Evoker_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c0/Outfit_Darklight_Evoker_Male_Addon_3.gif/revision/latest?cb=20230729231517&path-prefix=en"
+  },
+  {
+    "name": "Death Herald Outfits",
+    "file": "Death_Herald_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/da/Outfit_Death_Herald_Male_Addon_3.gif/revision/latest?cb=20150501182805&path-prefix=en"
+  },
+  {
+    "name": "Decaying Defender Outfits",
+    "file": "Decaying_Defender_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/56/Outfit_Decaying_Defender_Male_Addon_3.gif/revision/latest?cb=20230730030155&path-prefix=en"
+  },
+  {
+    "name": "Deepling Outfits",
+    "file": "Deepling_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/58/Outfit_Deepling_Male_Addon_3.gif/revision/latest?cb=20111209211437&path-prefix=en"
+  },
+  {
+    "name": "Demon Hunter Outfits",
+    "file": "Demon_Hunter_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/2b/Outfit_Demon_Hunter_Male_Addon_3.gif/revision/latest?cb=20080725221302&path-prefix=en"
+  },
+  {
+    "name": "Demon Outfits",
+    "file": "Demon_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/17/Outfit_Demon_Male_Addon_3.gif/revision/latest?cb=20121214220522&path-prefix=en"
+  },
+  {
+    "name": "Discoverer Outfits",
+    "file": "Discoverer_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b6/Outfit_Discoverer_Male_Addon_3.gif/revision/latest?cb=20180609031355&path-prefix=en"
+  },
+  {
+    "name": "Doom Knight Outfits",
+    "file": "Doom_Knight_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/4a/Outfit_Doom_Knight_Male_Addon_3.gif/revision/latest?cb=20231222230246&path-prefix=en"
+  },
+  {
+    "name": "Draccoon Herald Outfits",
+    "file": "Draccoon_Herald_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/81/Outfit_Draccoon_Herald_Male_Addon_3.gif/revision/latest?cb=20231115021317&path-prefix=en"
+  },
+  {
+    "name": "Dragon Knight Outfits",
+    "file": "Dragon_Knight_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/af/Outfit_Dragon_Knight_Male_Addon_3.gif/revision/latest?cb=20210710200936&path-prefix=en"
+  },
+  {
+    "name": "Dragon Slayer Outfits",
+    "file": "Dragon_Slayer_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c5/Outfit_Dragon_Slayer_Male_Addon_3.gif/revision/latest?cb=20200416171812&path-prefix=en"
+  },
+  {
+    "name": "Dream Warden Outfits",
+    "file": "Dream_Warden_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/fe/Outfit_Dream_Warden_Male_Addon_3.gif/revision/latest?cb=20131130233459&path-prefix=en"
+  },
+  {
+    "name": "Dream Warrior Outfits",
+    "file": "Dream_Warrior_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/35/Outfit_Dream_Warrior_Male_Addon_3.gif/revision/latest?cb=20181108184837&path-prefix=en"
+  },
+  {
+    "name": "Druid Outfits",
+    "file": "Druid_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b4/Outfit_Druid_Male_Addon_3.gif/revision/latest?cb=20190809144419&path-prefix=en"
+  },
+  {
+    "name": "Elementalist Outfits",
+    "file": "Elementalist_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/87/Outfit_Elementalist_Male_Addon_3.gif/revision/latest?cb=20110703050022&path-prefix=en"
+  },
+  {
+    "name": "Entrepreneur Outfits",
+    "file": "Entrepreneur_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/9c/Outfit_Entrepreneur_Male_Addon_3.gif/revision/latest?cb=20180801224154&path-prefix=en"
+  },
+  {
+    "name": "Evoker Outfits",
+    "file": "Evoker_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/cd/Outfit_Evoker_Male_Addon_3.gif/revision/latest?cb=20230730032138&path-prefix=en"
+  },
+  {
+    "name": "Falconer Outfits",
+    "file": "Falconer_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/7/7e/Outfit_Falconer_Male_Addon_3.gif/revision/latest?cb=20191113164015&path-prefix=en"
+  },
+  {
+    "name": "Fencer Outfits",
+    "file": "Fencer_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/39/Outfit_Fencer_Male_Addon_3.gif/revision/latest?cb=20220708171425&path-prefix=en"
+  },
+  {
+    "name": "Feral Trapper Outfits",
+    "file": "Feral_Trapper_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/7/76/Outfit_Feral_Trapper_Male_Addon_3.gif/revision/latest?cb=20251126001800&path-prefix=en"
+  },
+  {
+    "name": "Festive Outfits",
+    "file": "Festive_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/9b/Outfit_Festive_Male_Addon_3.gif/revision/latest?cb=20170828164935&path-prefix=en"
+  },
+  {
+    "name": "Field Surgeon Outfits",
+    "file": "Field_Surgeon_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/93/Outfit_Field_Surgeon_Male_Addon_3.gif/revision/latest?cb=20250305173715&path-prefix=en"
+  },
+  {
+    "name": "Fiend Slayer Outfits",
+    "file": "Fiend_Slayer_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/0/0e/Outfit_Fiend_Slayer_Male_Addon_3.gif/revision/latest?cb=20241105205638&path-prefix=en"
+  },
+  {
+    "name": "Fire-Fighter Outfits",
+    "file": "Fire-Fighter_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c4/Outfit_Fire-Fighter_Male_Addon_3.gif/revision/latest?cb=20230730032330&path-prefix=en"
+  },
+  {
+    "name": "Flamefury Mage Outfits",
+    "file": "Flamefury_Mage_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/f4/Outfit_Flamefury_Mage_Male_Addon_3.gif/revision/latest?cb=20230729230836&path-prefix=en"
+  },
+  {
+    "name": "Forest Warden Outfits",
+    "file": "Forest_Warden_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/55/Outfit_Forest_Warden_Male_Addon_3.gif/revision/latest?cb=20210517180640&path-prefix=en"
+  },
+  {
+    "name": "Formal Dress Outfits",
+    "file": "Formal_Dress_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/54/Outfit_Formal_Dress_Male_Addon_3.gif/revision/latest?cb=20220107210732&path-prefix=en"
+  },
+  {
+    "name": "Frost Tracer Outfits",
+    "file": "Frost_Tracer_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/81/Outfit_Frost_Tracer_Male_Addon_3.gif/revision/latest?cb=20230730032444&path-prefix=en"
+  },
+  {
+    "name": "Ghost Blade Outfits",
+    "file": "Ghost_Blade_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/f7/Outfit_Ghost_Blade_Male_Addon_3.gif/revision/latest?cb=20230730032609&path-prefix=en"
+  },
+  {
+    "name": "Glooth Engineer Outfits",
+    "file": "Glooth_Engineer_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/fe/Outfit_Glooth_Engineer_Male_Addon_3.gif/revision/latest?cb=20140905171729&path-prefix=en"
+  },
+  {
+    "name": "Golden Outfits",
+    "file": "Golden_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/48/Outfit_Golden_Male_Addon_3.gif/revision/latest?cb=20230730033013&path-prefix=en"
+  },
+  {
+    "name": "Grove Keeper Outfits",
+    "file": "Grove_Keeper_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/bb/Outfit_Grove_Keeper_Male_Addon_3.gif/revision/latest?cb=20170925183139&path-prefix=en"
+  },
+  {
+    "name": "Guidon Bearer Outfits",
+    "file": "Guidon_Bearer_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/36/Outfit_Guidon_Bearer_Male_Addon_3.gif/revision/latest?cb=20190416172355&path-prefix=en"
+  },
+  {
+    "name": "Hand of the Inquisition Outfits",
+    "file": "Hand_of_the_Inquisition_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/9c/Outfit_Hand_of_the_Inquisition_Male_Addon_3.gif/revision/latest?cb=20190702023742&path-prefix=en"
+  },
+  {
+    "name": "Herbalist Outfits",
+    "file": "Herbalist_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/3f/Outfit_Herbalist_Male_Addon_3.gif/revision/latest?cb=20171014034131&path-prefix=en"
+  },
+  {
+    "name": "Herder Outfits",
+    "file": "Herder_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/85/Outfit_Herder_Male_Addon_3.gif/revision/latest?cb=20191129122005&path-prefix=en"
+  },
+  {
+    "name": "Hunter Outfits",
+    "file": "Hunter_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/9a/Outfit_Hunter_Male_Addon_3.gif/revision/latest?cb=20190809144411&path-prefix=en"
+  },
+  {
+    "name": "Illuminator Outfits",
+    "file": "Illuminator_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/93/Outfit_Illuminator_Male_Addon_3.gif/revision/latest?cb=20250804105629&path-prefix=en"
+  },
+  {
+    "name": "Insectoid Outfits",
+    "file": "Insectoid_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b0/Outfit_Insectoid_Male_Addon_3.gif/revision/latest?cb=20111211144425&path-prefix=en"
+  },
+  {
+    "name": "Jersey Outfits",
+    "file": "Jersey_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/ca/None.gif/revision/latest?cb=20050621040353&path-prefix=en"
+  },
+  {
+    "name": "Jester Outfits",
+    "file": "Jester_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/49/Outfit_Jester_Male_Addon_3.gif/revision/latest?cb=20071214023502&path-prefix=en"
+  },
+  {
+    "name": "Jouster Outfits",
+    "file": "Jouster_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/37/Outfit_Jouster_Male_Addon_3.gif/revision/latest?cb=20200714233703&path-prefix=en"
+  },
+  {
+    "name": "Knight Outfits",
+    "file": "Knight_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/91/Outfit_Knight_Male_Addon_3.gif/revision/latest?cb=20060828194452&path-prefix=en"
+  },
+  {
+    "name": "Lion of War Outfits",
+    "file": "Lion_of_War_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/43/Outfit_Lion_of_War_Male_Addon_3.gif/revision/latest?cb=20230730034921&path-prefix=en"
+  },
+  {
+    "name": "Lupine Warden Outfits",
+    "file": "Lupine_Warden_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/4d/Outfit_Lupine_Warden_Male_Addon_3.gif/revision/latest?cb=20160917074947&path-prefix=en"
+  },
+  {
+    "name": "Mage Outfits",
+    "file": "Mage_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/da/Outfit_Mage_Male_Addon_3.gif/revision/latest?cb=20190809144407&path-prefix=en"
+  },
+  {
+    "name": "Makeshift Warrior Outfits",
+    "file": "Makeshift_Warrior_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/64/Outfit_Makeshift_Warrior_Male_Addon_3.gif/revision/latest?cb=20180130124448&path-prefix=en"
+  },
+  {
+    "name": "Martial Artist Outfits",
+    "file": "Martial_Artist_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c6/Outfit_Martial_Artist_Male_Addon_3.gif/revision/latest?cb=20250503125938&path-prefix=en"
+  },
+  {
+    "name": "Mercenary Outfits",
+    "file": "Mercenary_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/e/ec/Outfit_Mercenary_Male_Addon_3.gif/revision/latest?cb=20180412135625&path-prefix=en"
+  },
+  {
+    "name": "Merry Garb Outfits",
+    "file": "Merry_Garb_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/4d/Outfit_Merry_Garb_Male_Addon_3.gif/revision/latest?cb=20201222172040&path-prefix=en"
+  },
+  {
+    "name": "Monk Outfits",
+    "file": "Monk_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/53/Outfit_Monk_Male_Addon_3.gif/revision/latest?cb=20250303105930&path-prefix=en"
+  },
+  {
+    "name": "Moth Cape Outfits",
+    "file": "Moth_Cape_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/6e/Outfit_Moth_Cape_Male_Addon_3.gif/revision/latest?cb=20200911132747&path-prefix=en"
+  },
+  {
+    "name": "Necromancer Outfits",
+    "file": "Necromancer_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/ff/Outfit_Necromancer_Male_Addon_3.gif/revision/latest?cb=20251103131614&path-prefix=en"
+  },
+  {
+    "name": "Newly Wed Outfits",
+    "file": "Newly_Wed_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/ca/None.gif/revision/latest?cb=20050621040353&path-prefix=en"
+  },
+  {
+    "name": "Nightmare Outfits",
+    "file": "Nightmare_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c7/Outfit_Nightmare_Male_Addon_3.gif/revision/latest?cb=20180710152405&path-prefix=en"
+  },
+  {
+    "name": "Nobleman Outfits",
+    "file": "Nobleman_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/a0/Outfit_Nobleman_Male_Addon_3.gif/revision/latest?cb=20060829001752&path-prefix=en"
+  },
+  {
+    "name": "Nordic Chieftain Outfits",
+    "file": "Nordic_Chieftain_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b9/Outfit_Nordic_Chieftain_Male_Addon_3.gif/revision/latest?cb=20220408140743&path-prefix=en"
+  },
+  {
+    "name": "Norseman Outfits",
+    "file": "Norseman_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/0/04/Outfit_Norseman_Male_Addon_3.gif/revision/latest?cb=20070628223426&path-prefix=en"
+  },
+  {
+    "name": "Orcsoberfest Garb Outfits",
+    "file": "Orcsoberfest_Garb_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/13/Outfit_Orcsoberfest_Garb_Male_Addon_3.gif/revision/latest?cb=20191127184243&path-prefix=en"
+  },
+  {
+    "name": "Oriental Outfits",
+    "file": "Oriental_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b3/Outfit_Oriental_Male_Addon_3.gif/revision/latest?cb=20060829022737&path-prefix=en"
+  },
+  {
+    "name": "Owl Keeper Outfits",
+    "file": "Owl_Keeper_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/2e/Outfit_Owl_Keeper_Male_Addon_3.gif/revision/latest?cb=20190206130718&path-prefix=en"
+  },
+  {
+    "name": "Percht Raider Outfits",
+    "file": "Percht_Raider_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/f1/Outfit_Percht_Raider_Male_Addon_3.gif/revision/latest?cb=20181227222452&path-prefix=en"
+  },
+  {
+    "name": "Pharaoh Outfits",
+    "file": "Pharaoh_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/a5/Outfit_Pharaoh_Male_Addon_3.gif/revision/latest?cb=20170925221259&path-prefix=en"
+  },
+  {
+    "name": "Philosopher Outfits",
+    "file": "Philosopher_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/60/Outfit_Philosopher_Male_Addon_3.gif/revision/latest?cb=20160319165037&path-prefix=en"
+  },
+  {
+    "name": "Phoenix Evoker Outfits",
+    "file": "Phoenix_Evoker_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/c6/Outfit_Phoenix_Evoker_Male_Addon_3.gif/revision/latest?cb=20251224190421&path-prefix=en"
+  },
+  {
+    "name": "Pirate Outfits",
+    "file": "Pirate_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/db/Outfit_Pirate_Male_Addon_3.gif/revision/latest?cb=20060830023153&path-prefix=en"
+  },
+  {
+    "name": "Poltergeist Outfits",
+    "file": "Poltergeist_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/a5/Outfit_Poltergeist_Male_Addon_3.gif/revision/latest?cb=20191114142030&path-prefix=en"
+  },
+  {
+    "name": "Pumpkin Mummy Outfits",
+    "file": "Pumpkin_Mummy_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/4c/Outfit_Pumpkin_Mummy_Male_Addon_3.gif/revision/latest?cb=20181019132102&path-prefix=en"
+  },
+  {
+    "name": "Puppeteer Outfits",
+    "file": "Puppeteer_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/3e/Outfit_Puppeteer_Male_Addon_3.gif/revision/latest?cb=20150507230711&path-prefix=en"
+  },
+  {
+    "name": "Ranger Outfits",
+    "file": "Ranger_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/1a/Outfit_Ranger_Male_Addon_3.gif/revision/latest?cb=20150501214740&path-prefix=en"
+  },
+  {
+    "name": "Rascoohan Outfits",
+    "file": "Rascoohan_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/7/7b/Outfit_Rascoohan_Male_Addon_3.gif/revision/latest?cb=20201105161615&path-prefix=en"
+  },
+  {
+    "name": "Recruiter Outfits",
+    "file": "Recruiter_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/50/Outfit_Recruiter_Male_Addon_3.gif/revision/latest?cb=20150812091909&path-prefix=en"
+  },
+  {
+    "name": "Retro Citizen Outfits",
+    "file": "Retro_Citizen_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/ca/None.gif/revision/latest?cb=20050621040353&path-prefix=en"
+  },
+  {
+    "name": "Retro Hunter Outfits",
+    "file": "Retro_Hunter_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/ca/None.gif/revision/latest?cb=20050621040353&path-prefix=en"
+  },
+  {
+    "name": "Retro Knight Outfits",
+    "file": "Retro_Knight_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/ca/None.gif/revision/latest?cb=20050621040353&path-prefix=en"
+  },
+  {
+    "name": "Retro Mage Outfits",
+    "file": "Retro_Mage_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/ca/None.gif/revision/latest?cb=20050621040353&path-prefix=en"
+  },
+  {
+    "name": "Retro Nobleman Outfits",
+    "file": "Retro_Nobleman_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/ca/None.gif/revision/latest?cb=20050621040353&path-prefix=en"
+  },
+  {
+    "name": "Retro Summoner Outfits",
+    "file": "Retro_Summoner_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/c/ca/None.gif/revision/latest?cb=20050621040353&path-prefix=en"
+  },
+  {
+    "name": "Retro Warrior Outfits",
+    "file": "Retro_Warrior_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/e/e6/Outfit_Retro_Warrior_Male_Addon_3.gif/revision/latest?cb=20170526112325&path-prefix=en"
+  },
+  {
+    "name": "Revenant Outfits",
+    "file": "Revenant_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/7/74/Outfit_Revenant_Male_Addon_3.gif/revision/latest?cb=20230730035153&path-prefix=en"
+  },
+  {
+    "name": "Rift Warrior Outfits",
+    "file": "Rift_Warrior_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/22/Outfit_Rift_Warrior_Male_Addon_3.gif/revision/latest?cb=20160319171950&path-prefix=en"
+  },
+  {
+    "name": "Rootwalker Outfits",
+    "file": "Rootwalker_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/3f/Outfit_Rootwalker_Male_Addon_3.gif/revision/latest?cb=20240617092000&path-prefix=en"
+  },
+  {
+    "name": "Royal Bounacean Advisor Outfits",
+    "file": "Royal_Bounacean_Advisor_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/a2/Outfit_Royal_Bounacean_Advisor_Male_Addon_3.gif/revision/latest?cb=20210611030412&path-prefix=en"
+  },
+  {
+    "name": "Royal Costume Outfits",
+    "file": "Royal_Costume_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/81/Outfit_Royal_Costume_Male_Addon_3.gif/revision/latest?cb=20211125152348&path-prefix=en"
+  },
+  {
+    "name": "Royal Pumpkin Outfits",
+    "file": "Royal_Pumpkin_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/6d/Outfit_Royal_Pumpkin_Male_Addon_3.gif/revision/latest?cb=20151031004013&path-prefix=en"
+  },
+  {
+    "name": "Rune Master Outfits",
+    "file": "Rune_Master_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/5b/Outfit_Rune_Master_Male_Addon_3.gif/revision/latest?cb=20230730035252&path-prefix=en"
+  },
+  {
+    "name": "Sea Dog Outfits",
+    "file": "Sea_Dog_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/6/66/Outfit_Sea_Dog_Male_Addon_3.gif/revision/latest?cb=20150812091826&path-prefix=en"
+  },
+  {
+    "name": "Seaweaver Outfits",
+    "file": "Seaweaver_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/4/48/Outfit_Seaweaver_Male_Addon_3.gif/revision/latest?cb=20150512133910&path-prefix=en"
+  },
+  {
+    "name": "Shadowlotus Disciple Outfits",
+    "file": "Shadowlotus_Disciple_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/f/f6/Outfit_Shadowlotus_Disciple_Male_Addon_3.gif/revision/latest?cb=20221018225032&path-prefix=en"
+  },
+  {
+    "name": "Shaman Outfits",
+    "file": "Shaman_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/38/Outfit_Shaman_Male_Addon_3.gif/revision/latest?cb=20060830042833&path-prefix=en"
+  },
+  {
+    "name": "Siege Master Outfits",
+    "file": "Siege_Master_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/d6/Outfit_Siege_Master_Male_Addon_3.gif/revision/latest?cb=20180216133829&path-prefix=en"
+  },
+  {
+    "name": "Sinister Archer Outfits",
+    "file": "Sinister_Archer_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/e/e0/Outfit_Sinister_Archer_Male_Addon_3.gif/revision/latest?cb=20180713172240&path-prefix=en"
+  },
+  {
+    "name": "Soil Guardian Outfits",
+    "file": "Soil_Guardian_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/e/e5/Outfit_Soil_Guardian_Male_Addon_3.gif/revision/latest?cb=20120627191502&path-prefix=en"
+  },
+  {
+    "name": "Spirit Caller Outfits",
+    "file": "Spirit_Caller_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/29/Outfit_Spirit_Caller_Male_Addon_3.gif/revision/latest?cb=20150507232354&path-prefix=en"
+  },
+  {
+    "name": "Summoner Outfits",
+    "file": "Summoner_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/8a/Outfit_Summoner_Male_Addon_3.gif/revision/latest?cb=20061009155543&path-prefix=en"
+  },
+  {
+    "name": "Sun Priest Outfits",
+    "file": "Sun_Priest_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/2e/Outfit_Sun_Priest_Male_Addon_3.gif/revision/latest?cb=20171223113016&path-prefix=en"
+  },
+  {
+    "name": "Trailblazer Outfits",
+    "file": "Trailblazer_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/b/b2/Outfit_Trailblazer_Male_Addon_3.gif/revision/latest?cb=20230730035555&path-prefix=en"
+  },
+  {
+    "name": "Trophy Hunter Outfits",
+    "file": "Trophy_Hunter_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/80/Outfit_Trophy_Hunter_Male_Addon_3.gif/revision/latest?cb=20170610084409&path-prefix=en"
+  },
+  {
+    "name": "Veteran Paladin Outfits",
+    "file": "Veteran_Paladin_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/1/19/Outfit_Veteran_Paladin_Male_Addon_3.gif/revision/latest?cb=20230730084843&path-prefix=en"
+  },
+  {
+    "name": "Void Master Outfits",
+    "file": "Void_Master_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/9a/Outfit_Void_Master_Male_Addon_3.gif/revision/latest?cb=20230730035715&path-prefix=en"
+  },
+  {
+    "name": "Warmaster Outfits",
+    "file": "Warmaster_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/9/97/Outfit_Warmaster_Male_Addon_3.gif/revision/latest?cb=20091213152817&path-prefix=en"
+  },
+  {
+    "name": "Warrior Outfits",
+    "file": "Warrior_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/5/5e/Outfit_Warrior_Male_Addon_3.gif/revision/latest?cb=20080623221001&path-prefix=en"
+  },
+  {
+    "name": "Wayfarer Outfits",
+    "file": "Wayfarer_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/e/ea/Outfit_Wayfarer_Male_Addon_3.gif/revision/latest?cb=20100628085205&path-prefix=en"
+  },
+  {
+    "name": "Winged Druid Outfits",
+    "file": "Winged_Druid_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/0/0a/Outfit_Winged_Druid_Male_Addon_3.gif/revision/latest?cb=20250305161430&path-prefix=en"
+  },
+  {
+    "name": "Winter Warden Outfits",
+    "file": "Winter_Warden_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/81/Outfit_Winter_Warden_Male_Addon_3.gif/revision/latest?cb=20160319170217&path-prefix=en"
+  },
+  {
+    "name": "Wizard Outfits",
+    "file": "Wizard_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/a8/Outfit_Wizard_Male_Addon_3.gif/revision/latest?cb=20060830000141&path-prefix=en"
+  },
+  {
+    "name": "Yalaharian Outfits",
+    "file": "Yalaharian_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/e/e9/Outfit_Yalaharian_Male_Addon_3.gif/revision/latest?cb=20140905203626&path-prefix=en"
+  }
+]

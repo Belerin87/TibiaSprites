@@ -17,6 +17,24 @@
     "secret": false,
     "implemented": "June 30, 2010"
   },
+    {
+    "name": "A Reliable Friend",
+    "grade": 1,
+    "points": 1,
+    "description": "The hungry ram devoured all the pack of turnips at once and then looked at you as if you wanted more. Make sure you feed it well throughout the journey.",
+    "id": 585,
+    "secret": false,
+    "implemented": "March 17, 2026"
+  },
+    {
+    "name": "Castle Crasher",
+    "grade": 1,
+    "points": 1,
+    "description": "Someone will be terribly sad about your actions! Imagine how long it took to build all those castles!",
+    "id": 582,
+    "secret": true,
+    "implemented": "March 17, 2026"
+  },
   {
     "name": "The Milkman",
     "grade": 1,

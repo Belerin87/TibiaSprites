@@ -1,0 +1,4072 @@
+[
+  {
+    "name": "Abyssal Calamary",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Abyssal_Calamary.gif"
+  },
+  {
+    "name": "Acid Blob",
+    "bestiaryClass": "Slime",
+    "fileName": "Acid_Blob.gif"
+  },
+  {
+    "name": "Acolyte of Darkness",
+    "bestiaryClass": "Human",
+    "fileName": "Acolyte_of_Darkness.gif"
+  },
+  {
+    "name": "Acolyte of the Cult",
+    "bestiaryClass": "Human",
+    "fileName": "Acolyte_of_the_Cult.gif"
+  },
+  {
+    "name": "Adept of the Cult",
+    "bestiaryClass": "Human",
+    "fileName": "Adept_of_the_Cult.gif"
+  },
+  {
+    "name": "Adult Goanna",
+    "bestiaryClass": "Reptile",
+    "fileName": "Adult_Goanna.gif"
+  },
+  {
+    "name": "Adventurer",
+    "bestiaryClass": "Human",
+    "fileName": "Adventurer.gif"
+  },
+  {
+    "name": "Afflicted Strider",
+    "bestiaryClass": "Vermin",
+    "fileName": "Afflicted_Strider.gif"
+  },
+  {
+    "name": "Agrestic Chicken",
+    "bestiaryClass": "Bird",
+    "fileName": "Agrestic_Chicken.gif"
+  },
+  {
+    "name": "Albino Dragon",
+    "bestiaryClass": "Dragon",
+    "fileName": "Albino_Dragon.gif"
+  },
+  {
+    "name": "Amazon",
+    "bestiaryClass": "Human",
+    "fileName": "Amazon.gif"
+  },
+  {
+    "name": "Ancient Scarab",
+    "bestiaryClass": "Vermin",
+    "fileName": "Ancient_Scarab.gif"
+  },
+  {
+    "name": "Angry Sugar Fairy",
+    "bestiaryClass": "Fey",
+    "fileName": "Angry_Sugar_Fairy.gif"
+  },
+  {
+    "name": "Animated Feather",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Animated_Feather.gif"
+  },
+  {
+    "name": "Animated Snowman",
+    "bestiaryClass": "Construct",
+    "fileName": "Animated_Snowman.gif"
+  },
+  {
+    "name": "Arachnophobica",
+    "bestiaryClass": "Magical",
+    "fileName": "Arachnophobica.gif"
+  },
+  {
+    "name": "Arctic Faun",
+    "bestiaryClass": "Fey",
+    "fileName": "Arctic_Faun.gif"
+  },
+  {
+    "name": "Armadile",
+    "bestiaryClass": "Magical",
+    "fileName": "Armadile.gif"
+  },
+  {
+    "name": "Askarak Demon",
+    "bestiaryClass": "Demon",
+    "fileName": "Askarak_Demon.gif"
+  },
+  {
+    "name": "Askarak Lord",
+    "bestiaryClass": "Demon",
+    "fileName": "Askarak_Lord.gif"
+  },
+  {
+    "name": "Askarak Prince",
+    "bestiaryClass": "Demon",
+    "fileName": "Askarak_Prince.gif"
+  },
+  {
+    "name": "Assassin",
+    "bestiaryClass": "Human",
+    "fileName": "Assassin.gif"
+  },
+  {
+    "name": "Azure Frog",
+    "bestiaryClass": "Amphibic",
+    "fileName": "Azure_Frog.gif"
+  },
+  {
+    "name": "Badger",
+    "bestiaryClass": "Mammal",
+    "fileName": "Badger.gif"
+  },
+  {
+    "name": "Baleful Bunny",
+    "bestiaryClass": "Mammal",
+    "fileName": "Baleful_Bunny.gif"
+  },
+  {
+    "name": "Bandit",
+    "bestiaryClass": "Human",
+    "fileName": "Bandit.gif"
+  },
+  {
+    "name": "Bane Bringer",
+    "bestiaryClass": "Plant",
+    "fileName": "Bane_Bringer.gif"
+  },
+  {
+    "name": "Bane of Light",
+    "bestiaryClass": "Undead",
+    "fileName": "Bane_of_Light.gif"
+  },
+  {
+    "name": "Banshee",
+    "bestiaryClass": "Undead",
+    "fileName": "Banshee.gif"
+  },
+  {
+    "name": "Barbarian Bloodwalker",
+    "bestiaryClass": "Human",
+    "fileName": "Barbarian_Bloodwalker.gif"
+  },
+  {
+    "name": "Barbarian Brutetamer",
+    "bestiaryClass": "Human",
+    "fileName": "Barbarian_Brutetamer.gif"
+  },
+  {
+    "name": "Barbarian Headsplitter",
+    "bestiaryClass": "Human",
+    "fileName": "Barbarian_Headsplitter.gif"
+  },
+  {
+    "name": "Barbarian Skullhunter",
+    "bestiaryClass": "Human",
+    "fileName": "Barbarian_Skullhunter.gif"
+  },
+  {
+    "name": "Barkless Devotee",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Barkless_Devotee.gif"
+  },
+  {
+    "name": "Barkless Fanatic",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Barkless_Fanatic.gif"
+  },
+  {
+    "name": "Bashmu",
+    "bestiaryClass": "Magical",
+    "fileName": "Bashmu.gif"
+  },
+  {
+    "name": "Bat",
+    "bestiaryClass": "Mammal",
+    "fileName": "Bat.gif"
+  },
+  {
+    "name": "Bear",
+    "bestiaryClass": "Mammal",
+    "fileName": "Bear.gif"
+  },
+  {
+    "name": "Behemoth",
+    "bestiaryClass": "Giant",
+    "fileName": "Behemoth.gif"
+  },
+  {
+    "name": "Bellicose Orger",
+    "bestiaryClass": "Giant",
+    "fileName": "Bellicose_Orger.gif"
+  },
+  {
+    "name": "Berrypest",
+    "bestiaryClass": "Vermin",
+    "fileName": "Berrypest.gif"
+  },
+  {
+    "name": "Berserker Chicken",
+    "bestiaryClass": "Bird",
+    "fileName": "Berserker_Chicken.gif"
+  },
+  {
+    "name": "Betrayed Wraith",
+    "bestiaryClass": "Undead",
+    "fileName": "Betrayed_Wraith.gif"
+  },
+  {
+    "name": "Biting Book",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Biting_Book.gif"
+  },
+  {
+    "name": "Black Sheep",
+    "bestiaryClass": "Mammal",
+    "fileName": "Black_Sheep.gif"
+  },
+  {
+    "name": "Black Sphinx Acolyte",
+    "bestiaryClass": "Human",
+    "fileName": "Black_Sphinx_Acolyte.gif"
+  },
+  {
+    "name": "Blemished Spawn",
+    "bestiaryClass": "Vermin",
+    "fileName": "Blemished_Spawn.gif"
+  },
+  {
+    "name": "Blightwalker",
+    "bestiaryClass": "Undead",
+    "fileName": "Blightwalker.gif"
+  },
+  {
+    "name": "Bloated Man-Maggot",
+    "bestiaryClass": "Vermin",
+    "fileName": "Bloated_Man-Maggot.gif"
+  },
+  {
+    "name": "Blood Beast",
+    "bestiaryClass": "Undead",
+    "fileName": "Blood_Beast.gif"
+  },
+  {
+    "name": "Blood Crab",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Blood_Crab.gif"
+  },
+  {
+    "name": "Blood Hand",
+    "bestiaryClass": "Human",
+    "fileName": "Blood_Hand.gif"
+  },
+  {
+    "name": "Blood Priest",
+    "bestiaryClass": "Human",
+    "fileName": "Blood_Priest.gif"
+  },
+  {
+    "name": "Blue Djinn",
+    "bestiaryClass": "Magical",
+    "fileName": "Blue_Djinn.gif"
+  },
+  {
+    "name": "Bluebeak",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Bluebeak.gif"
+  },
+  {
+    "name": "Boar",
+    "bestiaryClass": "Mammal",
+    "fileName": "Boar.gif"
+  },
+  {
+    "name": "Boar Man",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Boar_Man.gif"
+  },
+  {
+    "name": "Bog Frog",
+    "bestiaryClass": "Amphibic",
+    "fileName": "Bog_Frog.gif"
+  },
+  {
+    "name": "Bog Raider",
+    "bestiaryClass": "Magical",
+    "fileName": "Bog_Raider.gif"
+  },
+  {
+    "name": "Bonebeast",
+    "bestiaryClass": "Undead",
+    "fileName": "Bonebeast.gif"
+  },
+  {
+    "name": "Bonelord",
+    "bestiaryClass": "Magical",
+    "fileName": "Bonelord.gif"
+  },
+  {
+    "name": "Bony Sea Devil",
+    "bestiaryClass": "Undead",
+    "fileName": "Bony_Sea_Devil.gif"
+  },
+  {
+    "name": "Boogy",
+    "bestiaryClass": "Fey",
+    "fileName": "Boogy.gif"
+  },
+  {
+    "name": "Brachiodemon",
+    "bestiaryClass": "Demon",
+    "fileName": "Brachiodemon.gif"
+  },
+  {
+    "name": "Brain Squid",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Brain_Squid.gif"
+  },
+  {
+    "name": "Braindeath",
+    "bestiaryClass": "Undead",
+    "fileName": "Braindeath.gif"
+  },
+  {
+    "name": "Bramble Wyrmling",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Bramble_Wyrmling.gif"
+  },
+  {
+    "name": "Branchy Crawler",
+    "bestiaryClass": "Plant",
+    "fileName": "Branchy_Crawler.gif"
+  },
+  {
+    "name": "Breach Brood",
+    "bestiaryClass": "Extra Dimensional",
+    "fileName": "Breach_Brood.gif"
+  },
+  {
+    "name": "Bride of Night",
+    "bestiaryClass": "Human",
+    "fileName": "Bride_of_Night.gif"
+  },
+  {
+    "name": "Brimstone Bug",
+    "bestiaryClass": "Vermin",
+    "fileName": "Brimstone_Bug.gif"
+  },
+  {
+    "name": "Brinebrute Inferniarch",
+    "bestiaryClass": "Demon",
+    "fileName": "Brinebrute_Inferniarch.gif"
+  },
+  {
+    "name": "Broken Shaper",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Broken_Shaper.gif"
+  },
+  {
+    "name": "Broodrider Inferniarch",
+    "bestiaryClass": "Demon",
+    "fileName": "Broodrider_Inferniarch.gif"
+  },
+  {
+    "name": "Bug",
+    "bestiaryClass": "Vermin",
+    "fileName": "Bug.gif"
+  },
+  {
+    "name": "Bulltaur Alchemist",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Bulltaur_Alchemist.gif"
+  },
+  {
+    "name": "Bulltaur Brute",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Bulltaur_Brute.gif"
+  },
+  {
+    "name": "Bulltaur Forgepriest",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Bulltaur_Forgepriest.gif"
+  },
+  {
+    "name": "Burning Book",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Burning_Book.gif"
+  },
+  {
+    "name": "Burning Gladiator",
+    "bestiaryClass": "Human",
+    "fileName": "Burning_Gladiator.gif"
+  },
+  {
+    "name": "Burster Spectre",
+    "bestiaryClass": "Undead",
+    "fileName": "Burster_Spectre.gif"
+  },
+  {
+    "name": "Butterfly (Blue)",
+    "bestiaryClass": "Vermin",
+    "fileName": "Butterfly_(azul).gif"
+  },
+  {
+    "name": "Butterfly (Purple)",
+    "bestiaryClass": "Vermin",
+    "fileName": "Butterfly_(violeta).gif"
+  },
+  {
+    "name": "Butterfly (Red)",
+    "bestiaryClass": "Vermin",
+    "fileName": "Butterfly_(vermelho).gif"
+  },
+  {
+    "name": "Cake Golem",
+    "bestiaryClass": "Construct",
+    "fileName": "Cake_Golem.gif"
+  },
+  {
+    "name": "Calamary",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Calamary.gif"
+  },
+  {
+    "name": "Candy Floss Elemental",
+    "bestiaryClass": "Elemental",
+    "fileName": "Candy_Floss_Elemental.gif"
+  },
+  {
+    "name": "Candy Horror",
+    "bestiaryClass": "Magical",
+    "fileName": "Candy_Horror.gif"
+  },
+  {
+    "name": "Capricious Phantom",
+    "bestiaryClass": "Undead",
+    "fileName": "Capricious_Phantom.gif"
+  },
+  {
+    "name": "Carniphila",
+    "bestiaryClass": "Plant",
+    "fileName": "Carniphila.gif"
+  },
+  {
+    "name": "Carnivostrich",
+    "bestiaryClass": "Bird",
+    "fileName": "Carnivostrich.gif"
+  },
+  {
+    "name": "Carrion Worm",
+    "bestiaryClass": "Vermin",
+    "fileName": "Carrion_Worm.gif"
+  },
+  {
+    "name": "Cat",
+    "bestiaryClass": "Mammal",
+    "fileName": "Cat.gif"
+  },
+  {
+    "name": "Cave Chimera",
+    "bestiaryClass": "Vermin",
+    "fileName": "Cave_Chimera.gif"
+  },
+  {
+    "name": "Cave Devourer",
+    "bestiaryClass": "Vermin",
+    "fileName": "Cave_Devourer.gif"
+  },
+  {
+    "name": "Cave Parrot",
+    "bestiaryClass": "Bird",
+    "fileName": "Cave_Parrot.gif"
+  },
+  {
+    "name": "Cave Rat",
+    "bestiaryClass": "Mammal",
+    "fileName": "Cave_Rat.gif"
+  },
+  {
+    "name": "Centipede",
+    "bestiaryClass": "Vermin",
+    "fileName": "Centipede.gif"
+  },
+  {
+    "name": "Chakoya Toolshaper",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Chakoya_Toolshaper.gif"
+  },
+  {
+    "name": "Chakoya Tribewarden",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Chakoya_Tribewarden.gif"
+  },
+  {
+    "name": "Chakoya Windcaller",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Chakoya_Windcaller.gif"
+  },
+  {
+    "name": "Chasm Spawn",
+    "bestiaryClass": "Vermin",
+    "fileName": "Chasm_Spawn.gif"
+  },
+  {
+    "name": "Chicken",
+    "bestiaryClass": "Bird",
+    "fileName": "Chicken.gif"
+  },
+  {
+    "name": "Chocolate Blob",
+    "bestiaryClass": "Slime",
+    "fileName": "Chocolate_Blob.gif"
+  },
+  {
+    "name": "Choking Fear",
+    "bestiaryClass": "Magical",
+    "fileName": "Choking_Fear.gif"
+  },
+  {
+    "name": "Cinder Wyrmling",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Cinder_Wyrmling.gif"
+  },
+  {
+    "name": "Clay Guardian",
+    "bestiaryClass": "Construct",
+    "fileName": "Clay_Guardian.gif"
+  },
+  {
+    "name": "Cliff Strider",
+    "bestiaryClass": "Elemental",
+    "fileName": "Cliff_Strider.gif"
+  },
+  {
+    "name": "Cloak of Terror",
+    "bestiaryClass": "Plant",
+    "fileName": "Cloak_of_Terror.gif"
+  },
+  {
+    "name": "Clomp",
+    "bestiaryClass": "Mammal",
+    "fileName": "Clomp.gif"
+  },
+  {
+    "name": "Cobra",
+    "bestiaryClass": "Reptile",
+    "fileName": "Cobra.gif"
+  },
+  {
+    "name": "Cobra Assassin",
+    "bestiaryClass": "Human",
+    "fileName": "Cobra_Assassin.gif"
+  },
+  {
+    "name": "Cobra Scout",
+    "bestiaryClass": "Human",
+    "fileName": "Cobra_Scout.gif"
+  },
+  {
+    "name": "Cobra Vizier",
+    "bestiaryClass": "Human",
+    "fileName": "Cobra_Vizier.gif"
+  },
+  {
+    "name": "Converter",
+    "bestiaryClass": "Elemental",
+    "fileName": "Converter.gif"
+  },
+  {
+    "name": "Coral Frog",
+    "bestiaryClass": "Amphibic",
+    "fileName": "Coral_Frog.gif"
+  },
+  {
+    "name": "Corrupted Ghost",
+    "bestiaryClass": "Undead",
+    "fileName": "Corrupted_Ghost.gif"
+  },
+  {
+    "name": "Corrupted Skeleton",
+    "bestiaryClass": "Undead",
+    "fileName": "Corrupted_Skeleton.gif"
+  },
+  {
+    "name": "Corym Charlatan",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Corym_Charlatan.gif"
+  },
+  {
+    "name": "Corym Skirmisher",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Corym_Skirmisher.gif"
+  },
+  {
+    "name": "Corym Vanguard",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Corym_Vanguard.gif"
+  },
+  {
+    "name": "Courage Leech",
+    "bestiaryClass": "Extra Dimensional",
+    "fileName": "Courage_Leech.gif"
+  },
+  {
+    "name": "Cow",
+    "bestiaryClass": "Mammal",
+    "fileName": "Cow.gif"
+  },
+  {
+    "name": "Crab",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Crab.gif"
+  },
+  {
+    "name": "Crape Man",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Crape_Man.gif"
+  },
+  {
+    "name": "Crawler",
+    "bestiaryClass": "Vermin",
+    "fileName": "Crawler.gif"
+  },
+  {
+    "name": "Crazed Beggar",
+    "bestiaryClass": "Human",
+    "fileName": "Crazed_Beggar.gif"
+  },
+  {
+    "name": "Crazed Summer Rearguard",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Crazed_Summer_Rearguard.gif"
+  },
+  {
+    "name": "Crazed Summer Vanguard",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Crazed_Summer_Vanguard.gif"
+  },
+  {
+    "name": "Crazed Winter Rearguard",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Crazed_Winter_Rearguard.gif"
+  },
+  {
+    "name": "Crazed Winter Vanguard",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Crazed_Winter_Vanguard.gif"
+  },
+  {
+    "name": "Cream Blob",
+    "bestiaryClass": "Fey",
+    "fileName": "Cream_Blob.gif"
+  },
+  {
+    "name": "Creepy Crawler",
+    "bestiaryClass": "Undead",
+    "fileName": "Creepy_Crawler.gif"
+  },
+  {
+    "name": "Crimson Frog",
+    "bestiaryClass": "Amphibic",
+    "fileName": "Crimson_Frog.gif"
+  },
+  {
+    "name": "Crocodile",
+    "bestiaryClass": "Reptile",
+    "fileName": "Crocodile.gif"
+  },
+  {
+    "name": "Crusader",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Crusader.gif"
+  },
+  {
+    "name": "Crustacea Gigantica",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Crustacea_Gigantica.gif"
+  },
+  {
+    "name": "Crypt Construct",
+    "bestiaryClass": "Undead",
+    "fileName": "Crypt_Construct.gif"
+  },
+  {
+    "name": "Crypt Defiler",
+    "bestiaryClass": "Human",
+    "fileName": "Crypt_Defiler.gif"
+  },
+  {
+    "name": "Crypt Fiend",
+    "bestiaryClass": "Undead",
+    "fileName": "Crypt_Fiend.gif"
+  },
+  {
+    "name": "Crypt Mage",
+    "bestiaryClass": "Undead",
+    "fileName": "Crypt_Mage.gif"
+  },
+  {
+    "name": "Crypt Shambler",
+    "bestiaryClass": "Undead",
+    "fileName": "Crypt_Shambler.gif"
+  },
+  {
+    "name": "Crypt Warden",
+    "bestiaryClass": "Magical",
+    "fileName": "Crypt_Warden.gif"
+  },
+  {
+    "name": "Crypt Warrior",
+    "bestiaryClass": "Undead",
+    "fileName": "Crypt_Warrior.gif"
+  },
+  {
+    "name": "Crystal Spider",
+    "bestiaryClass": "Magical",
+    "fileName": "Crystal_Spider.gif"
+  },
+  {
+    "name": "Crystal Wolf",
+    "bestiaryClass": "Magical",
+    "fileName": "Crystal_Wolf.gif"
+  },
+  {
+    "name": "Crystalcrusher",
+    "bestiaryClass": "Magical",
+    "fileName": "Crystalcrusher.gif"
+  },
+  {
+    "name": "Cult Believer",
+    "bestiaryClass": "Human",
+    "fileName": "Cult_Believer.gif"
+  },
+  {
+    "name": "Cult Enforcer",
+    "bestiaryClass": "Human",
+    "fileName": "Cult_Enforcer.gif"
+  },
+  {
+    "name": "Cult Scholar",
+    "bestiaryClass": "Human",
+    "fileName": "Cult_Scholar.gif"
+  },
+  {
+    "name": "Cunning Werepanther",
+    "bestiaryClass": "Lycanthrope",
+    "fileName": "Cunning_Werepanther.gif"
+  },
+  {
+    "name": "Cursed Ape",
+    "bestiaryClass": "Undead",
+    "fileName": "Cursed_Ape.gif"
+  },
+  {
+    "name": "Cursed Book",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Cursed_Book.gif"
+  },
+  {
+    "name": "Cursed Prospector",
+    "bestiaryClass": "Undead",
+    "fileName": "Cursed_Prospector.gif"
+  },
+  {
+    "name": "Cyclops",
+    "bestiaryClass": "Giant",
+    "fileName": "Cyclops.gif"
+  },
+  {
+    "name": "Cyclops Drone",
+    "bestiaryClass": "Giant",
+    "fileName": "Cyclops_Drone.gif"
+  },
+  {
+    "name": "Cyclops Smith",
+    "bestiaryClass": "Giant",
+    "fileName": "Cyclops_Smith.gif"
+  },
+  {
+    "name": "Cyclursus",
+    "bestiaryClass": "Undead",
+    "fileName": "Cyclursus.gif"
+  },
+  {
+    "name": "Damaged Crystal Golem",
+    "bestiaryClass": "Construct",
+    "fileName": "Damaged_Crystal_Golem.gif"
+  },
+  {
+    "name": "Damaged Worker Golem",
+    "bestiaryClass": "Construct",
+    "fileName": "Damaged_Worker_Golem.gif"
+  },
+  {
+    "name": "Dark Apprentice",
+    "bestiaryClass": "Human",
+    "fileName": "Dark_Apprentice.gif"
+  },
+  {
+    "name": "Dark Carnisylvan",
+    "bestiaryClass": "Human",
+    "fileName": "Dark_Carnisylvan.gif"
+  },
+  {
+    "name": "Dark Faun",
+    "bestiaryClass": "Fey",
+    "fileName": "Dark_Faun.gif"
+  },
+  {
+    "name": "Dark Magician",
+    "bestiaryClass": "Human",
+    "fileName": "Dark_Magician.gif"
+  },
+  {
+    "name": "Dark Monk",
+    "bestiaryClass": "Human",
+    "fileName": "Dark_Monk.gif"
+  },
+  {
+    "name": "Dark Torturer",
+    "bestiaryClass": "Demon",
+    "fileName": "Dark_Torturer.gif"
+  },
+  {
+    "name": "Dark Torturer",
+    "bestiaryClass": "Undead",
+    "fileName": "Dark_Torturer.gif"
+  },
+  {
+    "name": "Darklight Construct",
+    "bestiaryClass": "Magical",
+    "fileName": "Darklight_Construct.gif"
+  },
+  {
+    "name": "Darklight Emitter",
+    "bestiaryClass": "Magical",
+    "fileName": "Darklight_Emitter.gif"
+  },
+  {
+    "name": "Darklight Matter",
+    "bestiaryClass": "Slime",
+    "fileName": "Darklight_Matter.gif"
+  },
+  {
+    "name": "Darklight Source",
+    "bestiaryClass": "Magical",
+    "fileName": "Darklight_Source.gif"
+  },
+  {
+    "name": "Darklight Striker",
+    "bestiaryClass": "Magical",
+    "fileName": "Darklight_Striker.gif"
+  },
+  {
+    "name": "Dawnfire Asura",
+    "bestiaryClass": "Demon",
+    "fileName": "Dawnfire_Asura.gif"
+  },
+  {
+    "name": "Death Blob",
+    "bestiaryClass": "Slime",
+    "fileName": "Death_Blob.gif"
+  },
+  {
+    "name": "Death Priest",
+    "bestiaryClass": "Undead",
+    "fileName": "Death_Priest.gif"
+  },
+  {
+    "name": "Deathling Scout",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Deathling_Scout.gif"
+  },
+  {
+    "name": "Deathling Spellsinger",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Deathling_Spellsinger.gif"
+  },
+  {
+    "name": "Deepling Brawler",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Deepling_Brawler.gif"
+  },
+  {
+    "name": "Deepling Elite",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Deepling_Elite.gif"
+  },
+  {
+    "name": "Deepling Guard",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Deepling_Guard.gif"
+  },
+  {
+    "name": "Deepling Master Librarian",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Deepling_Master_Librarian.gif"
+  },
+  {
+    "name": "Deepling Scout",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Deepling_Scout.gif"
+  },
+  {
+    "name": "Deepling Spellsinger",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Deepling_Spellsinger.gif"
+  },
+  {
+    "name": "Deepling Tyrant",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Deepling_Tyrant.gif"
+  },
+  {
+    "name": "Deepling Warrior",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Deepling_Warrior.gif"
+  },
+  {
+    "name": "Deepling Worker",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Deepling_Worker.gif"
+  },
+  {
+    "name": "Deepsea Blood Crab",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Deepsea_Blood_Crab.gif"
+  },
+  {
+    "name": "Deepworm",
+    "bestiaryClass": "Vermin",
+    "fileName": "Deepworm.gif"
+  },
+  {
+    "name": "Deer",
+    "bestiaryClass": "Mammal",
+    "fileName": "Deer.gif"
+  },
+  {
+    "name": "Defiler",
+    "bestiaryClass": "Slime",
+    "fileName": "Defiler.gif"
+  },
+  {
+    "name": "Demon",
+    "bestiaryClass": "Demon",
+    "fileName": "Demon.gif"
+  },
+  {
+    "name": "Demon Outcast",
+    "bestiaryClass": "Demon",
+    "fileName": "Demon_Outcast.gif"
+  },
+  {
+    "name": "Demon Parrot",
+    "bestiaryClass": "Bird",
+    "fileName": "Demon_Parrot.gif"
+  },
+  {
+    "name": "Demon Skeleton",
+    "bestiaryClass": "Undead",
+    "fileName": "Demon_Skeleton.gif"
+  },
+  {
+    "name": "Destroyer",
+    "bestiaryClass": "Demon",
+    "fileName": "Destroyer.gif"
+  },
+  {
+    "name": "Devourer",
+    "bestiaryClass": "Slime",
+    "fileName": "Devourer_(criatura).gif"
+  },
+  {
+    "name": "Diabolic Imp",
+    "bestiaryClass": "Demon",
+    "fileName": "Diabolic_Imp.gif"
+  },
+  {
+    "name": "Diamond Servant",
+    "bestiaryClass": "Construct",
+    "fileName": "Diamond_Servant.gif"
+  },
+  {
+    "name": "Diamond Servant Replica",
+    "bestiaryClass": "Construct",
+    "fileName": "Diamond_Servant_Replica.gif"
+  },
+  {
+    "name": "Dire Penguin",
+    "bestiaryClass": "Bird",
+    "fileName": "Dire_Penguin.gif"
+  },
+  {
+    "name": "Diremaw",
+    "bestiaryClass": "Vermin",
+    "fileName": "Diremaw.gif"
+  },
+  {
+    "name": "Distorted Phantom",
+    "bestiaryClass": "Undead",
+    "fileName": "Distorted_Phantom.gif"
+  },
+  {
+    "name": "Dog",
+    "bestiaryClass": "Mammal",
+    "fileName": "Dog.gif"
+  },
+  {
+    "name": "Doom Deer",
+    "bestiaryClass": "Mammal",
+    "fileName": "Doom_Deer.gif"
+  },
+  {
+    "name": "Doomsday Cultist",
+    "bestiaryClass": "Human",
+    "fileName": "Doomsday_Cultist.gif"
+  },
+  {
+    "name": "Dragolisk",
+    "bestiaryClass": "Dragon",
+    "fileName": "Dragolisk.gif"
+  },
+  {
+    "name": "Dragon",
+    "bestiaryClass": "Dragon",
+    "fileName": "Dragon.gif"
+  },
+  {
+    "name": "Dragon Hatchling",
+    "bestiaryClass": "Dragon",
+    "fileName": "Dragon_Hatchling.gif"
+  },
+  {
+    "name": "Dragon Lord",
+    "bestiaryClass": "Dragon",
+    "fileName": "Dragon_Lord.gif"
+  },
+  {
+    "name": "Dragon Lord Hatchling",
+    "bestiaryClass": "Dragon",
+    "fileName": "Dragon_Lord_Hatchling.gif"
+  },
+  {
+    "name": "Dragonling",
+    "bestiaryClass": "Magical",
+    "fileName": "Dragonling.gif"
+  },
+  {
+    "name": "Draken Abomination",
+    "bestiaryClass": "Dragon",
+    "fileName": "Draken_Abomination.gif"
+  },
+  {
+    "name": "Draken Elite",
+    "bestiaryClass": "Dragon",
+    "fileName": "Draken_Elite.gif"
+  },
+  {
+    "name": "Draken Spellweaver",
+    "bestiaryClass": "Dragon",
+    "fileName": "Draken_Spellweaver.gif"
+  },
+  {
+    "name": "Draken Warmaster",
+    "bestiaryClass": "Dragon",
+    "fileName": "Draken_Warmaster.gif"
+  },
+  {
+    "name": "Draptor",
+    "bestiaryClass": "Reptile",
+    "fileName": "Draptor.gif"
+  },
+  {
+    "name": "Dread Intruder",
+    "bestiaryClass": "Extra Dimensional",
+    "fileName": "Dread_Intruder.gif"
+  },
+  {
+    "name": "Drillworm",
+    "bestiaryClass": "Vermin",
+    "fileName": "Drillworm.gif"
+  },
+  {
+    "name": "Dromedary",
+    "bestiaryClass": "Mammal",
+    "fileName": "Dromedary.gif"
+  },
+  {
+    "name": "Druid's Apparition",
+    "bestiaryClass": "Undead",
+    "fileName": "Druid's_Apparition.gif"
+  },
+  {
+    "name": "Dryad",
+    "bestiaryClass": "Fey",
+    "fileName": "Dryad.gif"
+  },
+  {
+    "name": "Duskbringer",
+    "bestiaryClass": "Demon",
+    "fileName": "Duskbringer.gif"
+  },
+  {
+    "name": "Dwarf",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Dwarf.gif"
+  },
+  {
+    "name": "Dwarf Geomancer",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Dwarf_Geomancer.gif"
+  },
+  {
+    "name": "Dwarf Guard",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Dwarf_Guard.gif"
+  },
+  {
+    "name": "Dwarf Henchman",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Dwarf_Henchman.gif"
+  },
+  {
+    "name": "Dwarf Soldier",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Dwarf_Soldier.gif"
+  },
+  {
+    "name": "Dworc Fleshhunter",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Dworc_Fleshhunter.gif"
+  },
+  {
+    "name": "Dworc Shadowstalker",
+    "bestiaryClass": "Undead",
+    "fileName": "Dworc_Shadowstalker.gif"
+  },
+  {
+    "name": "Dworc Venomsniper",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Dworc_Venomsniper.gif"
+  },
+  {
+    "name": "Dworc Voodoomaster",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Dworc_Voodoomaster.gif"
+  },
+  {
+    "name": "Earth Elemental",
+    "bestiaryClass": "Elemental",
+    "fileName": "Earth_Elemental.gif"
+  },
+  {
+    "name": "Efreet",
+    "bestiaryClass": "Magical",
+    "fileName": "Efreet.gif"
+  },
+  {
+    "name": "Elder Bonelord",
+    "bestiaryClass": "Magical",
+    "fileName": "Elder_Bonelord.gif"
+  },
+  {
+    "name": "Elder Forest Fury",
+    "bestiaryClass": "Magical",
+    "fileName": "Elder_Forest_Fury.gif"
+  },
+  {
+    "name": "Elder Mummy",
+    "bestiaryClass": "Undead",
+    "fileName": "Elder_Mummy.gif"
+  },
+  {
+    "name": "Elder Wyrm",
+    "bestiaryClass": "Dragon",
+    "fileName": "Elder_Wyrm.gif"
+  },
+  {
+    "name": "Elephant",
+    "bestiaryClass": "Mammal",
+    "fileName": "Elephant.gif"
+  },
+  {
+    "name": "Elf",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Elf.gif"
+  },
+  {
+    "name": "Elf Arcanist",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Elf_Arcanist.gif"
+  },
+  {
+    "name": "Elf Overseer",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Elf_Overseer.gif"
+  },
+  {
+    "name": "Elf Scout",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Elf_Scout.gif"
+  },
+  {
+    "name": "Emerald Damselfly",
+    "bestiaryClass": "Vermin",
+    "fileName": "Emerald_Damselfly.gif"
+  },
+  {
+    "name": "Emerald Tortoise",
+    "bestiaryClass": "Reptile",
+    "fileName": "Emerald_Tortoise.gif"
+  },
+  {
+    "name": "Energetic Book",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Energetic_Book.gif"
+  },
+  {
+    "name": "Energuardian of Tales",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Energuardian_of_Tales.gif"
+  },
+  {
+    "name": "Energy Elemental",
+    "bestiaryClass": "Elemental",
+    "fileName": "Energy_Elemental.gif"
+  },
+  {
+    "name": "Enfeebled Silencer",
+    "bestiaryClass": "Magical",
+    "fileName": "Enfeebled_Silencer.gif"
+  },
+  {
+    "name": "Enlightened of the Cult",
+    "bestiaryClass": "Human",
+    "fileName": "Enlightened_of_the_Cult.gif"
+  },
+  {
+    "name": "Enraged Crystal Golem",
+    "bestiaryClass": "Construct",
+    "fileName": "Enraged_Crystal_Golem.gif"
+  },
+  {
+    "name": "Enslaved Dwarf",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Enslaved_Dwarf.gif"
+  },
+  {
+    "name": "Eternal Guardian",
+    "bestiaryClass": "Construct",
+    "fileName": "Eternal_Guardian.gif"
+  },
+  {
+    "name": "Evil Prospector",
+    "bestiaryClass": "Undead",
+    "fileName": "Evil_Prospector.gif"
+  },
+  {
+    "name": "Evil Sheep",
+    "bestiaryClass": "Mammal",
+    "fileName": "Evil_Sheep.gif"
+  },
+  {
+    "name": "Evil Sheep Lord",
+    "bestiaryClass": "Mammal",
+    "fileName": "Evil_Sheep_Lord.gif"
+  },
+  {
+    "name": "Execowtioner",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Execowtioner.gif"
+  },
+  {
+    "name": "Exotic Bat",
+    "bestiaryClass": "Mammal",
+    "fileName": "Exotic_Bat.gif"
+  },
+  {
+    "name": "Exotic Cave Spider",
+    "bestiaryClass": "Vermin",
+    "fileName": "Exotic_Cave_Spider.gif"
+  },
+  {
+    "name": "Eyeless Devourer",
+    "bestiaryClass": "Vermin",
+    "fileName": "Eyeless_Devourer.gif"
+  },
+  {
+    "name": "Falcon Knight",
+    "bestiaryClass": "Undead",
+    "fileName": "Falcon_Knight.gif"
+  },
+  {
+    "name": "Falcon Paladin",
+    "bestiaryClass": "Undead",
+    "fileName": "Falcon_Paladin.gif"
+  },
+  {
+    "name": "Faun",
+    "bestiaryClass": "Fey",
+    "fileName": "Faun.gif"
+  },
+  {
+    "name": "Feral Sphinx",
+    "bestiaryClass": "Magical",
+    "fileName": "Feral_Sphinx.gif"
+  },
+  {
+    "name": "Feral Werecrocodile",
+    "bestiaryClass": "Lycanthrope",
+    "fileName": "Feral_Werecrocodile.gif"
+  },
+  {
+    "name": "Feverish Citizen",
+    "bestiaryClass": "Human",
+    "fileName": "Feverish_Citizen.gif"
+  },
+  {
+    "name": "Feversleep",
+    "bestiaryClass": "Magical",
+    "fileName": "Feversleep.gif"
+  },
+  {
+    "name": "Filth Toad",
+    "bestiaryClass": "Amphibic",
+    "fileName": "Filth_Toad.gif"
+  },
+  {
+    "name": "Fire Devil",
+    "bestiaryClass": "Demon",
+    "fileName": "Fire_Devil.gif"
+  },
+  {
+    "name": "Fire Elemental",
+    "bestiaryClass": "Elemental",
+    "fileName": "Fire_Elemental.gif"
+  },
+  {
+    "name": "Firestarter",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Firestarter.gif"
+  },
+  {
+    "name": "Fish (Creature)",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Fish_(criatura).gif"
+  },
+  {
+    "name": "Flamingo",
+    "bestiaryClass": "Bird",
+    "fileName": "Flamingo.gif"
+  },
+  {
+    "name": "Flimsy Lost Soul",
+    "bestiaryClass": "Undead",
+    "fileName": "Flimsy_Lost_Soul.gif"
+  },
+  {
+    "name": "Floating Savant",
+    "bestiaryClass": "Demon",
+    "fileName": "Floating_Savant.gif"
+  },
+  {
+    "name": "Flying Book",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Flying_Book.gif"
+  },
+  {
+    "name": "Foam Stalker",
+    "bestiaryClass": "Elemental",
+    "fileName": "Foam_Stalker.gif"
+  },
+  {
+    "name": "Forest Fury",
+    "bestiaryClass": "Magical",
+    "fileName": "Forest_Fury.gif"
+  },
+  {
+    "name": "Fox",
+    "bestiaryClass": "Mammal",
+    "fileName": "Fox.gif"
+  },
+  {
+    "name": "Frazzlemaw",
+    "bestiaryClass": "Magical",
+    "fileName": "Frazzlemaw.gif"
+  },
+  {
+    "name": "Freakish Lost Soul",
+    "bestiaryClass": "Undead",
+    "fileName": "Freakish_Lost_Soul.gif"
+  },
+  {
+    "name": "Frost Dragon",
+    "bestiaryClass": "Dragon",
+    "fileName": "Frost_Dragon.gif"
+  },
+  {
+    "name": "Frost Dragon Hatchling",
+    "bestiaryClass": "Dragon",
+    "fileName": "Frost_Dragon_Hatchling.gif"
+  },
+  {
+    "name": "Frost Flower Asura",
+    "bestiaryClass": "Demon",
+    "fileName": "Frost_Flower_Asura.gif"
+  },
+  {
+    "name": "Frost Giant",
+    "bestiaryClass": "Giant",
+    "fileName": "Frost_Giant.gif"
+  },
+  {
+    "name": "Frost Giantess",
+    "bestiaryClass": "Giant",
+    "fileName": "Frost_Giantess.gif"
+  },
+  {
+    "name": "Frost Troll",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Frost_Troll.gif"
+  },
+  {
+    "name": "Fruit Drop",
+    "bestiaryClass": "Fey",
+    "fileName": "Fruit_Drop.gif"
+  },
+  {
+    "name": "Furious Fire Elemental",
+    "bestiaryClass": "Elemental",
+    "fileName": "Furious_Fire_Elemental.gif"
+  },
+  {
+    "name": "Furious Troll",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Furious_Troll.gif"
+  },
+  {
+    "name": "Fury",
+    "bestiaryClass": "Demon",
+    "fileName": "Fury.gif"
+  },
+  {
+    "name": "Gang Member",
+    "bestiaryClass": "Human",
+    "fileName": "Gang_Member.gif"
+  },
+  {
+    "name": "Gargoyle",
+    "bestiaryClass": "Magical",
+    "fileName": "Gargoyle.gif"
+  },
+  {
+    "name": "Gazer",
+    "bestiaryClass": "Magical",
+    "fileName": "Gazer.gif"
+  },
+  {
+    "name": "Gazer Spectre",
+    "bestiaryClass": "Undead",
+    "fileName": "Gazer_Spectre.gif"
+  },
+  {
+    "name": "Ghastly Dragon",
+    "bestiaryClass": "Dragon",
+    "fileName": "Ghastly_Dragon.gif"
+  },
+  {
+    "name": "Ghost",
+    "bestiaryClass": "Undead",
+    "fileName": "Ghost.gif"
+  },
+  {
+    "name": "Ghost Wolf",
+    "bestiaryClass": "Undead",
+    "fileName": "Ghost_Wolf.gif"
+  },
+  {
+    "name": "Ghoul",
+    "bestiaryClass": "Undead",
+    "fileName": "Ghoul.gif"
+  },
+  {
+    "name": "Ghoulish Hyaena",
+    "bestiaryClass": "Undead",
+    "fileName": "Ghoulish_Hyaena.gif"
+  },
+  {
+    "name": "Giant Spider",
+    "bestiaryClass": "Vermin",
+    "fileName": "Giant_Spider.gif"
+  },
+  {
+    "name": "Gingerbread Man",
+    "bestiaryClass": "Construct",
+    "fileName": "Gingerbread_Man.gif"
+  },
+  {
+    "name": "Girtablilu Warrior",
+    "bestiaryClass": "Magical",
+    "fileName": "Girtablilu_Warrior.gif"
+  },
+  {
+    "name": "Gladiator",
+    "bestiaryClass": "Human",
+    "fileName": "Gladiator.gif"
+  },
+  {
+    "name": "Gloom Maw",
+    "bestiaryClass": "Undead",
+    "fileName": "Gloom_Maw.gif"
+  },
+  {
+    "name": "Gloom Wolf",
+    "bestiaryClass": "Mammal",
+    "fileName": "Gloom_Wolf.gif"
+  },
+  {
+    "name": "Glooth Anemone",
+    "bestiaryClass": "Plant",
+    "fileName": "Glooth_Anemone.gif"
+  },
+  {
+    "name": "Glooth Bandit",
+    "bestiaryClass": "Human",
+    "fileName": "Glooth_Bandit.gif"
+  },
+  {
+    "name": "Glooth Blob",
+    "bestiaryClass": "Slime",
+    "fileName": "Glooth_Blob.gif"
+  },
+  {
+    "name": "Glooth Brigand",
+    "bestiaryClass": "Human",
+    "fileName": "Glooth_Brigand.gif"
+  },
+  {
+    "name": "Glooth Golem",
+    "bestiaryClass": "Construct",
+    "fileName": "Glooth_Golem.gif"
+  },
+  {
+    "name": "Gnarlhound",
+    "bestiaryClass": "Mammal",
+    "fileName": "Gnarlhound.gif"
+  },
+  {
+    "name": "Goblin",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Goblin.gif"
+  },
+  {
+    "name": "Goblin Assassin",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Goblin_Assassin.gif"
+  },
+  {
+    "name": "Goblin Leader",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Goblin_Leader.gif"
+  },
+  {
+    "name": "Goblin Scavenger",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Goblin_Scavenger.gif"
+  },
+  {
+    "name": "Goggle Cake",
+    "bestiaryClass": "Construct",
+    "fileName": "Goggle_Cake.gif"
+  },
+  {
+    "name": "Golden Servant",
+    "bestiaryClass": "Construct",
+    "fileName": "Golden_Servant.gif"
+  },
+  {
+    "name": "Golden Servant Replica",
+    "bestiaryClass": "Construct",
+    "fileName": "Golden_Servant_Replica.gif"
+  },
+  {
+    "name": "Goldhanded Cultist",
+    "bestiaryClass": "Human",
+    "fileName": "Goldhanded_Cultist.gif"
+  },
+  {
+    "name": "Goldhanded Cultist Bride",
+    "bestiaryClass": "Human",
+    "fileName": "Goldhanded_Cultist_Bride.gif"
+  },
+  {
+    "name": "Gore Horn",
+    "bestiaryClass": "Mammal",
+    "fileName": "Gore_Horn.gif"
+  },
+  {
+    "name": "Gorerilla",
+    "bestiaryClass": "Mammal",
+    "fileName": "Gorerilla.gif"
+  },
+  {
+    "name": "Gorger Inferniarch",
+    "bestiaryClass": "Demon",
+    "fileName": "Gorger_Inferniarch.gif"
+  },
+  {
+    "name": "Gozzler",
+    "bestiaryClass": "Demon",
+    "fileName": "Gozzler.gif"
+  },
+  {
+    "name": "Grave Guard",
+    "bestiaryClass": "Undead",
+    "fileName": "Grave_Guard.gif"
+  },
+  {
+    "name": "Grave Robber",
+    "bestiaryClass": "Human",
+    "fileName": "Grave_Robber.gif"
+  },
+  {
+    "name": "Gravedigger",
+    "bestiaryClass": "Undead",
+    "fileName": "Gravedigger.gif"
+  },
+  {
+    "name": "Green Djinn",
+    "bestiaryClass": "Magical",
+    "fileName": "Green_Djinn.gif"
+  },
+  {
+    "name": "Green Frog",
+    "bestiaryClass": "Amphibic",
+    "fileName": "Green_Frog.gif"
+  },
+  {
+    "name": "Grim Reaper",
+    "bestiaryClass": "Undead",
+    "fileName": "Grim_Reaper.gif"
+  },
+  {
+    "name": "Grimeleech",
+    "bestiaryClass": "Demon",
+    "fileName": "Grimeleech.gif"
+  },
+  {
+    "name": "Grynch Clan Goblin",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Grynch_Clan_Goblin.gif"
+  },
+  {
+    "name": "Gryphon",
+    "bestiaryClass": "Magical",
+    "fileName": "Gryphon.gif"
+  },
+  {
+    "name": "Guardian of Tales",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Guardian_of_Tales.gif"
+  },
+  {
+    "name": "Guzzlemaw",
+    "bestiaryClass": "Magical",
+    "fileName": "Guzzlemaw.gif"
+  },
+  {
+    "name": "Hand of Cursed Fate",
+    "bestiaryClass": "Undead",
+    "fileName": "Hand_of_Cursed_Fate.gif"
+  },
+  {
+    "name": "Harpy",
+    "bestiaryClass": "Bird",
+    "fileName": "Harpy.gif"
+  },
+  {
+    "name": "Haunted Dragon",
+    "bestiaryClass": "Dragon",
+    "fileName": "Haunted_Dragon.gif"
+  },
+  {
+    "name": "Haunted Hunter",
+    "bestiaryClass": "Undead",
+    "fileName": "Haunted_Hunter.gif"
+  },
+  {
+    "name": "Haunted Treeling",
+    "bestiaryClass": "Plant",
+    "fileName": "Haunted_Treeling.gif"
+  },
+  {
+    "name": "Hawk Hopper",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Hawk_Hopper.gif"
+  },
+  {
+    "name": "Headpecker",
+    "bestiaryClass": "Bird",
+    "fileName": "Headpecker.gif"
+  },
+  {
+    "name": "Headwalker",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Headwalker.gif"
+  },
+  {
+    "name": "Hellfire Fighter",
+    "bestiaryClass": "Demon",
+    "fileName": "Hellfire_Fighter.gif"
+  },
+  {
+    "name": "Hellflayer",
+    "bestiaryClass": "Demon",
+    "fileName": "Hellflayer.gif"
+  },
+  {
+    "name": "Hellhound",
+    "bestiaryClass": "Demon",
+    "fileName": "Hellhound.gif"
+  },
+  {
+    "name": "Hellhunter Inferniarch",
+    "bestiaryClass": "Demon",
+    "fileName": "Hellhunter_Inferniarch.gif"
+  },
+  {
+    "name": "Hellspawn",
+    "bestiaryClass": "Demon",
+    "fileName": "Hellspawn.gif"
+  },
+  {
+    "name": "Herald of Gloom",
+    "bestiaryClass": "Demon",
+    "fileName": "Herald_of_Gloom.gif"
+  },
+  {
+    "name": "Hero",
+    "bestiaryClass": "Human",
+    "fileName": "Hero.gif"
+  },
+  {
+    "name": "Hibernal Moth",
+    "bestiaryClass": "Vermin",
+    "fileName": "Hibernal_Moth.gif"
+  },
+  {
+    "name": "Hideous Fungus",
+    "bestiaryClass": "Plant",
+    "fileName": "Hideous_Fungus.gif"
+  },
+  {
+    "name": "High Voltage Elemental",
+    "bestiaryClass": "Elemental",
+    "fileName": "High_Voltage_Elemental.gif"
+  },
+  {
+    "name": "Hive Overseer",
+    "bestiaryClass": "Vermin",
+    "fileName": "Hive_Overseer.gif"
+  },
+  {
+    "name": "Honey Elemental",
+    "bestiaryClass": "Elemental",
+    "fileName": "Honey_Elemental.gif"
+  },
+  {
+    "name": "Honour Guard",
+    "bestiaryClass": "Undead",
+    "fileName": "Honour_Guard.gif"
+  },
+  {
+    "name": "Horse (Brown)",
+    "bestiaryClass": "Mammal",
+    "fileName": "Horse_(marrom).gif"
+  },
+  {
+    "name": "Horse (Grey)",
+    "bestiaryClass": "Mammal",
+    "fileName": "Horse_(cinza).gif"
+  },
+  {
+    "name": "Horse (Taupe)",
+    "bestiaryClass": "Mammal",
+    "fileName": "Horse_(marrom_Escuro).gif"
+  },
+  {
+    "name": "Hot Dog",
+    "bestiaryClass": "Mammal",
+    "fileName": "Hot_Dog.gif"
+  },
+  {
+    "name": "Hulking Carnisylvan",
+    "bestiaryClass": "Human",
+    "fileName": "Hulking_Carnisylvan.gif"
+  },
+  {
+    "name": "Hulking Prehemoth",
+    "bestiaryClass": "Giant",
+    "fileName": "Hulking_Prehemoth.gif"
+  },
+  {
+    "name": "Humongous Fungus",
+    "bestiaryClass": "Plant",
+    "fileName": "Humongous_Fungus.gif"
+  },
+  {
+    "name": "Hunter",
+    "bestiaryClass": "Human",
+    "fileName": "Hunter.gif"
+  },
+  {
+    "name": "Husky",
+    "bestiaryClass": "Mammal",
+    "fileName": "Husky.gif"
+  },
+  {
+    "name": "Hyaena",
+    "bestiaryClass": "Mammal",
+    "fileName": "Hyaena.gif"
+  },
+  {
+    "name": "Hydra",
+    "bestiaryClass": "Dragon",
+    "fileName": "Hydra.gif"
+  },
+  {
+    "name": "Ice Dragon",
+    "bestiaryClass": "Dragon",
+    "fileName": "Ice_Dragon.gif"
+  },
+  {
+    "name": "Ice Golem",
+    "bestiaryClass": "Construct",
+    "fileName": "Ice_Golem.gif"
+  },
+  {
+    "name": "Ice Witch",
+    "bestiaryClass": "Human",
+    "fileName": "Ice_Witch.gif"
+  },
+  {
+    "name": "Icecold Book",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Icecold_Book.gif"
+  },
+  {
+    "name": "Iks Ahpututu",
+    "bestiaryClass": "Undead",
+    "fileName": "Iks_Ahpututu.gif"
+  },
+  {
+    "name": "Iks Aucar",
+    "bestiaryClass": "Undead",
+    "fileName": "Iks_Aucar.gif"
+  },
+  {
+    "name": "Iks Chuka",
+    "bestiaryClass": "Undead",
+    "fileName": "Iks_Chuka.gif"
+  },
+  {
+    "name": "Iks Churrascan",
+    "bestiaryClass": "Undead",
+    "fileName": "Iks_Churrascan.gif"
+  },
+  {
+    "name": "Iks Pututu",
+    "bestiaryClass": "Undead",
+    "fileName": "Iks_Pututu.gif"
+  },
+  {
+    "name": "Iks Yapunac",
+    "bestiaryClass": "Undead",
+    "fileName": "Iks_Yapunac.gif"
+  },
+  {
+    "name": "Imperial",
+    "bestiaryClass": "Mammal",
+    "fileName": "Imperial.gif"
+  },
+  {
+    "name": "Infected Weeper",
+    "bestiaryClass": "Construct",
+    "fileName": "Infected_Weeper.gif"
+  },
+  {
+    "name": "Infernal Demon",
+    "bestiaryClass": "Demon",
+    "fileName": "Infernal_Demon.gif"
+  },
+  {
+    "name": "Infernal Frog",
+    "bestiaryClass": "Amphibic",
+    "fileName": "Infernal_Frog.gif"
+  },
+  {
+    "name": "Infernal Phantom",
+    "bestiaryClass": "Undead",
+    "fileName": "Infernal_Phantom.gif"
+  },
+  {
+    "name": "Infernalist",
+    "bestiaryClass": "Human",
+    "fileName": "Infernalist.gif"
+  },
+  {
+    "name": "Infernoid Blob",
+    "bestiaryClass": "Elemental",
+    "fileName": "Infernoid_Blob.gif"
+  },
+  {
+    "name": "Infernoid Hound",
+    "bestiaryClass": "Elemental",
+    "fileName": "Infernoid_Hound.gif"
+  },
+  {
+    "name": "Infernoid Soul",
+    "bestiaryClass": "Elemental",
+    "fileName": "Infernoid_Soul.gif"
+  },
+  {
+    "name": "Infernoid Spiritual",
+    "bestiaryClass": "Elemental",
+    "fileName": "Infernoid_Spiritual.gif"
+  },
+  {
+    "name": "Ink Blob",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Ink_Blob.gif"
+  },
+  {
+    "name": "Ink Splash",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Ink_Splash.gif"
+  },
+  {
+    "name": "Insane Siren",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Insane_Siren.gif"
+  },
+  {
+    "name": "Insect Swarm",
+    "bestiaryClass": "Vermin",
+    "fileName": "Insect_Swarm.gif"
+  },
+  {
+    "name": "Insectoid Scout",
+    "bestiaryClass": "Vermin",
+    "fileName": "Insectoid_Scout.gif"
+  },
+  {
+    "name": "Insectoid Worker",
+    "bestiaryClass": "Vermin",
+    "fileName": "Insectoid_Worker.gif"
+  },
+  {
+    "name": "Instable Breach Brood",
+    "bestiaryClass": "Extra Dimensional",
+    "fileName": "Instable_Breach_Brood.gif"
+  },
+  {
+    "name": "Instable Sparkion",
+    "bestiaryClass": "Extra Dimensional",
+    "fileName": "Instable_Sparkion.gif"
+  },
+  {
+    "name": "Iron Servant",
+    "bestiaryClass": "Construct",
+    "fileName": "Iron_Servant.gif"
+  },
+  {
+    "name": "Iron Servant Replica",
+    "bestiaryClass": "Construct",
+    "fileName": "Iron_Servant_Replica.gif"
+  },
+  {
+    "name": "Ironblight",
+    "bestiaryClass": "Elemental",
+    "fileName": "Ironblight.gif"
+  },
+  {
+    "name": "Island Troll",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Island_Troll.gif"
+  },
+  {
+    "name": "Jellyfish",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Jellyfish.gif"
+  },
+  {
+    "name": "Juggernaut",
+    "bestiaryClass": "Demon",
+    "fileName": "Juggernaut.gif"
+  },
+  {
+    "name": "Jungle Moa",
+    "bestiaryClass": "Bird",
+    "fileName": "Jungle_Moa.gif"
+  },
+  {
+    "name": "Juvenile Bashmu",
+    "bestiaryClass": "Magical",
+    "fileName": "Juvenile_Bashmu.gif"
+  },
+  {
+    "name": "Killer Caiman",
+    "bestiaryClass": "Reptile",
+    "fileName": "Killer_Caiman.gif"
+  },
+  {
+    "name": "Killer Rabbit",
+    "bestiaryClass": "Mammal",
+    "fileName": "Killer_Rabbit.gif"
+  },
+  {
+    "name": "Knight's Apparition",
+    "bestiaryClass": "Undead",
+    "fileName": "Knight's_Apparition.gif"
+  },
+  {
+    "name": "Knowledge Elemental",
+    "bestiaryClass": "Elemental",
+    "fileName": "Knowledge_Elemental.gif"
+  },
+  {
+    "name": "Kollos",
+    "bestiaryClass": "Vermin",
+    "fileName": "Kollos.gif"
+  },
+  {
+    "name": "Kongra",
+    "bestiaryClass": "Mammal",
+    "fileName": "Kongra.gif"
+  },
+  {
+    "name": "Lacewing Moth",
+    "bestiaryClass": "Vermin",
+    "fileName": "Lacewing_Moth.gif"
+  },
+  {
+    "name": "Ladybug",
+    "bestiaryClass": "Vermin",
+    "fileName": "Ladybug.gif"
+  },
+  {
+    "name": "Lamassu",
+    "bestiaryClass": "Magical",
+    "fileName": "Lamassu.gif"
+  },
+  {
+    "name": "Lancer Beetle",
+    "bestiaryClass": "Vermin",
+    "fileName": "Lancer_Beetle.gif"
+  },
+  {
+    "name": "Larva",
+    "bestiaryClass": "Vermin",
+    "fileName": "Larva.gif"
+  },
+  {
+    "name": "Lava Golem",
+    "bestiaryClass": "Construct",
+    "fileName": "Lava_Golem.gif"
+  },
+  {
+    "name": "Lava Lurker",
+    "bestiaryClass": "Elemental",
+    "fileName": "Lava_Lurker.gif"
+  },
+  {
+    "name": "Lavafungus",
+    "bestiaryClass": "Plant",
+    "fileName": "Lavafungus.gif"
+  },
+  {
+    "name": "Lavaworm",
+    "bestiaryClass": "Vermin",
+    "fileName": "Lavaworm.gif"
+  },
+  {
+    "name": "Leaf Golem",
+    "bestiaryClass": "Plant",
+    "fileName": "Leaf_Golem.gif"
+  },
+  {
+    "name": "Lich",
+    "bestiaryClass": "Undead",
+    "fileName": "Lich.gif"
+  },
+  {
+    "name": "Liodile",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Liodile.gif"
+  },
+  {
+    "name": "Lion",
+    "bestiaryClass": "Mammal",
+    "fileName": "Lion.gif"
+  },
+  {
+    "name": "Lion Hydra",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Lion_Hydra.gif"
+  },
+  {
+    "name": "Little Corym Charlatan",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Little_Corym_Charlatan.gif"
+  },
+  {
+    "name": "Lizard Chosen",
+    "bestiaryClass": "Reptile",
+    "fileName": "Lizard_Chosen.gif"
+  },
+  {
+    "name": "Lizard Commander",
+    "bestiaryClass": "Reptile",
+    "fileName": "Lizard_Commander.gif"
+  },
+  {
+    "name": "Lizard Dragon Priest",
+    "bestiaryClass": "Reptile",
+    "fileName": "Lizard_Dragon_Priest.gif"
+  },
+  {
+    "name": "Lizard Executioner",
+    "bestiaryClass": "Reptile",
+    "fileName": "Lizard_Executioner.gif"
+  },
+  {
+    "name": "Lizard Henchman",
+    "bestiaryClass": "Reptile",
+    "fileName": "Lizard_Henchman.gif"
+  },
+  {
+    "name": "Lizard High Guard",
+    "bestiaryClass": "Reptile",
+    "fileName": "Lizard_High_Guard.gif"
+  },
+  {
+    "name": "Lizard Legionnaire",
+    "bestiaryClass": "Reptile",
+    "fileName": "Lizard_Legionnaire.gif"
+  },
+  {
+    "name": "Lizard Magician",
+    "bestiaryClass": "Reptile",
+    "fileName": "Lizard_Magician.gif"
+  },
+  {
+    "name": "Lizard Magistratus",
+    "bestiaryClass": "Reptile",
+    "fileName": "Lizard_Magistratus.gif"
+  },
+  {
+    "name": "Lizard Noble",
+    "bestiaryClass": "Reptile",
+    "fileName": "Lizard_Noble.gif"
+  },
+  {
+    "name": "Lizard Sentinel",
+    "bestiaryClass": "Reptile",
+    "fileName": "Lizard_Sentinel.gif"
+  },
+  {
+    "name": "Lizard Snakecharmer",
+    "bestiaryClass": "Reptile",
+    "fileName": "Lizard_Snakecharmer.gif"
+  },
+  {
+    "name": "Lizard Swordmaster",
+    "bestiaryClass": "Reptile",
+    "fileName": "Lizard_Swordmaster.gif"
+  },
+  {
+    "name": "Lizard Templar",
+    "bestiaryClass": "Reptile",
+    "fileName": "Lizard_Templar.gif"
+  },
+  {
+    "name": "Lizard Zaogun",
+    "bestiaryClass": "Reptile",
+    "fileName": "Lizard_Zaogun.gif"
+  },
+  {
+    "name": "Loricate Orger",
+    "bestiaryClass": "Giant",
+    "fileName": "Loricate_Orger.gif"
+  },
+  {
+    "name": "Lost Basher",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Lost_Basher.gif"
+  },
+  {
+    "name": "Lost Berserker",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Lost_Berserker.gif"
+  },
+  {
+    "name": "Lost Exile",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Lost_Exile.gif"
+  },
+  {
+    "name": "Lost Husher",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Lost_Husher.gif"
+  },
+  {
+    "name": "Lost Soul",
+    "bestiaryClass": "Undead",
+    "fileName": "Lost_Soul.gif"
+  },
+  {
+    "name": "Lost Thrower",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Lost_Thrower.gif"
+  },
+  {
+    "name": "Lumbering Carnivor",
+    "bestiaryClass": "Magical",
+    "fileName": "Lumbering_Carnivor.gif"
+  },
+  {
+    "name": "Mad Scientist",
+    "bestiaryClass": "Human",
+    "fileName": "Mad_Scientist.gif"
+  },
+  {
+    "name": "Magma Crawler",
+    "bestiaryClass": "Construct",
+    "fileName": "Magma_Crawler.gif"
+  },
+  {
+    "name": "Makara",
+    "bestiaryClass": "Amphibic",
+    "fileName": "Makara.gif"
+  },
+  {
+    "name": "Mammoth",
+    "bestiaryClass": "Mammal",
+    "fileName": "Mammoth.gif"
+  },
+  {
+    "name": "Manta Ray",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Manta_Ray.gif"
+  },
+  {
+    "name": "Manticore",
+    "bestiaryClass": "Magical",
+    "fileName": "Manticore.gif"
+  },
+  {
+    "name": "Mantosaurus",
+    "bestiaryClass": "Reptile",
+    "fileName": "Mantosaurus.gif"
+  },
+  {
+    "name": "Many Faces",
+    "bestiaryClass": "Demon",
+    "fileName": "Many_Faces.gif"
+  },
+  {
+    "name": "Marid",
+    "bestiaryClass": "Magical",
+    "fileName": "Marid.gif"
+  },
+  {
+    "name": "Marsh Stalker",
+    "bestiaryClass": "Bird",
+    "fileName": "Marsh_Stalker.gif"
+  },
+  {
+    "name": "Massive Earth Elemental",
+    "bestiaryClass": "Elemental",
+    "fileName": "Massive_Earth_Elemental.gif"
+  },
+  {
+    "name": "Massive Energy Elemental",
+    "bestiaryClass": "Elemental",
+    "fileName": "Massive_Energy_Elemental.gif"
+  },
+  {
+    "name": "Massive Fire Elemental",
+    "bestiaryClass": "Elemental",
+    "fileName": "Massive_Fire_Elemental.gif"
+  },
+  {
+    "name": "Massive Water Elemental",
+    "bestiaryClass": "Elemental",
+    "fileName": "Massive_Water_Elemental.gif"
+  },
+  {
+    "name": "Mean Lost Soul",
+    "bestiaryClass": "Undead",
+    "fileName": "Mean_Lost_Soul.gif"
+  },
+  {
+    "name": "Meandering Mushroom",
+    "bestiaryClass": "Slime",
+    "fileName": "Meandering_Mushroom.gif"
+  },
+  {
+    "name": "Medusa",
+    "bestiaryClass": "Magical",
+    "fileName": "Medusa.gif"
+  },
+  {
+    "name": "Mega Dragon",
+    "bestiaryClass": "Dragon",
+    "fileName": "Mega_Dragon.gif"
+  },
+  {
+    "name": "Menacing Carnivor",
+    "bestiaryClass": "Magical",
+    "fileName": "Menacing_Carnivor.gif"
+  },
+  {
+    "name": "Mercurial Menace",
+    "bestiaryClass": "Reptile",
+    "fileName": "Mercurial_Menace.gif"
+  },
+  {
+    "name": "Mercury Blob",
+    "bestiaryClass": "Slime",
+    "fileName": "Mercury_Blob.gif"
+  },
+  {
+    "name": "Merlkin",
+    "bestiaryClass": "Mammal",
+    "fileName": "Merlkin.gif"
+  },
+  {
+    "name": "Metal Gargoyle",
+    "bestiaryClass": "Construct",
+    "fileName": "Metal_Gargoyle.gif"
+  },
+  {
+    "name": "Midnight Asura",
+    "bestiaryClass": "Demon",
+    "fileName": "Midnight_Asura.gif"
+  },
+  {
+    "name": "Midnight Panther",
+    "bestiaryClass": "Magical",
+    "fileName": "Midnight_Panther.gif"
+  },
+  {
+    "name": "Midnight Spawn",
+    "bestiaryClass": "Slime",
+    "fileName": "Midnight_Spawn.gif"
+  },
+  {
+    "name": "Midnight Warrior",
+    "bestiaryClass": "Human",
+    "fileName": "Midnight_Warrior.gif"
+  },
+  {
+    "name": "Minotaur",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Minotaur.gif"
+  },
+  {
+    "name": "Minotaur Amazon",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Minotaur_Amazon.gif"
+  },
+  {
+    "name": "Minotaur Archer",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Minotaur_Archer.gif"
+  },
+  {
+    "name": "Minotaur Cult Follower",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Minotaur_Cult_Follower.gif"
+  },
+  {
+    "name": "Minotaur Cult Prophet",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Minotaur_Cult_Prophet.gif"
+  },
+  {
+    "name": "Minotaur Cult Zealot",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Minotaur_Cult_Zealot.gif"
+  },
+  {
+    "name": "Minotaur Guard",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Minotaur_Guard.gif"
+  },
+  {
+    "name": "Minotaur Hunter",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Minotaur_Hunter.gif"
+  },
+  {
+    "name": "Minotaur Invader",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Minotaur_Invader.gif"
+  },
+  {
+    "name": "Minotaur Mage",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Minotaur_Mage.gif"
+  },
+  {
+    "name": "Misguided Bully",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Misguided_Bully.gif"
+  },
+  {
+    "name": "Misguided Thief",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Misguided_Thief.gif"
+  },
+  {
+    "name": "Mitmah Scout",
+    "bestiaryClass": "Extra Dimensional",
+    "fileName": "Mitmah_Scout.gif"
+  },
+  {
+    "name": "Mitmah Seer",
+    "bestiaryClass": "Extra Dimensional",
+    "fileName": "Mitmah_Seer.gif"
+  },
+  {
+    "name": "Modified Gnarlhound",
+    "bestiaryClass": "Mammal",
+    "fileName": "Modified_Gnarlhound.gif"
+  },
+  {
+    "name": "Mole",
+    "bestiaryClass": "Mammal",
+    "fileName": "Mole.gif"
+  },
+  {
+    "name": "Monk (Creature)",
+    "bestiaryClass": "Human",
+    "fileName": "Monk_(criatura).gif"
+  },
+  {
+    "name": "Monk's Apparition",
+    "bestiaryClass": "Undead",
+    "fileName": "Monk's_Apparition.gif"
+  },
+  {
+    "name": "Mooh'Tah Warrior",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Mooh'tah_Warrior.gif"
+  },
+  {
+    "name": "Moohtant",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Moohtant.gif"
+  },
+  {
+    "name": "Mould Phantom",
+    "bestiaryClass": "Undead",
+    "fileName": "Mould_Phantom.gif"
+  },
+  {
+    "name": "Muglex Clan Assassin",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Muglex_Clan_Assassin.gif"
+  },
+  {
+    "name": "Muglex Clan Footman",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Muglex_Clan_Footman.gif"
+  },
+  {
+    "name": "Mummy",
+    "bestiaryClass": "Undead",
+    "fileName": "Mummy.gif"
+  },
+  {
+    "name": "Mushroom Sniffer",
+    "bestiaryClass": "Mammal",
+    "fileName": "Mushroom_Sniffer.gif"
+  },
+  {
+    "name": "Mutated Bat",
+    "bestiaryClass": "Mammal",
+    "fileName": "Mutated_Bat.gif"
+  },
+  {
+    "name": "Mutated Human",
+    "bestiaryClass": "Human",
+    "fileName": "Mutated_Human.gif"
+  },
+  {
+    "name": "Mutated Rat",
+    "bestiaryClass": "Mammal",
+    "fileName": "Mutated_Rat.gif"
+  },
+  {
+    "name": "Mutated Tiger",
+    "bestiaryClass": "Mammal",
+    "fileName": "Mutated_Tiger.gif"
+  },
+  {
+    "name": "Mycobiontic Beetle",
+    "bestiaryClass": "Vermin",
+    "fileName": "Mycobiontic_Beetle.gif"
+  },
+  {
+    "name": "Naga Archer",
+    "bestiaryClass": "Reptile",
+    "fileName": "Naga_Archer.gif"
+  },
+  {
+    "name": "Naga Warrior",
+    "bestiaryClass": "Reptile",
+    "fileName": "Naga_Warrior.gif"
+  },
+  {
+    "name": "Necromancer",
+    "bestiaryClass": "Human",
+    "fileName": "Necromancer.gif"
+  },
+  {
+    "name": "Nibblemaw",
+    "bestiaryClass": "Magical",
+    "fileName": "Nibblemaw.gif"
+  },
+  {
+    "name": "Night Harpy",
+    "bestiaryClass": "Bird",
+    "fileName": "Night_Harpy.gif"
+  },
+  {
+    "name": "Nightfiend",
+    "bestiaryClass": "Demon",
+    "fileName": "Nightfiend.gif"
+  },
+  {
+    "name": "Nighthunter",
+    "bestiaryClass": "Mammal",
+    "fileName": "Nighthunter.gif"
+  },
+  {
+    "name": "Nightmare",
+    "bestiaryClass": "Magical",
+    "fileName": "Nightmare.gif"
+  },
+  {
+    "name": "Nightmare Scion",
+    "bestiaryClass": "Magical",
+    "fileName": "Nightmare_Scion.gif"
+  },
+  {
+    "name": "Nightslayer",
+    "bestiaryClass": "Human",
+    "fileName": "Nightslayer.gif"
+  },
+  {
+    "name": "Nightstalker",
+    "bestiaryClass": "Magical",
+    "fileName": "Nightstalker.gif"
+  },
+  {
+    "name": "Noble Lion",
+    "bestiaryClass": "Mammal",
+    "fileName": "Noble_Lion.gif"
+  },
+  {
+    "name": "Nomad (Basic)",
+    "bestiaryClass": "Human",
+    "fileName": "Nomad_(Basic).gif"
+  },
+  {
+    "name": "Nomad (Blue)",
+    "bestiaryClass": "Human",
+    "fileName": "Nomad_(blue).gif"
+  },
+  {
+    "name": "Nomad (Female)",
+    "bestiaryClass": "Human",
+    "fileName": "Nomad_(female).gif"
+  },
+  {
+    "name": "Norcferatu Heartless",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Norcferatu_Heartless.gif"
+  },
+  {
+    "name": "Norcferatu Nightweaver",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Norcferatu_Nightweaver.gif"
+  },
+  {
+    "name": "Northern Pike (Creature)",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Northern_Pike_(criatura).gif"
+  },
+  {
+    "name": "Novice of the Cult",
+    "bestiaryClass": "Human",
+    "fileName": "Novice_of_the_Cult.gif"
+  },
+  {
+    "name": "Noxious Ripptor",
+    "bestiaryClass": "Reptile",
+    "fileName": "Noxious_Ripptor.gif"
+  },
+  {
+    "name": "Nymph",
+    "bestiaryClass": "Fey",
+    "fileName": "Nymph.gif"
+  },
+  {
+    "name": "Ogre Brute",
+    "bestiaryClass": "Giant",
+    "fileName": "Ogre_Brute.gif"
+  },
+  {
+    "name": "Ogre Rowdy",
+    "bestiaryClass": "Giant",
+    "fileName": "Ogre_Rowdy.gif"
+  },
+  {
+    "name": "Ogre Ruffian",
+    "bestiaryClass": "Giant",
+    "fileName": "Ogre_Ruffian.gif"
+  },
+  {
+    "name": "Ogre Sage",
+    "bestiaryClass": "Giant",
+    "fileName": "Ogre_Sage.gif"
+  },
+  {
+    "name": "Ogre Savage",
+    "bestiaryClass": "Giant",
+    "fileName": "Ogre_Savage.gif"
+  },
+  {
+    "name": "Ogre Shaman",
+    "bestiaryClass": "Giant",
+    "fileName": "Ogre_Shaman.gif"
+  },
+  {
+    "name": "Omnivora",
+    "bestiaryClass": "Plant",
+    "fileName": "Omnivora.gif"
+  },
+  {
+    "name": "Oozing Carcass",
+    "bestiaryClass": "Undead",
+    "fileName": "Oozing_Carcass.gif"
+  },
+  {
+    "name": "Oozing Corpus",
+    "bestiaryClass": "Undead",
+    "fileName": "Oozing_Corpus.gif"
+  },
+  {
+    "name": "Orc",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Orc.gif"
+  },
+  {
+    "name": "Orc Berserker",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Orc_Berserker.gif"
+  },
+  {
+    "name": "Orc Cult Fanatic",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Orc_Cult_Fanatic.gif"
+  },
+  {
+    "name": "Orc Cult Inquisitor",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Orc_Cult_Inquisitor.gif"
+  },
+  {
+    "name": "Orc Cult Minion",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Orc_Cult_Minion.gif"
+  },
+  {
+    "name": "Orc Cult Priest",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Orc_Cult_Priest.gif"
+  },
+  {
+    "name": "Orc Cultist",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Orc_Cultist.gif"
+  },
+  {
+    "name": "Orc Leader",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Orc_Leader.gif"
+  },
+  {
+    "name": "Orc Marauder",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Orc_Marauder.gif"
+  },
+  {
+    "name": "Orc Rider",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Orc_Rider.gif"
+  },
+  {
+    "name": "Orc Shaman",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Orc_Shaman.gif"
+  },
+  {
+    "name": "Orc Spearman",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Orc_Spearman.gif"
+  },
+  {
+    "name": "Orc Warlord",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Orc_Warlord.gif"
+  },
+  {
+    "name": "Orc Warrior",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Orc_Warrior.gif"
+  },
+  {
+    "name": "Orchid Frog",
+    "bestiaryClass": "Amphibic",
+    "fileName": "Orchid_Frog.gif"
+  },
+  {
+    "name": "Orclops Bloodbreaker",
+    "bestiaryClass": "Undead",
+    "fileName": "Orclops_Bloodbreaker.gif"
+  },
+  {
+    "name": "Orclops Doomhauler",
+    "bestiaryClass": "Giant",
+    "fileName": "Orclops_Doomhauler.gif"
+  },
+  {
+    "name": "Orclops Ravager",
+    "bestiaryClass": "Giant",
+    "fileName": "Orclops_Ravager.gif"
+  },
+  {
+    "name": "Orewalker",
+    "bestiaryClass": "Construct",
+    "fileName": "Orewalker.gif"
+  },
+  {
+    "name": "Orger",
+    "bestiaryClass": "Giant",
+    "fileName": "Orger.gif"
+  },
+  {
+    "name": "Paladin's Apparition",
+    "bestiaryClass": "Undead",
+    "fileName": "Paladin's_Apparition.gif"
+  },
+  {
+    "name": "Panda",
+    "bestiaryClass": "Mammal",
+    "fileName": "Panda.gif"
+  },
+  {
+    "name": "Parder",
+    "bestiaryClass": "Mammal",
+    "fileName": "Parder.gif"
+  },
+  {
+    "name": "Parrot",
+    "bestiaryClass": "Bird",
+    "fileName": "Parrot.gif"
+  },
+  {
+    "name": "Penguin",
+    "bestiaryClass": "Bird",
+    "fileName": "Penguin.gif"
+  },
+  {
+    "name": "Percht",
+    "bestiaryClass": "Fey",
+    "fileName": "Percht.gif"
+  },
+  {
+    "name": "Phantasm",
+    "bestiaryClass": "Magical",
+    "fileName": "Phantasm.gif"
+  },
+  {
+    "name": "Pig",
+    "bestiaryClass": "Mammal",
+    "fileName": "Pig.gif"
+  },
+  {
+    "name": "Pigeon",
+    "bestiaryClass": "Bird",
+    "fileName": "Pigeon.gif"
+  },
+  {
+    "name": "Pirat Bombardier",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Pirat_Bombardier.gif"
+  },
+  {
+    "name": "Pirat Cutthroat",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Pirat_Cutthroat.gif"
+  },
+  {
+    "name": "Pirat Mate",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Pirat_Mate.gif"
+  },
+  {
+    "name": "Pirat Scoundrel",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Pirat_Scoundrel.gif"
+  },
+  {
+    "name": "Pirate Buccaneer",
+    "bestiaryClass": "Human",
+    "fileName": "Pirate_Buccaneer.gif"
+  },
+  {
+    "name": "Pirate Cook",
+    "bestiaryClass": "Human",
+    "fileName": "Pirate_Cook.gif"
+  },
+  {
+    "name": "Pirate Corsair",
+    "bestiaryClass": "Human",
+    "fileName": "Pirate_Corsair.gif"
+  },
+  {
+    "name": "Pirate Cutthroat",
+    "bestiaryClass": "Human",
+    "fileName": "Pirate_Cutthroat.gif"
+  },
+  {
+    "name": "Pirate Ghost",
+    "bestiaryClass": "Undead",
+    "fileName": "Pirate_Ghost.gif"
+  },
+  {
+    "name": "Pirate Gunner",
+    "bestiaryClass": "Human",
+    "fileName": "Pirate_Gunner.gif"
+  },
+  {
+    "name": "Pirate Marauder",
+    "bestiaryClass": "Human",
+    "fileName": "Pirate_Marauder.gif"
+  },
+  {
+    "name": "Pirate Navigator",
+    "bestiaryClass": "Human",
+    "fileName": "Pirate_Navigator.gif"
+  },
+  {
+    "name": "Pirate Quartermaster",
+    "bestiaryClass": "Human",
+    "fileName": "Pirate_Quartermaster.gif"
+  },
+  {
+    "name": "Pirate Skeleton",
+    "bestiaryClass": "Undead",
+    "fileName": "Pirate_Skeleton.gif"
+  },
+  {
+    "name": "Pixie",
+    "bestiaryClass": "Fey",
+    "fileName": "Pixie.gif"
+  },
+  {
+    "name": "Plaguesmith",
+    "bestiaryClass": "Demon",
+    "fileName": "Plaguesmith.gif"
+  },
+  {
+    "name": "Poacher",
+    "bestiaryClass": "Human",
+    "fileName": "Poacher.gif"
+  },
+  {
+    "name": "Poison Spider",
+    "bestiaryClass": "Vermin",
+    "fileName": "Poison_Spider.gif"
+  },
+  {
+    "name": "Poisonous Carnisylvan",
+    "bestiaryClass": "Human",
+    "fileName": "Poisonous_Carnisylvan.gif"
+  },
+  {
+    "name": "Polar Bear",
+    "bestiaryClass": "Mammal",
+    "fileName": "Polar_Bear.gif"
+  },
+  {
+    "name": "Pooka",
+    "bestiaryClass": "Fey",
+    "fileName": "Pooka.gif"
+  },
+  {
+    "name": "Priestess",
+    "bestiaryClass": "Human",
+    "fileName": "Priestess.gif"
+  },
+  {
+    "name": "Priestess of the Wild Sun",
+    "bestiaryClass": "Human",
+    "fileName": "Priestess_of_the_Wild_Sun.gif"
+  },
+  {
+    "name": "Putrid Mummy",
+    "bestiaryClass": "Undead",
+    "fileName": "Putrid_Mummy.gif"
+  },
+  {
+    "name": "Quara Constrictor",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Quara_Constrictor.gif"
+  },
+  {
+    "name": "Quara Constrictor Scout",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Quara_Constrictor_Scout.gif"
+  },
+  {
+    "name": "Quara Hydromancer",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Quara_Hydromancer.gif"
+  },
+  {
+    "name": "Quara Hydromancer Scout",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Quara_Hydromancer_Scout.gif"
+  },
+  {
+    "name": "Quara Looter",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Quara_Looter.gif"
+  },
+  {
+    "name": "Quara Mantassin",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Quara_Mantassin.gif"
+  },
+  {
+    "name": "Quara Mantassin Scout",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Quara_Mantassin_Scout.gif"
+  },
+  {
+    "name": "Quara Pincher",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Quara_Pincher.gif"
+  },
+  {
+    "name": "Quara Pincher Scout",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Quara_Pincher_Scout.gif"
+  },
+  {
+    "name": "Quara Plunderer",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Quara_Plunderer.gif"
+  },
+  {
+    "name": "Quara Predator",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Quara_Predator.gif"
+  },
+  {
+    "name": "Quara Predator Scout",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Quara_Predator_Scout.gif"
+  },
+  {
+    "name": "Quara Raider",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Quara_Raider.gif"
+  },
+  {
+    "name": "Rabbit",
+    "bestiaryClass": "Mammal",
+    "fileName": "Rabbit.gif"
+  },
+  {
+    "name": "Rabid Wolf",
+    "bestiaryClass": "Mammal",
+    "fileName": "Rabid_Wolf.gif"
+  },
+  {
+    "name": "Rage Squid",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Rage_Squid.gif"
+  },
+  {
+    "name": "Ragged Rabid Wolf",
+    "bestiaryClass": "Mammal",
+    "fileName": "Ragged_Rabid_Wolf.gif"
+  },
+  {
+    "name": "Raging Fire",
+    "bestiaryClass": "Elemental",
+    "fileName": "Raging_Fire.gif"
+  },
+  {
+    "name": "Rat",
+    "bestiaryClass": "Mammal",
+    "fileName": "Rat.gif"
+  },
+  {
+    "name": "Raubritter Chastener",
+    "bestiaryClass": "Human",
+    "fileName": "Raubritter_Chastener.gif"
+  },
+  {
+    "name": "Raubritter Marksman",
+    "bestiaryClass": "Human",
+    "fileName": "Raubritter_Marksman.gif"
+  },
+  {
+    "name": "Raubritter Skirmisher",
+    "bestiaryClass": "Human",
+    "fileName": "Raubritter_Skirmisher.gif"
+  },
+  {
+    "name": "Ravenous Lava Lurker",
+    "bestiaryClass": "Elemental",
+    "fileName": "Ravenous_Lava_Lurker.gif"
+  },
+  {
+    "name": "Reality Reaver",
+    "bestiaryClass": "Extra Dimensional",
+    "fileName": "Reality_Reaver.gif"
+  },
+  {
+    "name": "Redeemed Soul",
+    "bestiaryClass": "Magical",
+    "fileName": "Redeemed_Soul.gif"
+  },
+  {
+    "name": "Renegade Knight",
+    "bestiaryClass": "Human",
+    "fileName": "Renegade_Knight.gif"
+  },
+  {
+    "name": "Renegade Quara Constrictor",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Renegade_Quara_Constrictor.gif"
+  },
+  {
+    "name": "Renegade Quara Hydromancer",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Renegade_Quara_Hydromancer.gif"
+  },
+  {
+    "name": "Renegade Quara Mantassin",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Renegade_Quara_Mantassin.gif"
+  },
+  {
+    "name": "Renegade Quara Pincher",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Renegade_Quara_Pincher.gif"
+  },
+  {
+    "name": "Renegade Quara Predator",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Renegade_Quara_Predator.gif"
+  },
+  {
+    "name": "Retching Horror",
+    "bestiaryClass": "Magical",
+    "fileName": "Retching_Horror.gif"
+  },
+  {
+    "name": "Rhindeer",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Rhindeer.gif"
+  },
+  {
+    "name": "Ripper Spectre",
+    "bestiaryClass": "Undead",
+    "fileName": "Ripper_Spectre.gif"
+  },
+  {
+    "name": "Roaming Dread",
+    "bestiaryClass": "Undead",
+    "fileName": "Roaming_Dread.gif"
+  },
+  {
+    "name": "Roaring Lion",
+    "bestiaryClass": "Mammal",
+    "fileName": "Roaring_Lion.gif"
+  },
+  {
+    "name": "Roast Pork",
+    "bestiaryClass": "Mammal",
+    "fileName": "Roast_Pork.gif"
+  },
+  {
+    "name": "Rootthing Amber Shaper",
+    "bestiaryClass": "Plant",
+    "fileName": "Rootthing_Amber_Shaper.gif"
+  },
+  {
+    "name": "Rootthing Bug Tracker",
+    "bestiaryClass": "Plant",
+    "fileName": "Rootthing_Bug_Tracker.gif"
+  },
+  {
+    "name": "Rootthing Nutshell",
+    "bestiaryClass": "Plant",
+    "fileName": "Rootthing_Nutshell.gif"
+  },
+  {
+    "name": "Rorc",
+    "bestiaryClass": "Magical",
+    "fileName": "Rorc.gif"
+  },
+  {
+    "name": "Rot Elemental",
+    "bestiaryClass": "Undead",
+    "fileName": "Rot_Elemental.gif"
+  },
+  {
+    "name": "Rotten Golem",
+    "bestiaryClass": "Construct",
+    "fileName": "Rotten_Golem.gif"
+  },
+  {
+    "name": "Rotten Man-Maggot",
+    "bestiaryClass": "Vermin",
+    "fileName": "Rotten_Man-Maggot.gif"
+  },
+  {
+    "name": "Rotworm",
+    "bestiaryClass": "Vermin",
+    "fileName": "Rotworm.gif"
+  },
+  {
+    "name": "Rustheap Golem",
+    "bestiaryClass": "Construct",
+    "fileName": "Rustheap_Golem.gif"
+  },
+  {
+    "name": "Sabretooth (Creature)",
+    "bestiaryClass": "Mammal",
+    "fileName": "Sabretooth_(criatura).gif"
+  },
+  {
+    "name": "Sacred Spider",
+    "bestiaryClass": "Vermin",
+    "fileName": "Sacred_Spider.gif"
+  },
+  {
+    "name": "Salamander",
+    "bestiaryClass": "Amphibic",
+    "fileName": "Salamander.gif"
+  },
+  {
+    "name": "Sandcrawler",
+    "bestiaryClass": "Vermin",
+    "fileName": "Sandcrawler.gif"
+  },
+  {
+    "name": "Sandstone Scorpion",
+    "bestiaryClass": "Construct",
+    "fileName": "Sandstone_Scorpion.gif"
+  },
+  {
+    "name": "Scarab",
+    "bestiaryClass": "Vermin",
+    "fileName": "Scarab.gif"
+  },
+  {
+    "name": "Schiach",
+    "bestiaryClass": "Fey",
+    "fileName": "Schiach.gif"
+  },
+  {
+    "name": "Scorpion",
+    "bestiaryClass": "Vermin",
+    "fileName": "Scorpion.gif"
+  },
+  {
+    "name": "Sea Captain",
+    "bestiaryClass": "Human",
+    "fileName": "Sea_Captain.gif"
+  },
+  {
+    "name": "Sea Serpent",
+    "bestiaryClass": "Reptile",
+    "fileName": "Sea_Serpent.gif"
+  },
+  {
+    "name": "Seacrest Serpent",
+    "bestiaryClass": "Reptile",
+    "fileName": "Seacrest_Serpent.gif"
+  },
+  {
+    "name": "Seagull",
+    "bestiaryClass": "Bird",
+    "fileName": "Seagull.gif"
+  },
+  {
+    "name": "Serpent Spawn",
+    "bestiaryClass": "Reptile",
+    "fileName": "Serpent_Spawn.gif"
+  },
+  {
+    "name": "Shaburak Demon",
+    "bestiaryClass": "Demon",
+    "fileName": "Shaburak_Demon.gif"
+  },
+  {
+    "name": "Shaburak Lord",
+    "bestiaryClass": "Demon",
+    "fileName": "Shaburak_Lord.gif"
+  },
+  {
+    "name": "Shaburak Prince",
+    "bestiaryClass": "Demon",
+    "fileName": "Shaburak_Prince.gif"
+  },
+  {
+    "name": "Shadow Hound",
+    "bestiaryClass": "Demon",
+    "fileName": "Shadow_Hound.gif"
+  },
+  {
+    "name": "Shadow Pupil",
+    "bestiaryClass": "Human",
+    "fileName": "Shadow_Pupil.gif"
+  },
+  {
+    "name": "Shaper Matriarch",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Shaper_Matriarch.gif"
+  },
+  {
+    "name": "Shark",
+    "bestiaryClass": "Aquatic",
+    "fileName": "Shark.gif"
+  },
+  {
+    "name": "Sheep",
+    "bestiaryClass": "Mammal",
+    "fileName": "Sheep.gif"
+  },
+  {
+    "name": "Shell Drake",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Shell_Drake.gif"
+  },
+  {
+    "name": "Shock Head",
+    "bestiaryClass": "Magical",
+    "fileName": "Shock_Head.gif"
+  },
+  {
+    "name": "Shrieking Cry-stal",
+    "bestiaryClass": "Construct",
+    "fileName": "Shrieking_Cry-Stal.gif"
+  },
+  {
+    "name": "Sibang",
+    "bestiaryClass": "Mammal",
+    "fileName": "Sibang.gif"
+  },
+  {
+    "name": "Sight of Surrender",
+    "bestiaryClass": "Magical",
+    "fileName": "Sight_of_Surrender.gif"
+  },
+  {
+    "name": "Silencer",
+    "bestiaryClass": "Magical",
+    "fileName": "Silencer.gif"
+  },
+  {
+    "name": "Silver Rabbit",
+    "bestiaryClass": "Mammal",
+    "fileName": "Silver_Rabbit.gif"
+  },
+  {
+    "name": "Sineater Inferniarch",
+    "bestiaryClass": "Demon",
+    "fileName": "Sineater_Inferniarch.gif"
+  },
+  {
+    "name": "Skeleton",
+    "bestiaryClass": "Undead",
+    "fileName": "Skeleton.gif"
+  },
+  {
+    "name": "Skeleton Elite Warrior",
+    "bestiaryClass": "Undead",
+    "fileName": "Skeleton_Elite_Warrior.gif"
+  },
+  {
+    "name": "Skeleton Warrior",
+    "bestiaryClass": "Undead",
+    "fileName": "Skeleton_Warrior.gif"
+  },
+  {
+    "name": "Skunk",
+    "bestiaryClass": "Mammal",
+    "fileName": "Skunk.gif"
+  },
+  {
+    "name": "Slime",
+    "bestiaryClass": "Slime",
+    "fileName": "Slime_(criatura).gif"
+  },
+  {
+    "name": "Slug",
+    "bestiaryClass": "Vermin",
+    "fileName": "Slug.gif"
+  },
+  {
+    "name": "Smuggler",
+    "bestiaryClass": "Human",
+    "fileName": "Smuggler.gif"
+  },
+  {
+    "name": "Snake",
+    "bestiaryClass": "Reptile",
+    "fileName": "Snake.gif"
+  },
+  {
+    "name": "Son of Verminor",
+    "bestiaryClass": "Slime",
+    "fileName": "Son_of_Verminor.gif"
+  },
+  {
+    "name": "Sopping Carcass",
+    "bestiaryClass": "Undead",
+    "fileName": "Sopping_Carcass.gif"
+  },
+  {
+    "name": "Sopping Corpus",
+    "bestiaryClass": "Undead",
+    "fileName": "Sopping_Corpus.gif"
+  },
+  {
+    "name": "Sorcerer's Apparition",
+    "bestiaryClass": "Undead",
+    "fileName": "Sorcerer's_Apparition.gif"
+  },
+  {
+    "name": "Soul-Broken Harbinger",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Soul-Broken_Harbinger.gif"
+  },
+  {
+    "name": "Souleater",
+    "bestiaryClass": "Undead",
+    "fileName": "Souleater.gif"
+  },
+  {
+    "name": "Sparkion",
+    "bestiaryClass": "Extra Dimensional",
+    "fileName": "Sparkion.gif"
+  },
+  {
+    "name": "Spectre",
+    "bestiaryClass": "Undead",
+    "fileName": "Spectre.gif"
+  },
+  {
+    "name": "Spellreaper Inferniarch",
+    "bestiaryClass": "Demon",
+    "fileName": "Spellreaper_Inferniarch.gif"
+  },
+  {
+    "name": "Sphinx",
+    "bestiaryClass": "Magical",
+    "fileName": "Sphinx.gif"
+  },
+  {
+    "name": "Spider",
+    "bestiaryClass": "Vermin",
+    "fileName": "Spider.gif"
+  },
+  {
+    "name": "Spidris",
+    "bestiaryClass": "Vermin",
+    "fileName": "Spidris.gif"
+  },
+  {
+    "name": "Spidris Elite",
+    "bestiaryClass": "Vermin",
+    "fileName": "Spidris_Elite.gif"
+  },
+  {
+    "name": "Spiky Carnivor",
+    "bestiaryClass": "Magical",
+    "fileName": "Spiky_Carnivor.gif"
+  },
+  {
+    "name": "Spit Nettle",
+    "bestiaryClass": "Plant",
+    "fileName": "Spit_Nettle.gif"
+  },
+  {
+    "name": "Spitter",
+    "bestiaryClass": "Vermin",
+    "fileName": "Spitter.gif"
+  },
+  {
+    "name": "Squid Warden",
+    "bestiaryClass": "Inkborn",
+    "fileName": "Squid_Warden.gif"
+  },
+  {
+    "name": "Squidgy Slime",
+    "bestiaryClass": "Slime",
+    "fileName": "Squidgy_Slime.gif"
+  },
+  {
+    "name": "Squirrel",
+    "bestiaryClass": "Mammal",
+    "fileName": "Squirrel.gif"
+  },
+  {
+    "name": "Stabilizing Dread Intruder",
+    "bestiaryClass": "Extra Dimensional",
+    "fileName": "Stabilizing_Dread_Intruder.gif"
+  },
+  {
+    "name": "Stabilizing Reality Reaver",
+    "bestiaryClass": "Extra Dimensional",
+    "fileName": "Stabilizing_Reality_Reaver.gif"
+  },
+  {
+    "name": "Stag",
+    "bestiaryClass": "Mammal",
+    "fileName": "Stag.gif"
+  },
+  {
+    "name": "Stalker",
+    "bestiaryClass": "Human",
+    "fileName": "Stalker.gif"
+  },
+  {
+    "name": "Stalking Stalk",
+    "bestiaryClass": "Plant",
+    "fileName": "Stalking_Stalk.gif"
+  },
+  {
+    "name": "Stampor",
+    "bestiaryClass": "Reptile",
+    "fileName": "Stampor.gif"
+  },
+  {
+    "name": "Starving Wolf",
+    "bestiaryClass": "Mammal",
+    "fileName": "Starving_Wolf.gif"
+  },
+  {
+    "name": "Stone Devourer",
+    "bestiaryClass": "Construct",
+    "fileName": "Stone_Devourer.gif"
+  },
+  {
+    "name": "Stone Golem",
+    "bestiaryClass": "Construct",
+    "fileName": "Stone_Golem.gif"
+  },
+  {
+    "name": "Stone Rhino",
+    "bestiaryClass": "Mammal",
+    "fileName": "Stone_Rhino.gif"
+  },
+  {
+    "name": "Stonerefiner",
+    "bestiaryClass": "Reptile",
+    "fileName": "Stonerefiner.gif"
+  },
+  {
+    "name": "Streaked Devourer",
+    "bestiaryClass": "Vermin",
+    "fileName": "Streaked_Devourer.gif"
+  },
+  {
+    "name": "Sugar Cube",
+    "bestiaryClass": "Fey",
+    "fileName": "Sugar_Cube.gif"
+  },
+  {
+    "name": "Sugar Cube Worker",
+    "bestiaryClass": "Fey",
+    "fileName": "Sugar_Cube_Worker.gif"
+  },
+  {
+    "name": "Sulphider",
+    "bestiaryClass": "Vermin",
+    "fileName": "Sulphider.gif"
+  },
+  {
+    "name": "Sulphur Spouter",
+    "bestiaryClass": "Elemental",
+    "fileName": "Sulphur_Spouter.gif"
+  },
+  {
+    "name": "Swamp Troll",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Swamp_Troll.gif"
+  },
+  {
+    "name": "Swampling",
+    "bestiaryClass": "Plant",
+    "fileName": "Swampling.gif"
+  },
+  {
+    "name": "Swan Maiden",
+    "bestiaryClass": "Fey",
+    "fileName": "Swan_Maiden.gif"
+  },
+  {
+    "name": "Swarmer",
+    "bestiaryClass": "Vermin",
+    "fileName": "Swarmer.gif"
+  },
+  {
+    "name": "Tainted Soul",
+    "bestiaryClass": "Magical",
+    "fileName": "Tainted_Soul.gif"
+  },
+  {
+    "name": "Tarantula",
+    "bestiaryClass": "Vermin",
+    "fileName": "Tarantula.gif"
+  },
+  {
+    "name": "Tarnished Spirit",
+    "bestiaryClass": "Undead",
+    "fileName": "Tarnished_Spirit.gif"
+  },
+  {
+    "name": "Terramite",
+    "bestiaryClass": "Vermin",
+    "fileName": "Terramite.gif"
+  },
+  {
+    "name": "Terrified Elephant",
+    "bestiaryClass": "Mammal",
+    "fileName": "Terrified_Elephant.gif"
+  },
+  {
+    "name": "Terror Bird",
+    "bestiaryClass": "Bird",
+    "fileName": "Terror_Bird.gif"
+  },
+  {
+    "name": "Terrorsleep",
+    "bestiaryClass": "Magical",
+    "fileName": "Terrorsleep.gif"
+  },
+  {
+    "name": "Thanatursus",
+    "bestiaryClass": "Magical",
+    "fileName": "Thanatursus.gif"
+  },
+  {
+    "name": "Thornback Tortoise",
+    "bestiaryClass": "Reptile",
+    "fileName": "Thornback_Tortoise.gif"
+  },
+  {
+    "name": "Thornfire Wolf",
+    "bestiaryClass": "Magical",
+    "fileName": "Thornfire_Wolf.gif"
+  },
+  {
+    "name": "Tiger",
+    "bestiaryClass": "Mammal",
+    "fileName": "Tiger.gif"
+  },
+  {
+    "name": "Toad",
+    "bestiaryClass": "Amphibic",
+    "fileName": "Toad.gif"
+  },
+  {
+    "name": "Tomb Servant",
+    "bestiaryClass": "Undead",
+    "fileName": "Tomb_Servant.gif"
+  },
+  {
+    "name": "Tortoise",
+    "bestiaryClass": "Reptile",
+    "fileName": "Tortoise.gif"
+  },
+  {
+    "name": "Tremendous Tyrant",
+    "bestiaryClass": "Vermin",
+    "fileName": "Tremendous_Tyrant.gif"
+  },
+  {
+    "name": "Troll",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Troll.gif"
+  },
+  {
+    "name": "Troll Champion",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Troll_Champion.gif"
+  },
+  {
+    "name": "Troll Guard",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Troll_Guard.gif"
+  },
+  {
+    "name": "Troll Legionnaire",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Troll_Legionnaire.gif"
+  },
+  {
+    "name": "True Dawnfire Asura",
+    "bestiaryClass": "Demon",
+    "fileName": "True_Dawnfire_Asura.gif"
+  },
+  {
+    "name": "True Frost Flower Asura",
+    "bestiaryClass": "Demon",
+    "fileName": "True_Frost_Flower_Asura.gif"
+  },
+  {
+    "name": "True Midnight Asura",
+    "bestiaryClass": "Demon",
+    "fileName": "True_Midnight_Asura.gif"
+  },
+  {
+    "name": "Truffle",
+    "bestiaryClass": "Fey",
+    "fileName": "Truffle.gif"
+  },
+  {
+    "name": "Truffle Cook",
+    "bestiaryClass": "Fey",
+    "fileName": "Truffle_Cook.gif"
+  },
+  {
+    "name": "Tunnel Tyrant",
+    "bestiaryClass": "Vermin",
+    "fileName": "Tunnel_Tyrant.gif"
+  },
+  {
+    "name": "Turbulent Elemental",
+    "bestiaryClass": "Elemental",
+    "fileName": "Turbulent_Elemental.gif"
+  },
+  {
+    "name": "Twisted Pooka",
+    "bestiaryClass": "Fey",
+    "fileName": "Twisted_Pooka.gif"
+  },
+  {
+    "name": "Twisted Shaper",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Twisted_Shaper.gif"
+  },
+  {
+    "name": "Two-Headed Turtle",
+    "bestiaryClass": "Reptile",
+    "fileName": "Two-Headed_Turtle.gif"
+  },
+  {
+    "name": "Undead Cavebear",
+    "bestiaryClass": "Undead",
+    "fileName": "Undead_Cavebear.gif"
+  },
+  {
+    "name": "Undead Dragon",
+    "bestiaryClass": "Dragon",
+    "fileName": "Undead_Dragon.gif"
+  },
+  {
+    "name": "Undead Dragon",
+    "bestiaryClass": "Undead",
+    "fileName": "Undead_Dragon.gif"
+  },
+  {
+    "name": "Undead Elite Gladiator",
+    "bestiaryClass": "Undead",
+    "fileName": "Undead_Elite_Gladiator.gif"
+  },
+  {
+    "name": "Undead Gladiator",
+    "bestiaryClass": "Undead",
+    "fileName": "Undead_Gladiator.gif"
+  },
+  {
+    "name": "Undead Jester",
+    "bestiaryClass": "Undead",
+    "fileName": "Undead_Jester.gif"
+  },
+  {
+    "name": "Undead Mine Worker",
+    "bestiaryClass": "Undead",
+    "fileName": "Undead_Mine_Worker.gif"
+  },
+  {
+    "name": "Undead Prospector",
+    "bestiaryClass": "Undead",
+    "fileName": "Undead_Prospector.gif"
+  },
+  {
+    "name": "Undertaker",
+    "bestiaryClass": "Vermin",
+    "fileName": "Undertaker.gif"
+  },
+  {
+    "name": "Usurper Archer",
+    "bestiaryClass": "Human",
+    "fileName": "Usurper_Archer.gif"
+  },
+  {
+    "name": "Usurper Knight",
+    "bestiaryClass": "Human",
+    "fileName": "Usurper_Knight.gif"
+  },
+  {
+    "name": "Usurper Warlock",
+    "bestiaryClass": "Human",
+    "fileName": "Usurper_Warlock.gif"
+  },
+  {
+    "name": "Valkyrie",
+    "bestiaryClass": "Human",
+    "fileName": "Valkyrie.gif"
+  },
+  {
+    "name": "Vampire",
+    "bestiaryClass": "Undead",
+    "fileName": "Vampire.gif"
+  },
+  {
+    "name": "Vampire Bride",
+    "bestiaryClass": "Undead",
+    "fileName": "Vampire_Bride.gif"
+  },
+  {
+    "name": "Vampire Pig",
+    "bestiaryClass": "Undead",
+    "fileName": "Vampire_Pig.gif"
+  },
+  {
+    "name": "Vampire Viscount",
+    "bestiaryClass": "Undead",
+    "fileName": "Vampire_Viscount.gif"
+  },
+  {
+    "name": "Varg",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Varg.gif"
+  },
+  {
+    "name": "Varnished Diremaw",
+    "bestiaryClass": "Vermin",
+    "fileName": "Varnished_Diremaw.gif"
+  },
+  {
+    "name": "Venerable Girtablilu",
+    "bestiaryClass": "Magical",
+    "fileName": "Venerable_Girtablilu.gif"
+  },
+  {
+    "name": "Vexclaw",
+    "bestiaryClass": "Demon",
+    "fileName": "Vexclaw.gif"
+  },
+  {
+    "name": "Vibrant Phantom",
+    "bestiaryClass": "Undead",
+    "fileName": "Vibrant_Phantom.gif"
+  },
+  {
+    "name": "Vicious Manbat",
+    "bestiaryClass": "Undead",
+    "fileName": "Vicious_Manbat.gif"
+  },
+  {
+    "name": "Vicious Squire",
+    "bestiaryClass": "Human",
+    "fileName": "Vicious_Squire.gif"
+  },
+  {
+    "name": "Vile Grandmaster",
+    "bestiaryClass": "Human",
+    "fileName": "Vile_Grandmaster.gif"
+  },
+  {
+    "name": "Vulcongra",
+    "bestiaryClass": "Mammal",
+    "fileName": "Vulcongra.gif"
+  },
+  {
+    "name": "Wafer Paper Butterfly",
+    "bestiaryClass": "Vermin",
+    "fileName": "Wafer_Paper_Butterfly.gif"
+  },
+  {
+    "name": "Wailing Widow",
+    "bestiaryClass": "Vermin",
+    "fileName": "Wailing_Widow.gif"
+  },
+  {
+    "name": "Walker",
+    "bestiaryClass": "Construct",
+    "fileName": "Walker.gif"
+  },
+  {
+    "name": "Walking Dread",
+    "bestiaryClass": "Undead",
+    "fileName": "Walking_Dread.gif"
+  },
+  {
+    "name": "Walking Pillar",
+    "bestiaryClass": "Construct",
+    "fileName": "Walking_Pillar.gif"
+  },
+  {
+    "name": "Wandering Pillar",
+    "bestiaryClass": "Construct",
+    "fileName": "Wandering_Pillar.gif"
+  },
+  {
+    "name": "War Golem",
+    "bestiaryClass": "Construct",
+    "fileName": "War_Golem.gif"
+  },
+  {
+    "name": "War Wolf",
+    "bestiaryClass": "Mammal",
+    "fileName": "War_Wolf.gif"
+  },
+  {
+    "name": "Wardragon",
+    "bestiaryClass": "Dragon",
+    "fileName": "Wardragon.gif"
+  },
+  {
+    "name": "Warlock",
+    "bestiaryClass": "Human",
+    "fileName": "Warlock.gif"
+  },
+  {
+    "name": "Wasp",
+    "bestiaryClass": "Vermin",
+    "fileName": "Wasp.gif"
+  },
+  {
+    "name": "Waspoid",
+    "bestiaryClass": "Vermin",
+    "fileName": "Waspoid.gif"
+  },
+  {
+    "name": "Water Buffalo",
+    "bestiaryClass": "Mammal",
+    "fileName": "Water_Buffalo.gif"
+  },
+  {
+    "name": "Water Elemental",
+    "bestiaryClass": "Elemental",
+    "fileName": "Water_Elemental.gif"
+  },
+  {
+    "name": "Weakened Frazzlemaw",
+    "bestiaryClass": "Magical",
+    "fileName": "Weakened_Frazzlemaw.gif"
+  },
+  {
+    "name": "Weeper",
+    "bestiaryClass": "Construct",
+    "fileName": "Weeper.gif"
+  },
+  {
+    "name": "Werebadger",
+    "bestiaryClass": "Lycanthrope",
+    "fileName": "Werebadger.gif"
+  },
+  {
+    "name": "Werebear",
+    "bestiaryClass": "Lycanthrope",
+    "fileName": "Werebear.gif"
+  },
+  {
+    "name": "Wereboar",
+    "bestiaryClass": "Lycanthrope",
+    "fileName": "Wereboar.gif"
+  },
+  {
+    "name": "Werecrocodile",
+    "bestiaryClass": "Lycanthrope",
+    "fileName": "Werecrocodile.gif"
+  },
+  {
+    "name": "Werefox",
+    "bestiaryClass": "Lycanthrope",
+    "fileName": "Werefox.gif"
+  },
+  {
+    "name": "Werehyaena",
+    "bestiaryClass": "Lycanthrope",
+    "fileName": "Werehyaena.gif"
+  },
+  {
+    "name": "Werehyaena Shaman",
+    "bestiaryClass": "Lycanthrope",
+    "fileName": "Werehyaena_Shaman.gif"
+  },
+  {
+    "name": "Werelion",
+    "bestiaryClass": "Lycanthrope",
+    "fileName": "Werelion.gif"
+  },
+  {
+    "name": "Werelioness",
+    "bestiaryClass": "Lycanthrope",
+    "fileName": "Werelioness.gif"
+  },
+  {
+    "name": "Werepanther",
+    "bestiaryClass": "Lycanthrope",
+    "fileName": "Werepanther.gif"
+  },
+  {
+    "name": "Weretiger",
+    "bestiaryClass": "Lycanthrope",
+    "fileName": "Weretiger.gif"
+  },
+  {
+    "name": "Werewolf",
+    "bestiaryClass": "Lycanthrope",
+    "fileName": "Werewolf.gif"
+  },
+  {
+    "name": "White Deer",
+    "bestiaryClass": "Mammal",
+    "fileName": "White_Deer.gif"
+  },
+  {
+    "name": "White Lion",
+    "bestiaryClass": "Mammal",
+    "fileName": "White_Lion.gif"
+  },
+  {
+    "name": "White Shade",
+    "bestiaryClass": "Undead",
+    "fileName": "White_Shade.gif"
+  },
+  {
+    "name": "White Tiger",
+    "bestiaryClass": "Mammal",
+    "fileName": "White_Tiger.gif"
+  },
+  {
+    "name": "White Weretiger",
+    "bestiaryClass": "Lycanthrope",
+    "fileName": "White_Weretiger.gif"
+  },
+  {
+    "name": "Wiggler",
+    "bestiaryClass": "Vermin",
+    "fileName": "Wiggler.gif"
+  },
+  {
+    "name": "Wild Horse",
+    "bestiaryClass": "Mammal",
+    "fileName": "Wild_Horse.gif"
+  },
+  {
+    "name": "Wild Warrior",
+    "bestiaryClass": "Human",
+    "fileName": "Wild_Warrior.gif"
+  },
+  {
+    "name": "Wilting Leaf Golem",
+    "bestiaryClass": "Plant",
+    "fileName": "Wilting_Leaf_Golem.gif"
+  },
+  {
+    "name": "Winter Wolf",
+    "bestiaryClass": "Mammal",
+    "fileName": "Winter_Wolf.gif"
+  },
+  {
+    "name": "Wisp",
+    "bestiaryClass": "Fey",
+    "fileName": "Wisp.gif"
+  },
+  {
+    "name": "Witch",
+    "bestiaryClass": "Human",
+    "fileName": "Witch.gif"
+  },
+  {
+    "name": "Wolf",
+    "bestiaryClass": "Mammal",
+    "fileName": "Wolf.gif"
+  },
+  {
+    "name": "Worker Golem",
+    "bestiaryClass": "Construct",
+    "fileName": "Worker_Golem.gif"
+  },
+  {
+    "name": "Worm Priestess",
+    "bestiaryClass": "Humanoid",
+    "fileName": "Worm_Priestess.gif"
+  },
+  {
+    "name": "Wyrm",
+    "bestiaryClass": "Dragon",
+    "fileName": "Wyrm.gif"
+  },
+  {
+    "name": "Wyvern",
+    "bestiaryClass": "Reptile",
+    "fileName": "Wyvern.gif"
+  },
+  {
+    "name": "Yeti",
+    "bestiaryClass": "Mammal",
+    "fileName": "Yeti.gif"
+  },
+  {
+    "name": "Yielothax",
+    "bestiaryClass": "Extra Dimensional",
+    "fileName": "Yielothax.gif"
+  },
+  {
+    "name": "Young Goanna",
+    "bestiaryClass": "Reptile",
+    "fileName": "Young_Goanna.gif"
+  },
+  {
+    "name": "Young Sea Serpent",
+    "bestiaryClass": "Reptile",
+    "fileName": "Young_Sea_Serpent.gif"
+  },
+  {
+    "name": "Zombie",
+    "bestiaryClass": "Undead",
+    "fileName": "Zombie.gif"
+  }
+]

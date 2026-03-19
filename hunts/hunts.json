@@ -1,0 +1,6346 @@
+[
+  {
+    "id": "duo-burster-spectres",
+    "name": "Burster Spectres",
+    "slug": "burster-spectres",
+    "teamSize": "duo",
+    "vocations": [
+      "knight",
+      "druid",
+      "paladin",
+      "sorcerer"
+    ],
+    "vocationCombos": [
+      "EK+ED",
+      "RP+ED"
+    ],
+    "levelMin": 180,
+    "levelMax": null,
+    "location": "Burster Spectre cave",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Burster Spectre"
+    ],
+    "rawXpPerHour": 3000000,
+    "xp150PerHour": null,
+    "profitPerHour": 150000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "duo",
+      "spectres"
+    ]
+  },
+  {
+    "id": "nightmare-isles-duo",
+    "name": "Nightmare Isles",
+    "slug": "nightmare-isles-duo",
+    "teamSize": "duo",
+    "vocations": [
+      "knight",
+      "druid"
+    ],
+    "vocationCombos": [
+      "ED+EK"
+    ],
+    "levelMin": 200,
+    "levelMax": null,
+    "location": "Nightmare Isles",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Choking Fear",
+      "Retching Horror"
+    ],
+    "rawXpPerHour": 1500000,
+    "xp150PerHour": null,
+    "profitPerHour": 350000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places/Nightmare-Isles-DUO",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "duo"
+    ]
+  },
+  {
+    "id": "duo-ripper-spectres",
+    "name": "Ripper Spectres",
+    "slug": "ripper-spectres",
+    "teamSize": "duo",
+    "vocations": [
+      "knight",
+      "druid",
+      "paladin",
+      "sorcerer"
+    ],
+    "vocationCombos": [
+      "EK+ED",
+      "RP+ED"
+    ],
+    "levelMin": 220,
+    "levelMax": null,
+    "location": "Ripper Spectre cave",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Ripper Spectre"
+    ],
+    "rawXpPerHour": 3800000,
+    "xp150PerHour": null,
+    "profitPerHour": 250000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "duo",
+      "spectres"
+    ]
+  },
+  {
+    "id": "duo-gazer-spectres",
+    "name": "Gazer Spectres",
+    "slug": "gazer-spectres",
+    "teamSize": "duo",
+    "vocations": [
+      "knight",
+      "druid",
+      "paladin",
+      "sorcerer"
+    ],
+    "vocationCombos": [
+      "EK+ED",
+      "RP+MS"
+    ],
+    "levelMin": 250,
+    "levelMax": null,
+    "location": "Gazer Spectre cave",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Gazer Spectre"
+    ],
+    "rawXpPerHour": 4200000,
+    "xp150PerHour": null,
+    "profitPerHour": 300000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "duo",
+      "spectres"
+    ]
+  },
+  {
+    "id": "duo-asuras-mirror",
+    "name": "Mirror Asuras",
+    "slug": "mirror-asuras",
+    "teamSize": "duo",
+    "vocations": [
+      "knight",
+      "druid",
+      "paladin",
+      "sorcerer"
+    ],
+    "vocationCombos": [
+      "EK+ED",
+      "RP+ED"
+    ],
+    "levelMin": 250,
+    "levelMax": null,
+    "location": "Asura Mirror",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Midnight Asura",
+      "Dawnfire Asura",
+      "Frost Flower Asura"
+    ],
+    "rawXpPerHour": 5500000,
+    "xp150PerHour": null,
+    "profitPerHour": 450000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "duo",
+      "popular"
+    ]
+  },
+  {
+    "id": "duo-catacombs",
+    "name": "Oramond Catacombs Duo",
+    "slug": "oramond-catacombs-duo",
+    "teamSize": "duo",
+    "vocations": [
+      "knight",
+      "druid"
+    ],
+    "vocationCombos": [
+      "EK+ED"
+    ],
+    "levelMin": 250,
+    "levelMax": null,
+    "location": "Oramond Catacombs",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Destroyer",
+      "Juggernaut",
+      "Hellhound"
+    ],
+    "rawXpPerHour": 5000000,
+    "xp150PerHour": null,
+    "profitPerHour": 400000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "duo"
+    ]
+  },
+  {
+    "id": "duo-prison-1",
+    "name": "Roshamuul Prison -1",
+    "slug": "roshamuul-prison-1",
+    "teamSize": "duo",
+    "vocations": [
+      "knight",
+      "druid"
+    ],
+    "vocationCombos": [
+      "EK+ED"
+    ],
+    "levelMin": 250,
+    "levelMax": null,
+    "location": "Roshamuul Prison -1",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Frazzlemaw",
+      "Silencer"
+    ],
+    "rawXpPerHour": 4500000,
+    "xp150PerHour": null,
+    "profitPerHour": 350000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "duo",
+      "roshamuul"
+    ]
+  },
+  {
+    "id": "duo-summer-court",
+    "name": "Summer Court Duo",
+    "slug": "summer-court-duo",
+    "teamSize": "duo",
+    "vocations": [
+      "knight",
+      "druid",
+      "paladin",
+      "sorcerer"
+    ],
+    "vocationCombos": [
+      "EK+ED",
+      "RP+MS"
+    ],
+    "levelMin": 300,
+    "levelMax": null,
+    "location": "Summer Court",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Arachnophobica",
+      "Crazed Summer Vanguard",
+      "Thanatursus"
+    ],
+    "rawXpPerHour": 6000000,
+    "xp150PerHour": null,
+    "profitPerHour": 500000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "duo"
+    ]
+  },
+  {
+    "id": "duo-winter-court",
+    "name": "Winter Court Duo",
+    "slug": "winter-court-duo",
+    "teamSize": "duo",
+    "vocations": [
+      "knight",
+      "druid",
+      "paladin",
+      "sorcerer"
+    ],
+    "vocationCombos": [
+      "EK+ED",
+      "RP+MS"
+    ],
+    "levelMin": 300,
+    "levelMax": null,
+    "location": "Winter Court",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Insane Siren",
+      "Crazed Winter Vanguard",
+      "Icecold Book"
+    ],
+    "rawXpPerHour": 6200000,
+    "xp150PerHour": null,
+    "profitPerHour": 550000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "duo"
+    ]
+  },
+  {
+    "id": "duo-cobras",
+    "name": "Cobra Bastion Duo",
+    "slug": "cobra-bastion-duo",
+    "teamSize": "duo",
+    "vocations": [
+      "knight",
+      "druid",
+      "paladin",
+      "sorcerer"
+    ],
+    "vocationCombos": [
+      "EK+ED",
+      "RP+MS"
+    ],
+    "levelMin": 450,
+    "levelMax": null,
+    "location": "Cobra Bastion",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Cobra Assassin",
+      "Cobra Scout",
+      "Cobra Vizier"
+    ],
+    "rawXpPerHour": 7000000,
+    "xp150PerHour": null,
+    "profitPerHour": 800000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "duo",
+      "endgame"
+    ]
+  },
+  {
+    "id": "duo-feru-way",
+    "name": "Ferumbras Way Duo",
+    "slug": "ferumbras-way-duo",
+    "teamSize": "duo",
+    "vocations": [
+      "knight",
+      "druid"
+    ],
+    "vocationCombos": [
+      "EK+ED"
+    ],
+    "levelMin": 500,
+    "levelMax": null,
+    "location": "Ferumbras Ascension path",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Hellflayer",
+      "Vexclaw",
+      "Juggernaut"
+    ],
+    "rawXpPerHour": 7500000,
+    "xp150PerHour": null,
+    "profitPerHour": 1000000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "duo",
+      "endgame"
+    ]
+  },
+  {
+    "id": "issavi-puzzle-chambers-duo",
+    "name": "Issavi Puzzle Chambers",
+    "slug": "issavi-puzzle-chambers-duo",
+    "teamSize": "duo",
+    "vocations": [
+      "knight",
+      "druid"
+    ],
+    "vocationCombos": [
+      "ED+EK"
+    ],
+    "levelMin": 500,
+    "levelMax": null,
+    "location": "Issavi Puzzle Chambers",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Black Sphinx Acolyte",
+      "Burning Gladiator",
+      "Priestess of the Wild Sun"
+    ],
+    "rawXpPerHour": 3000000,
+    "xp150PerHour": null,
+    "profitPerHour": 500000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places?size=Duo",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "duo"
+    ]
+  },
+  {
+    "id": "bashmu-duo",
+    "name": "Bashmu",
+    "slug": "bashmu-duo",
+    "teamSize": "duo",
+    "vocations": [
+      "knight",
+      "druid"
+    ],
+    "vocationCombos": [
+      "ED+EK"
+    ],
+    "levelMin": 550,
+    "levelMax": null,
+    "location": "Bashmu",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Bashmu",
+      "Bashmu Juvenile"
+    ],
+    "rawXpPerHour": 3000000,
+    "xp150PerHour": null,
+    "profitPerHour": 1800000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places?size=Duo",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "duo",
+      "profit"
+    ]
+  },
+  {
+    "id": "amazon-camp-solo-tr",
+    "name": "Amazon Camp",
+    "slug": "amazon-camp-solo-tr",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer",
+      "knight",
+      "paladin",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 8,
+    "levelMax": null,
+    "location": "Amazon Camp",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Amazon",
+      "Valkyrie",
+      "Witch"
+    ],
+    "rawXpPerHour": 5000,
+    "xp150PerHour": null,
+    "profitPerHour": 15000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places?page=11&size=Solo&voc=EK",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "starter",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-crocodiles-port-hope",
+    "name": "Crocodiles - Port Hope",
+    "slug": "crocodiles-port-hope",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin",
+      "druid",
+      "sorcerer",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 8,
+    "levelMax": null,
+    "location": "Crocodile cave",
+    "city": "Port Hope",
+    "region": null,
+    "creatures": [
+      "Crocodile"
+    ],
+    "rawXpPerHour": 25000,
+    "xp150PerHour": null,
+    "profitPerHour": 4000,
+    "weaponType": [
+      "Physical",
+      "Energy"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "starter"
+    ]
+  },
+  {
+    "id": "crocodiles-port-hope-ek",
+    "name": "Crocodiles Port Hope",
+    "slug": "crocodiles-port-hope-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 8,
+    "levelMax": null,
+    "location": "Port Hope",
+    "city": "Crocodiles",
+    "region": null,
+    "creatures": [
+      "Crocodile"
+    ],
+    "rawXpPerHour": 25000,
+    "xp150PerHour": null,
+    "profitPerHour": 4000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "darashia-rotworm-caves-solo-tr",
+    "name": "Darashia Rotworm Caves",
+    "slug": "darashia-rotworm-caves-solo-tr",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer",
+      "knight",
+      "paladin",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 8,
+    "levelMax": null,
+    "location": "Darashia Rotworm Caves",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Carrion Worm",
+      "Rotworm"
+    ],
+    "rawXpPerHour": 10000,
+    "xp150PerHour": null,
+    "profitPerHour": 2000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places?page=11&size=Solo&voc=EK",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "starter"
+    ]
+  },
+  {
+    "id": "solo-larva-ankrahmun",
+    "name": "Larva - Ankrahmun",
+    "slug": "larva-ankrahmun",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin",
+      "druid",
+      "sorcerer",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 8,
+    "levelMax": null,
+    "location": "Ankrahmun tombs / caves",
+    "city": "Ankrahmun",
+    "region": null,
+    "creatures": [
+      "Larva",
+      "Mummy"
+    ],
+    "rawXpPerHour": 30000,
+    "xp150PerHour": null,
+    "profitPerHour": 3000,
+    "weaponType": [
+      "Physical",
+      "Energy"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "starter"
+    ]
+  },
+  {
+    "id": "larva-ankrahmun-ek",
+    "name": "Larva Ankrahmun",
+    "slug": "larva-ankrahmun-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 8,
+    "levelMax": null,
+    "location": "Ankrahmun",
+    "city": "Larva",
+    "region": null,
+    "creatures": [
+      "Larva"
+    ],
+    "rawXpPerHour": 30000,
+    "xp150PerHour": null,
+    "profitPerHour": 3000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-rotworms-liberty-bay-darashia",
+    "name": "Rotworms - Liberty Bay / Darashia",
+    "slug": "rotworms-liberty-bay-darashia",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin",
+      "druid",
+      "sorcerer",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 8,
+    "levelMax": null,
+    "location": "Rotworm caves",
+    "city": "Liberty Bay / Darashia",
+    "region": null,
+    "creatures": [
+      "Rotworm",
+      "Carrion Worm"
+    ],
+    "rawXpPerHour": 35000,
+    "xp150PerHour": null,
+    "profitPerHour": 5000,
+    "weaponType": [
+      "Physical",
+      "Energy"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "starter",
+      "xp"
+    ]
+  },
+  {
+    "id": "rotworms-liberty-bay-darashia-ek",
+    "name": "Rotworms Liberty Bay/Darashia",
+    "slug": "rotworms-liberty-bay-darashia-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 8,
+    "levelMax": null,
+    "location": "Liberty Bay / Darashia",
+    "city": "Rotworms",
+    "region": null,
+    "creatures": [
+      "Rotworm"
+    ],
+    "rawXpPerHour": 35000,
+    "xp150PerHour": null,
+    "profitPerHour": 5000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-swamp-trolls-port-hope-venore",
+    "name": "Swamp Trolls - Port Hope / Venore",
+    "slug": "swamp-trolls-port-hope-venore",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin",
+      "druid",
+      "sorcerer",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 8,
+    "levelMax": null,
+    "location": "Swamp Troll caves",
+    "city": "Port Hope / Venore",
+    "region": null,
+    "creatures": [
+      "Swamp Troll"
+    ],
+    "rawXpPerHour": 25000,
+    "xp150PerHour": null,
+    "profitPerHour": 50000,
+    "weaponType": [
+      "Physical",
+      "Energy"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "free",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "profit",
+      "starter"
+    ]
+  },
+  {
+    "id": "swamp-trolls-port-hope-venore-ek",
+    "name": "Swamp Trolls Port Hope/Venore",
+    "slug": "swamp-trolls-port-hope-venore-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 8,
+    "levelMax": null,
+    "location": "Port Hope / Venore",
+    "city": "Swamp Trolls",
+    "region": null,
+    "creatures": [
+      "Swamp Troll"
+    ],
+    "rawXpPerHour": 25000,
+    "xp150PerHour": null,
+    "profitPerHour": 50000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "venore-rotworm-cave-solo-tr",
+    "name": "Venore Rotworm Cave",
+    "slug": "venore-rotworm-cave-solo-tr",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer",
+      "knight",
+      "paladin",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 8,
+    "levelMax": null,
+    "location": "Venore Rotworm Cave",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Rotworm"
+    ],
+    "rawXpPerHour": 10000,
+    "xp150PerHour": null,
+    "profitPerHour": 1000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places?page=11&size=Solo&voc=EK",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "starter"
+    ]
+  },
+  {
+    "id": "drefia-surface-mage",
+    "name": "Drefia Surface",
+    "slug": "drefia-surface-mage",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 12,
+    "levelMax": null,
+    "location": "Drefia Surface",
+    "city": "Drefia",
+    "region": null,
+    "creatures": [],
+    "rawXpPerHour": 75000,
+    "xp150PerHour": null,
+    "profitPerHour": 50000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "mage"
+    ]
+  },
+  {
+    "id": "edron-forgotten-tomb-mage",
+    "name": "Edron Forgotten Tomb",
+    "slug": "edron-forgotten-tomb-mage",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 12,
+    "levelMax": null,
+    "location": "Edron Forgotten Tomb",
+    "city": "Edron",
+    "region": null,
+    "creatures": [],
+    "rawXpPerHour": 75000,
+    "xp150PerHour": null,
+    "profitPerHour": 50000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "mage",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-edron-forgotten-tomb",
+    "name": "Edron Forgotten Tomb",
+    "slug": "edron-forgotten-tomb",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 12,
+    "levelMax": null,
+    "location": "Forgotten Tomb",
+    "city": "Edron",
+    "region": null,
+    "creatures": [
+      "Mummy",
+      "Crypt Shambler",
+      "Ghoul"
+    ],
+    "rawXpPerHour": 75000,
+    "xp150PerHour": null,
+    "profitPerHour": 50000,
+    "weaponType": [
+      "Energy"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "mage"
+    ]
+  },
+  {
+    "id": "amazon-camp-energy",
+    "name": "Amazon Camp (Profit)",
+    "slug": "amazon-camp-energy",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 14,
+    "levelMax": null,
+    "location": "Amazon Camp",
+    "city": "Amazon Camp",
+    "region": null,
+    "creatures": [
+      "Amazon",
+      "Valkyrie",
+      "Witch"
+    ],
+    "rawXpPerHour": 30000,
+    "xp150PerHour": null,
+    "profitPerHour": 60000,
+    "weaponType": [
+      "Energy"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "mage",
+      "profit"
+    ]
+  },
+  {
+    "id": "larva-mummy-mosl-energy",
+    "name": "Larva/Mummy MOSL -1/-2",
+    "slug": "larva-mummy-mosl-energy",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 14,
+    "levelMax": null,
+    "location": "Mother of Scarabs Lair -1/-2",
+    "city": "Ankrahmun",
+    "region": null,
+    "creatures": [
+      "Larva",
+      "Mummy"
+    ],
+    "rawXpPerHour": 40000,
+    "xp150PerHour": null,
+    "profitPerHour": 50000,
+    "weaponType": [
+      "Energy"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "mage",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-tarantulas-port-hope",
+    "name": "Tarantulas - Port Hope",
+    "slug": "tarantulas-port-hope",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin",
+      "druid",
+      "sorcerer",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 14,
+    "levelMax": null,
+    "location": "Tarantula caves",
+    "city": "Port Hope",
+    "region": null,
+    "creatures": [
+      "Tarantula"
+    ],
+    "rawXpPerHour": 55000,
+    "xp150PerHour": null,
+    "profitPerHour": 10000,
+    "weaponType": [
+      "Physical",
+      "Energy"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "starter"
+    ]
+  },
+  {
+    "id": "solo-tarantulas-ph-monk",
+    "name": "Tarantulas - Port Hope (Monk)",
+    "slug": "tarantulas-port-hope-monk",
+    "teamSize": "solo",
+    "vocations": [
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 14,
+    "levelMax": null,
+    "location": "Tarantula caves",
+    "city": "Port Hope",
+    "region": null,
+    "creatures": [
+      "Tarantula"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "monk"
+    ]
+  },
+  {
+    "id": "tarantulas-monk",
+    "name": "Tarantulas PH",
+    "slug": "tarantulas-monk",
+    "teamSize": "solo",
+    "vocations": [
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 14,
+    "levelMax": null,
+    "location": "Port Hope",
+    "city": "Tarantulas",
+    "region": null,
+    "creatures": [
+      "Tarantula"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "monk"
+    ]
+  },
+  {
+    "id": "solo-coryms-ph-monk",
+    "name": "Coryms - Port Hope (Monk)",
+    "slug": "coryms-port-hope-monk",
+    "teamSize": "solo",
+    "vocations": [
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 15,
+    "levelMax": null,
+    "location": "Corym cave",
+    "city": "Port Hope",
+    "region": null,
+    "creatures": [
+      "Corym Charlatan",
+      "Corym Skirmisher",
+      "Corym Vanguard"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "monk"
+    ]
+  },
+  {
+    "id": "coryms-monk",
+    "name": "Coryms PH",
+    "slug": "coryms-monk",
+    "teamSize": "solo",
+    "vocations": [
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 15,
+    "levelMax": null,
+    "location": "Port Hope",
+    "city": "Coryms",
+    "region": null,
+    "creatures": [
+      "Corym Charlatan",
+      "Corym Skirmisher",
+      "Corym Vanguard"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "monk"
+    ]
+  },
+  {
+    "id": "solo-elves-yalahar",
+    "name": "Elves - Yalahar",
+    "slug": "elves-yalahar",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin",
+      "druid",
+      "sorcerer",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 15,
+    "levelMax": null,
+    "location": "Yalahar elf quarter",
+    "city": "Yalahar",
+    "region": null,
+    "creatures": [
+      "Elf",
+      "Elf Scout",
+      "Elf Arcanist"
+    ],
+    "rawXpPerHour": 50000,
+    "xp150PerHour": null,
+    "profitPerHour": 75000,
+    "weaponType": [
+      "Physical",
+      "Earth"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "profit"
+    ]
+  },
+  {
+    "id": "elves-yalahar-energy",
+    "name": "Elves Yalahar",
+    "slug": "elves-yalahar-energy",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 15,
+    "levelMax": null,
+    "location": "Yalahar",
+    "city": "Elves",
+    "region": null,
+    "creatures": [
+      "Elf",
+      "Elf Arcanist",
+      "Elf Scout"
+    ],
+    "rawXpPerHour": 50000,
+    "xp150PerHour": null,
+    "profitPerHour": 100000,
+    "weaponType": [
+      "Earth"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "mage",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-minotaurs-darashia",
+    "name": "Minotaurs - Darashia",
+    "slug": "minotaurs-darashia",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 15,
+    "levelMax": null,
+    "location": "Darashia minotaur caves",
+    "city": "Darashia",
+    "region": null,
+    "creatures": [
+      "Minotaur",
+      "Minotaur Archer",
+      "Minotaur Guard"
+    ],
+    "rawXpPerHour": 80000,
+    "xp150PerHour": null,
+    "profitPerHour": -20000,
+    "weaponType": [
+      "Earth"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "mage"
+    ]
+  },
+  {
+    "id": "minotaurs-darashia-energy",
+    "name": "Minotaurs Darashia (Stealth Ring)",
+    "slug": "minotaurs-darashia-energy",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 15,
+    "levelMax": null,
+    "location": "Darashia Minotaurs",
+    "city": "Darashia",
+    "region": null,
+    "creatures": [
+      "Minotaur",
+      "Minotaur Archer",
+      "Minotaur Guard"
+    ],
+    "rawXpPerHour": 80000,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [
+      "Earth"
+    ],
+    "runes": [],
+    "notes": [
+      "Stealth Ring recommended",
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "mage"
+    ]
+  },
+  {
+    "id": "tarantulas-port-hope-ek",
+    "name": "Tarantulas Port Hope",
+    "slug": "tarantulas-port-hope-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 16,
+    "levelMax": null,
+    "location": "Port Hope",
+    "city": "Tarantulas",
+    "region": null,
+    "creatures": [
+      "Tarantula"
+    ],
+    "rawXpPerHour": 55000,
+    "xp150PerHour": null,
+    "profitPerHour": 10000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "minotaurs-yalahar-darashia-ek",
+    "name": "Yalahar/Darashia Minotaurs",
+    "slug": "minotaurs-yalahar-darashia-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 16,
+    "levelMax": null,
+    "location": "Yalahar / Darashia",
+    "city": "Minotaurs",
+    "region": null,
+    "creatures": [
+      "Minotaur",
+      "Minotaur Archer",
+      "Minotaur Guard"
+    ],
+    "rawXpPerHour": 50000,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Stealth Ring recommended",
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp"
+    ]
+  },
+  {
+    "id": "solo-mutated-humans-yalahar",
+    "name": "Mutated Humans - Yalahar",
+    "slug": "mutated-humans-yalahar",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 20,
+    "levelMax": null,
+    "location": "Alchemist Quarter",
+    "city": "Yalahar",
+    "region": null,
+    "creatures": [
+      "Mutated Human"
+    ],
+    "rawXpPerHour": 85000,
+    "xp150PerHour": null,
+    "profitPerHour": 5000,
+    "weaponType": [
+      "Physical",
+      "Energy"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "single-target"
+    ]
+  },
+  {
+    "id": "mutated-humans-yalahar-single-ek",
+    "name": "Mutated Humans Yalahar (Single target)",
+    "slug": "mutated-humans-yalahar-single-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 20,
+    "levelMax": null,
+    "location": "Yalahar",
+    "city": "Mutated Humans",
+    "region": null,
+    "creatures": [
+      "Mutated Human"
+    ],
+    "rawXpPerHour": 85000,
+    "xp150PerHour": null,
+    "profitPerHour": 5000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-stonerefiners",
+    "name": "Stonerefiners",
+    "slug": "stonerefiners",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin",
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 20,
+    "levelMax": null,
+    "location": "Venore Corym cave / Stonerefiners",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Stonerefiner"
+    ],
+    "rawXpPerHour": 100000,
+    "xp150PerHour": null,
+    "profitPerHour": 20000,
+    "weaponType": [
+      "Physical",
+      "Energy"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "xp",
+      "stealth-ring"
+    ]
+  },
+  {
+    "id": "stonerefiners-energy",
+    "name": "Stonerefiners (Stealth Ring)",
+    "slug": "stonerefiners-energy",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 20,
+    "levelMax": null,
+    "location": "Stonerefiners",
+    "city": "Stonerefiners",
+    "region": null,
+    "creatures": [
+      "Stonerefiner"
+    ],
+    "rawXpPerHour": 140000,
+    "xp150PerHour": null,
+    "profitPerHour": 25000,
+    "weaponType": [
+      "Energy"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "mage"
+    ]
+  },
+  {
+    "id": "mutated-humans-paladin",
+    "name": "Mutated Humans Yalahar",
+    "slug": "mutated-humans-paladin",
+    "teamSize": "solo",
+    "vocations": [
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 25,
+    "levelMax": null,
+    "location": "Yalahar",
+    "city": "Mutated Humans",
+    "region": null,
+    "creatures": [
+      "Mutated Human"
+    ],
+    "rawXpPerHour": 110000,
+    "xp150PerHour": null,
+    "profitPerHour": 5000,
+    "weaponType": [
+      "Royal Spears"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "paladin"
+    ]
+  },
+  {
+    "id": "chor-mage",
+    "name": "Chor",
+    "slug": "chor-mage",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 28,
+    "levelMax": null,
+    "location": "Chor",
+    "city": "Chor",
+    "region": null,
+    "creatures": [],
+    "rawXpPerHour": 290000,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [
+      "GFB"
+    ],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "mage",
+      "monk"
+    ]
+  },
+  {
+    "id": "gargoyle-cave-meriana-mage",
+    "name": "Gargoyle Cave Meriana",
+    "slug": "gargoyle-cave-meriana-mage",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 28,
+    "levelMax": null,
+    "location": "Gargoyle Cave Meriana",
+    "city": "Meriana",
+    "region": null,
+    "creatures": [
+      "Gargoyle"
+    ],
+    "rawXpPerHour": 220000,
+    "xp150PerHour": null,
+    "profitPerHour": 50000,
+    "weaponType": [],
+    "runes": [
+      "Thunderstorm",
+      "GFB"
+    ],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "mage"
+    ]
+  },
+  {
+    "id": "upper-spike-mage",
+    "name": "Upper Spike",
+    "slug": "upper-spike-mage",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 28,
+    "levelMax": null,
+    "location": "Upper Spike",
+    "city": "Kazordoon Spike",
+    "region": null,
+    "creatures": [],
+    "rawXpPerHour": 320000,
+    "xp150PerHour": null,
+    "profitPerHour": 75000,
+    "weaponType": [],
+    "runes": [
+      "Thunderstorm",
+      "GFB",
+      "Avalanche"
+    ],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "mage",
+      "xp"
+    ]
+  },
+  {
+    "id": "solo-coryms-port-hope",
+    "name": "Coryms - Port Hope",
+    "slug": "coryms-port-hope",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin",
+      "druid",
+      "sorcerer",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 30,
+    "levelMax": null,
+    "location": "Corym cave",
+    "city": "Port Hope",
+    "region": null,
+    "creatures": [
+      "Corym Charlatan",
+      "Corym Skirmisher",
+      "Corym Vanguard"
+    ],
+    "rawXpPerHour": 150000,
+    "xp150PerHour": null,
+    "profitPerHour": -30000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "xp"
+    ]
+  },
+  {
+    "id": "coryms-port-hope-ek",
+    "name": "Coryms Port Hope",
+    "slug": "coryms-port-hope-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 30,
+    "levelMax": null,
+    "location": "Port Hope",
+    "city": "Coryms",
+    "region": null,
+    "creatures": [
+      "Corym Charlatan",
+      "Corym Skirmisher",
+      "Corym Vanguard"
+    ],
+    "rawXpPerHour": 150000,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp"
+    ]
+  },
+  {
+    "id": "zombies-treasure-island-ek",
+    "name": "Zombies Treasure Island",
+    "slug": "zombies-treasure-island-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 30,
+    "levelMax": null,
+    "location": "Treasure Island",
+    "city": "Zombies",
+    "region": null,
+    "creatures": [
+      "Zombie"
+    ],
+    "rawXpPerHour": 120000,
+    "xp150PerHour": null,
+    "profitPerHour": 50000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "blood-crabs-laguna-islands-ek",
+    "name": "Blood Crabs Laguna Islands",
+    "slug": "blood-crabs-laguna-islands-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 35,
+    "levelMax": null,
+    "location": "Laguna Islands",
+    "city": "Blood Crabs",
+    "region": null,
+    "creatures": [
+      "Blood Crab"
+    ],
+    "rawXpPerHour": 100000,
+    "xp150PerHour": null,
+    "profitPerHour": 150000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "laguna-islands-ek",
+    "name": "Laguna Islands",
+    "slug": "laguna-islands-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 35,
+    "levelMax": null,
+    "location": "Laguna Islands",
+    "city": "Laguna Islands",
+    "region": null,
+    "creatures": [],
+    "rawXpPerHour": 90000,
+    "xp150PerHour": null,
+    "profitPerHour": 50000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "mother-of-scarabs-lair-3-ek",
+    "name": "Mother of Scarabs Lair -3",
+    "slug": "mother-of-scarabs-lair-3-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 35,
+    "levelMax": null,
+    "location": "Mother of Scarabs Lair -3",
+    "city": "Mother of Scarabs Lair",
+    "region": null,
+    "creatures": [],
+    "rawXpPerHour": 200000,
+    "xp150PerHour": null,
+    "profitPerHour": 150000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "mutated-humans-yalahar-exori-ek",
+    "name": "Mutated Humans Yalahar (Exori)",
+    "slug": "mutated-humans-yalahar-exori-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 35,
+    "levelMax": null,
+    "location": "Yalahar",
+    "city": "Mutated Humans",
+    "region": null,
+    "creatures": [
+      "Mutated Human"
+    ],
+    "rawXpPerHour": 135000,
+    "xp150PerHour": null,
+    "profitPerHour": 20000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-pirates-yalahar",
+    "name": "Pirates - Yalahar",
+    "slug": "pirates-yalahar",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 35,
+    "levelMax": null,
+    "location": "Yalahar pirate area",
+    "city": "Yalahar",
+    "region": null,
+    "creatures": [
+      "Pirate Buccaneer",
+      "Pirate Corsair",
+      "Pirate Ghost"
+    ],
+    "rawXpPerHour": 180000,
+    "xp150PerHour": null,
+    "profitPerHour": 90000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "profit"
+    ]
+  },
+  {
+    "id": "pirates-yalahar-ek",
+    "name": "Pirates Yalahar",
+    "slug": "pirates-yalahar-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 35,
+    "levelMax": null,
+    "location": "Yalahar",
+    "city": "Pirates",
+    "region": null,
+    "creatures": [
+      "Pirate Buccaneer",
+      "Pirate Corsair",
+      "Pirate Ghost"
+    ],
+    "rawXpPerHour": 180000,
+    "xp150PerHour": null,
+    "profitPerHour": 90000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-upper-spike",
+    "name": "Upper Spike",
+    "slug": "upper-spike",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 35,
+    "levelMax": null,
+    "location": "Kazordoon Spike",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Kongra",
+      "Merlkin",
+      "Gloom Wolf"
+    ],
+    "rawXpPerHour": 250000,
+    "xp150PerHour": null,
+    "profitPerHour": 10000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "mage",
+      "xp"
+    ]
+  },
+  {
+    "id": "bog-raiders-solo-tr",
+    "name": "Bog Raiders",
+    "slug": "bog-raiders-solo-tr",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 50,
+    "levelMax": null,
+    "location": "Bog Raiders",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Bog Raider",
+      "Death Blob",
+      "Mutated Tiger"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places/Bog-Raiders",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo"
+    ]
+  },
+  {
+    "id": "darashia-dragon-lair-ek",
+    "name": "Darashia Dragon Lair",
+    "slug": "darashia-dragon-lair-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 50,
+    "levelMax": null,
+    "location": "Darashia",
+    "city": "Dragon Lair",
+    "region": null,
+    "creatures": [
+      "Dragon"
+    ],
+    "rawXpPerHour": 250000,
+    "xp150PerHour": null,
+    "profitPerHour": 20000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-darashia-dragon-lair",
+    "name": "Darashia Dragon Lair",
+    "slug": "darashia-dragon-lair",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 50,
+    "levelMax": null,
+    "location": "Dragon Lair",
+    "city": "Darashia",
+    "region": null,
+    "creatures": [
+      "Dragon",
+      "Dragon Lord"
+    ],
+    "rawXpPerHour": 250000,
+    "xp150PerHour": null,
+    "profitPerHour": 20000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "classic"
+    ]
+  },
+  {
+    "id": "lions-rock-ek",
+    "name": "Lion's Rock",
+    "slug": "lions-rock-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 50,
+    "levelMax": null,
+    "location": "Lion's Rock",
+    "city": "Lion's Rock",
+    "region": null,
+    "creatures": [],
+    "rawXpPerHour": 500000,
+    "xp150PerHour": null,
+    "profitPerHour": 65000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-mutated-rats-alchemist-quarter",
+    "name": "Mutated Rats - Alchemist Quarter",
+    "slug": "mutated-rats-alchemist-quarter",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin",
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 50,
+    "levelMax": null,
+    "location": "Alchemist Quarter",
+    "city": "Yalahar",
+    "region": null,
+    "creatures": [
+      "Mutated Rat"
+    ],
+    "rawXpPerHour": 240000,
+    "xp150PerHour": null,
+    "profitPerHour": -10000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "aoe"
+    ]
+  },
+  {
+    "id": "mutated-rats-alchemist-ek",
+    "name": "Mutated Rats Alchemist Quarter",
+    "slug": "mutated-rats-alchemist-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 50,
+    "levelMax": null,
+    "location": "Yalahar Alchemist Quarter",
+    "city": "Mutated Rats",
+    "region": null,
+    "creatures": [
+      "Mutated Rat"
+    ],
+    "rawXpPerHour": 240000,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp"
+    ]
+  },
+  {
+    "id": "nibelor-crystal-spiders-ek",
+    "name": "Nibelor Crystal Spiders",
+    "slug": "nibelor-crystal-spiders-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 50,
+    "levelMax": null,
+    "location": "Nibelor",
+    "city": "Crystal Spiders",
+    "region": null,
+    "creatures": [
+      "Crystal Spider"
+    ],
+    "rawXpPerHour": 400000,
+    "xp150PerHour": null,
+    "profitPerHour": 90000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-old-fortress-bonebeasts",
+    "name": "Old Fortress - Bonebeasts",
+    "slug": "old-fortress-bonebeasts",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 50,
+    "levelMax": null,
+    "location": "Old Fortress -1",
+    "city": "Edron",
+    "region": null,
+    "creatures": [
+      "Bonebeast",
+      "Diabolic Imp",
+      "Necromancer"
+    ],
+    "rawXpPerHour": 300000,
+    "xp150PerHour": null,
+    "profitPerHour": 10000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "midgame"
+    ]
+  },
+  {
+    "id": "old-fortress-bonebeasts-ek",
+    "name": "Old Fortress -1 (Bonebeasts)",
+    "slug": "old-fortress-bonebeasts-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 50,
+    "levelMax": null,
+    "location": "Old Fortress -1",
+    "city": "Old Fortress",
+    "region": null,
+    "creatures": [
+      "Bonebeast"
+    ],
+    "rawXpPerHour": 300000,
+    "xp150PerHour": null,
+    "profitPerHour": 10000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "vengoth-haunted-treelings-ek",
+    "name": "Vengoth Haunted Treelings",
+    "slug": "vengoth-haunted-treelings-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 50,
+    "levelMax": null,
+    "location": "Vengoth",
+    "city": "Haunted Treelings",
+    "region": null,
+    "creatures": [
+      "Haunted Treeling"
+    ],
+    "rawXpPerHour": 360000,
+    "xp150PerHour": null,
+    "profitPerHour": 15000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-wyrms-liberty-bay",
+    "name": "Wyrms - Liberty Bay",
+    "slug": "wyrms-liberty-bay",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 50,
+    "levelMax": null,
+    "location": "Wyrm cave",
+    "city": "Liberty Bay",
+    "region": null,
+    "creatures": [
+      "Wyrm"
+    ],
+    "rawXpPerHour": 420000,
+    "xp150PerHour": null,
+    "profitPerHour": -50000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "mage"
+    ]
+  },
+  {
+    "id": "yalahar-dragons-ek",
+    "name": "Yalahar Dragons",
+    "slug": "yalahar-dragons-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 50,
+    "levelMax": null,
+    "location": "Yalahar",
+    "city": "Dragons",
+    "region": null,
+    "creatures": [
+      "Dragon"
+    ],
+    "rawXpPerHour": 180000,
+    "xp150PerHour": null,
+    "profitPerHour": 0,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp"
+    ]
+  },
+  {
+    "id": "solo-yalahar-dragons",
+    "name": "Yalahar Dragons",
+    "slug": "yalahar-dragons",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 50,
+    "levelMax": null,
+    "location": "Dragon spawn",
+    "city": "Yalahar",
+    "region": null,
+    "creatures": [
+      "Dragon",
+      "Dragon Hatchling"
+    ],
+    "rawXpPerHour": 180000,
+    "xp150PerHour": null,
+    "profitPerHour": 0,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "classic"
+    ]
+  },
+  {
+    "id": "hive-surface-ek",
+    "name": "Hive Surface",
+    "slug": "hive-surface-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 70,
+    "levelMax": null,
+    "location": "The Hive Surface",
+    "city": "Hive Surface",
+    "region": null,
+    "creatures": [],
+    "rawXpPerHour": 450000,
+    "xp150PerHour": null,
+    "profitPerHour": 100000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-hive-surface",
+    "name": "Hive Surface",
+    "slug": "hive-surface",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 70,
+    "levelMax": null,
+    "location": "The Hive",
+    "city": "Kazordoon / Gray Island access",
+    "region": null,
+    "creatures": [
+      "Waspoid",
+      "Crawler",
+      "Spidris"
+    ],
+    "rawXpPerHour": 450000,
+    "xp150PerHour": null,
+    "profitPerHour": 100000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-middle-spike",
+    "name": "Middle Spike",
+    "slug": "middle-spike",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin",
+      "druid",
+      "sorcerer",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 70,
+    "levelMax": null,
+    "location": "Kazordoon Spike",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Kongra",
+      "Merlkin",
+      "Gloom Wolf"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Metrics not yet verified in seed dataset.",
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "classic"
+    ]
+  },
+  {
+    "id": "mother-of-scarabs-lair-45-ek",
+    "name": "Mother of Scarabs Lair -4/-5",
+    "slug": "mother-of-scarabs-lair-45-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 70,
+    "levelMax": null,
+    "location": "Mother of Scarabs Lair -4/-5",
+    "city": "Mother of Scarabs Lair",
+    "region": null,
+    "creatures": [],
+    "rawXpPerHour": 600000,
+    "xp150PerHour": null,
+    "profitPerHour": 20000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-wyrms-liberty-bay-1",
+    "name": "Wyrms - Liberty Bay -1",
+    "slug": "wyrms-liberty-bay-1",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 70,
+    "levelMax": null,
+    "location": "Wyrm cave -1",
+    "city": "Liberty Bay",
+    "region": null,
+    "creatures": [
+      "Wyrm"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Metrics not exposed in accessible source text.",
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "classic"
+    ]
+  },
+  {
+    "id": "alchemist-outskirts-ek",
+    "name": "Yalahar Alchemist Outskirts",
+    "slug": "alchemist-outskirts-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 70,
+    "levelMax": null,
+    "location": "Yalahar",
+    "city": "Alchemist Outskirts",
+    "region": null,
+    "creatures": [],
+    "rawXpPerHour": 470000,
+    "xp150PerHour": null,
+    "profitPerHour": 75000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-yalahar-alchemist-outskirts",
+    "name": "Yalahar Alchemist Outskirts",
+    "slug": "yalahar-alchemist-outskirts",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 70,
+    "levelMax": null,
+    "location": "Alchemist Quarter outskirts",
+    "city": "Yalahar",
+    "region": null,
+    "creatures": [
+      "Mutated Human",
+      "Mutated Rat"
+    ],
+    "rawXpPerHour": 470000,
+    "xp150PerHour": null,
+    "profitPerHour": 75000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-yalahar-bog-raiders-central",
+    "name": "Yalahar Bog Raiders",
+    "slug": "yalahar-bog-raiders-central",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 70,
+    "levelMax": null,
+    "location": "Bog Raider area",
+    "city": "Yalahar",
+    "region": null,
+    "creatures": [
+      "Bog Raider"
+    ],
+    "rawXpPerHour": 600000,
+    "xp150PerHour": null,
+    "profitPerHour": 20000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "xp"
+    ]
+  },
+  {
+    "id": "bog-raiders-central-ek",
+    "name": "Yalahar Bog Raiders Central",
+    "slug": "bog-raiders-central-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 70,
+    "levelMax": null,
+    "location": "Yalahar",
+    "city": "Bog Raiders",
+    "region": null,
+    "creatures": [
+      "Bog Raider"
+    ],
+    "rawXpPerHour": 600000,
+    "xp150PerHour": null,
+    "profitPerHour": 20000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-giant-spiders-port-hope",
+    "name": "Giant Spiders - Port Hope",
+    "slug": "giant-spiders-port-hope",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 80,
+    "levelMax": null,
+    "location": "Giant Spider cave",
+    "city": "Port Hope",
+    "region": null,
+    "creatures": [
+      "Giant Spider"
+    ],
+    "rawXpPerHour": 500000,
+    "xp150PerHour": null,
+    "profitPerHour": 25000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "classic"
+    ]
+  },
+  {
+    "id": "giant-spiders-port-hope-ek",
+    "name": "Giant Spiders Port Hope",
+    "slug": "giant-spiders-port-hope-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 80,
+    "levelMax": null,
+    "location": "Port Hope",
+    "city": "Giant Spiders",
+    "region": null,
+    "creatures": [
+      "Giant Spider"
+    ],
+    "rawXpPerHour": 500000,
+    "xp150PerHour": null,
+    "profitPerHour": 25000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "carlin-cults-ek",
+    "name": "Carlin Cults",
+    "slug": "carlin-cults-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 90,
+    "levelMax": null,
+    "location": "Carlin Cults",
+    "city": "Carlin Cults",
+    "region": null,
+    "creatures": [],
+    "rawXpPerHour": 1300000,
+    "xp150PerHour": null,
+    "profitPerHour": 75000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-carlin-cults",
+    "name": "Carlin Cults",
+    "slug": "carlin-cults",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin",
+      "druid",
+      "sorcerer",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 90,
+    "levelMax": null,
+    "location": "Cult cave",
+    "city": "Carlin",
+    "region": null,
+    "creatures": [
+      "Acolyte of the Cult",
+      "Adept of the Cult",
+      "Enlightened of the Cult"
+    ],
+    "rawXpPerHour": 1300000,
+    "xp150PerHour": null,
+    "profitPerHour": 75000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "xp",
+      "popular"
+    ]
+  },
+  {
+    "id": "edron-heroes-ek",
+    "name": "Edron Heroes -2/-3",
+    "slug": "edron-heroes-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 90,
+    "levelMax": null,
+    "location": "Edron Heroes",
+    "city": "Edron Heroes",
+    "region": null,
+    "creatures": [
+      "Hero"
+    ],
+    "rawXpPerHour": 1200000,
+    "xp150PerHour": null,
+    "profitPerHour": 150000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-edron-heroes-2-3",
+    "name": "Edron Heroes -2/-3",
+    "slug": "edron-heroes-2-3",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 90,
+    "levelMax": null,
+    "location": "Hero cave -2/-3",
+    "city": "Edron",
+    "region": null,
+    "creatures": [
+      "Hero",
+      "Vile Grandmaster",
+      "Renegade Knight"
+    ],
+    "rawXpPerHour": 1200000,
+    "xp150PerHour": null,
+    "profitPerHour": 150000,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "profit"
+    ]
+  },
+  {
+    "id": "fenrock-dragon-lords-ek",
+    "name": "Fenrock Dragon Lords",
+    "slug": "fenrock-dragon-lords-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 90,
+    "levelMax": null,
+    "location": "Fenrock",
+    "city": "Dragon Lords",
+    "region": null,
+    "creatures": [
+      "Dragon Lord"
+    ],
+    "rawXpPerHour": 950000,
+    "xp150PerHour": null,
+    "profitPerHour": 0,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp"
+    ]
+  },
+  {
+    "id": "solo-fenrock-dragon-lords",
+    "name": "Fenrock Dragon Lords",
+    "slug": "fenrock-dragon-lords",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 90,
+    "levelMax": null,
+    "location": "Fenrock DL cave",
+    "city": "Fenrock",
+    "region": null,
+    "creatures": [
+      "Dragon Lord"
+    ],
+    "rawXpPerHour": 950000,
+    "xp150PerHour": null,
+    "profitPerHour": 0,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "classic"
+    ]
+  },
+  {
+    "id": "nightmare-scions-krailos-ek",
+    "name": "Nightmare Scions Krailos",
+    "slug": "nightmare-scions-krailos-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 90,
+    "levelMax": null,
+    "location": "Krailos",
+    "city": "Nightmare Scions",
+    "region": null,
+    "creatures": [
+      "Nightmare Scion"
+    ],
+    "rawXpPerHour": 1250000,
+    "xp150PerHour": null,
+    "profitPerHour": 0,
+    "weaponType": [
+      "Physical"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "xp"
+    ]
+  },
+  {
+    "id": "solo-exotic-cave",
+    "name": "Exotic Cave",
+    "slug": "exotic-cave",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 100,
+    "levelMax": null,
+    "location": "Exotic Cave",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Exotic Bat",
+      "Exotic Cave Spider"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Visible on source listings but exact metrics were not captured in accessible text snapshot.",
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "midgame",
+      "popular"
+    ]
+  },
+  {
+    "id": "oramond-west-monk",
+    "name": "Oramond West",
+    "slug": "oramond-west-monk",
+    "teamSize": "solo",
+    "vocations": [
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 100,
+    "levelMax": null,
+    "location": "Oramond West",
+    "city": "Oramond",
+    "region": null,
+    "creatures": [],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "monk"
+    ]
+  },
+  {
+    "id": "ravenous-lava-lurkers-monk",
+    "name": "Ravenous Lava Lurkers",
+    "slug": "ravenous-lava-lurkers-monk",
+    "teamSize": "solo",
+    "vocations": [
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 100,
+    "levelMax": null,
+    "location": "Ravenous Lava Lurkers",
+    "city": "Ravenous Lava Lurkers",
+    "region": null,
+    "creatures": [
+      "Ravenous Lava Lurker"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "monk"
+    ]
+  },
+  {
+    "id": "asura-palace-paladin",
+    "name": "Asura Palace",
+    "slug": "asura-palace-paladin",
+    "teamSize": "solo",
+    "vocations": [
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 130,
+    "levelMax": null,
+    "location": "Asura Palace",
+    "city": "Asura Palace",
+    "region": null,
+    "creatures": [
+      "Asura"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "paladin"
+    ]
+  },
+  {
+    "id": "deeplings-library-monk",
+    "name": "Deeplings Library",
+    "slug": "deeplings-library-monk",
+    "teamSize": "solo",
+    "vocations": [
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 130,
+    "levelMax": null,
+    "location": "Deeplings Library",
+    "city": "Gray Island",
+    "region": null,
+    "creatures": [
+      "Deepling"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "monk"
+    ]
+  },
+  {
+    "id": "gazer-spectre-paladin",
+    "name": "Gazer Spectre",
+    "slug": "gazer-spectre-paladin",
+    "teamSize": "solo",
+    "vocations": [
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 130,
+    "levelMax": null,
+    "location": "Gazer Spectre",
+    "city": "Spectres",
+    "region": null,
+    "creatures": [
+      "Gazer Spectre"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "paladin"
+    ]
+  },
+  {
+    "id": "lower-rosha-paladin",
+    "name": "Lower Rosha",
+    "slug": "lower-rosha-paladin",
+    "teamSize": "solo",
+    "vocations": [
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 130,
+    "levelMax": null,
+    "location": "Lower Roshamuul",
+    "city": "Roshamuul",
+    "region": null,
+    "creatures": [
+      "Frazzlemaw",
+      "Silencer",
+      "Shock Head"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "paladin"
+    ]
+  },
+  {
+    "id": "solo-ravenous-lava-lurkers",
+    "name": "Ravenous Lava Lurkers",
+    "slug": "ravenous-lava-lurkers",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 130,
+    "levelMax": null,
+    "location": "Lava Lurker caves",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Lava Lurker"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Visible on source listings but exact metrics were not captured in accessible text snapshot.",
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "xp",
+      "popular"
+    ]
+  },
+  {
+    "id": "solo-barkless-ab-cults",
+    "name": "Barkless / Ab'Dendriel Cults",
+    "slug": "barkless-ab-cults",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 150,
+    "levelMax": null,
+    "location": "Ab'Dendriel cult cave",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Barkless Devotee"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "xp"
+    ]
+  },
+  {
+    "id": "burster-spectre-paladin",
+    "name": "Burster Spectre",
+    "slug": "burster-spectre-paladin",
+    "teamSize": "solo",
+    "vocations": [
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 150,
+    "levelMax": null,
+    "location": "Burster Spectre",
+    "city": "Spectres",
+    "region": null,
+    "creatures": [
+      "Burster Spectre"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "paladin"
+    ]
+  },
+  {
+    "id": "deeper-banuta-6-monk",
+    "name": "Deeper Banuta -6",
+    "slug": "deeper-banuta-6-monk",
+    "teamSize": "solo",
+    "vocations": [
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 150,
+    "levelMax": null,
+    "location": "Deeper Banuta -6",
+    "city": "Banuta",
+    "region": null,
+    "creatures": [],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "monk"
+    ]
+  },
+  {
+    "id": "solo-deeplings-library",
+    "name": "Deeplings Library",
+    "slug": "deeplings-library",
+    "teamSize": "solo",
+    "vocations": [
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 150,
+    "levelMax": null,
+    "location": "Library area",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Deepling Worker",
+      "Deepling Scout",
+      "Deepling Tyrant"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "paladin"
+    ]
+  },
+  {
+    "id": "werehyaenas-monk",
+    "name": "Werehyaenas",
+    "slug": "werehyaenas-monk",
+    "teamSize": "solo",
+    "vocations": [
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 150,
+    "levelMax": null,
+    "location": "Werehyaenas",
+    "city": "Darashia",
+    "region": null,
+    "creatures": [
+      "Werehyaena"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "monk"
+    ]
+  },
+  {
+    "id": "solo-yalahar-grim-reapers",
+    "name": "Yalahar Grim Reapers",
+    "slug": "yalahar-grim-reapers",
+    "teamSize": "solo",
+    "vocations": [
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 150,
+    "levelMax": null,
+    "location": "Yalahar cemetery",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Grim Reaper"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "paladin"
+    ]
+  },
+  {
+    "id": "solo-draken-walls",
+    "name": "Draken Walls",
+    "slug": "draken-walls",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 200,
+    "levelMax": null,
+    "location": "Draken Walls",
+    "city": "Zao",
+    "region": null,
+    "creatures": [
+      "Draken Warmaster",
+      "Draken Spellweaver",
+      "Draken Elite"
+    ],
+    "rawXpPerHour": 2100000,
+    "xp150PerHour": null,
+    "profitPerHour": 350000,
+    "weaponType": [
+      "Physical",
+      "Ice",
+      "Energy"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "popular"
+    ]
+  },
+  {
+    "id": "solo-hive-stage-3",
+    "name": "Hive Stage 3",
+    "slug": "hive-stage-3",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 200,
+    "levelMax": null,
+    "location": "The Hive Stage 3",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Spidris",
+      "Kollos",
+      "Crawler"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "mage"
+    ]
+  },
+  {
+    "id": "medusa-tower-monk",
+    "name": "Medusa Tower",
+    "slug": "medusa-tower-monk",
+    "teamSize": "solo",
+    "vocations": [
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 200,
+    "levelMax": null,
+    "location": "Medusa Tower",
+    "city": "Talahu",
+    "region": null,
+    "creatures": [
+      "Medusa"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "monk"
+    ]
+  },
+  {
+    "id": "solo-oramond-catacombs",
+    "name": "Oramond Catacombs",
+    "slug": "oramond-catacombs",
+    "teamSize": "solo",
+    "vocations": [
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 200,
+    "levelMax": null,
+    "location": "Oramond Catacombs",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Destroyer",
+      "Juggernaut",
+      "Hellhound"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "monk"
+    ]
+  },
+  {
+    "id": "prison-2-solo-tr",
+    "name": "Prison -2",
+    "slug": "prison-2-solo-tr",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 200,
+    "levelMax": null,
+    "location": "Prison -2",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Hellhound",
+      "Betrayed Wraith",
+      "Plaguesmith",
+      "Demon Outcast",
+      "Dark Torturer"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "TibiaRoute page confirms route and creature set; XP/profit not exposed in snippet.",
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places/Prison-2",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "knight"
+    ]
+  },
+  {
+    "id": "solo-seacrest-serpents",
+    "name": "Seacrest Serpents",
+    "slug": "seacrest-serpents",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 200,
+    "levelMax": null,
+    "location": "Seacrest grounds",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Makara",
+      "Naga Archer",
+      "Naga Warrior"
+    ],
+    "rawXpPerHour": 2100000,
+    "xp150PerHour": null,
+    "profitPerHour": 400000,
+    "weaponType": [
+      "Physical",
+      "Energy"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-werehyaenas-north",
+    "name": "Werehyaenas North",
+    "slug": "werehyaenas-north",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin",
+      "monk"
+    ],
+    "vocationCombos": [],
+    "levelMin": 200,
+    "levelMax": null,
+    "location": "Werehyaena cave",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Werehyaena"
+    ],
+    "rawXpPerHour": 2200000,
+    "xp150PerHour": null,
+    "profitPerHour": 250000,
+    "weaponType": [
+      "Ice"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "xp",
+      "profit"
+    ]
+  },
+  {
+    "id": "winter-court-paladin",
+    "name": "Winter Court",
+    "slug": "winter-court-paladin",
+    "teamSize": "solo",
+    "vocations": [
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 200,
+    "levelMax": null,
+    "location": "Winter Court",
+    "city": "Winter Court",
+    "region": null,
+    "creatures": [],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "paladin"
+    ]
+  },
+  {
+    "id": "asura-mirror-paladin",
+    "name": "Asura Mirror",
+    "slug": "asura-mirror-paladin",
+    "teamSize": "solo",
+    "vocations": [
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 250,
+    "levelMax": null,
+    "location": "Asura Mirror",
+    "city": "Asura Mirror",
+    "region": null,
+    "creatures": [
+      "Asura"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "paladin"
+    ]
+  },
+  {
+    "id": "buried-cathedral-solo-tr",
+    "name": "Buried Cathedral",
+    "slug": "buried-cathedral-solo-tr",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [
+      "ED",
+      "MS"
+    ],
+    "levelMin": 250,
+    "levelMax": null,
+    "location": "Buried Cathedral",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Arachnophobica",
+      "Burster Spectre",
+      "Gazer Spectre",
+      "Ripper Spectre"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "TibiaRoute page confirms route and creature set; XP/profit not exposed in snippet.",
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places/Buried-Cathedral-EDMS",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "mage"
+    ]
+  },
+  {
+    "id": "buried-cathedral-8-paladin",
+    "name": "Buried Cathedral -8",
+    "slug": "buried-cathedral-8-paladin",
+    "teamSize": "solo",
+    "vocations": [
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 250,
+    "levelMax": null,
+    "location": "Buried Cathedral -8",
+    "city": "Buried Cathedral",
+    "region": null,
+    "creatures": [
+      "Arachnophobica",
+      "Burster Spectre",
+      "Gazer Spectre",
+      "Ripper Spectre"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "paladin"
+    ]
+  },
+  {
+    "id": "summer-court-paladin",
+    "name": "Summer Court",
+    "slug": "summer-court-paladin",
+    "teamSize": "solo",
+    "vocations": [
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 250,
+    "levelMax": null,
+    "location": "Summer Court",
+    "city": "Summer Court",
+    "region": null,
+    "creatures": [],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "paladin"
+    ]
+  },
+  {
+    "id": "solo-cobras",
+    "name": "Cobras",
+    "slug": "cobras",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 400,
+    "levelMax": null,
+    "location": "Cobra Bastion grounds",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Cobra Assassin",
+      "Cobra Vizier",
+      "Cobra Scout"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "mage",
+      "endgame"
+    ]
+  },
+  {
+    "id": "solo-oskayaat-weretigers",
+    "name": "Oskayaat Weretigers",
+    "slug": "oskayaat-weretigers",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 400,
+    "levelMax": null,
+    "location": "Oskayaat",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Weretiger",
+      "Werepanther"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "mage"
+    ]
+  },
+  {
+    "id": "solo-crypt-warriors",
+    "name": "Crypt Warriors",
+    "slug": "crypt-warriors",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 500,
+    "levelMax": null,
+    "location": "Crypt warrior cave",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Crypt Warrior"
+    ],
+    "rawXpPerHour": 6000000,
+    "xp150PerHour": null,
+    "profitPerHour": 700000,
+    "weaponType": [],
+    "runes": [
+      "GFB"
+    ],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "endgame",
+      "mage"
+    ]
+  },
+  {
+    "id": "solo-flimsy-port-hope",
+    "name": "Flimsy - Port Hope",
+    "slug": "flimsy-port-hope",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 500,
+    "levelMax": null,
+    "location": "Flimsy Lost Soul cave",
+    "city": "Port Hope",
+    "region": null,
+    "creatures": [
+      "Flimsy Lost Soul"
+    ],
+    "rawXpPerHour": 5500000,
+    "xp150PerHour": null,
+    "profitPerHour": 600000,
+    "weaponType": [],
+    "runes": [
+      "GFB"
+    ],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "endgame",
+      "mage"
+    ]
+  },
+  {
+    "id": "solo-issavi-goannas",
+    "name": "Issavi Goannas",
+    "slug": "issavi-goannas",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 500,
+    "levelMax": null,
+    "location": "Issavi sewers / surface",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Skeleton Elite Warrior",
+      "Crypt Warden",
+      "Lamassu",
+      "Sphinx"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "mage"
+    ]
+  },
+  {
+    "id": "solo-marapur-nagas",
+    "name": "Marapur Nagas",
+    "slug": "marapur-nagas",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [],
+    "levelMin": 500,
+    "levelMax": null,
+    "location": "Marapur",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Naga Archer",
+      "Naga Warrior"
+    ],
+    "rawXpPerHour": 5500000,
+    "xp150PerHour": null,
+    "profitPerHour": 400000,
+    "weaponType": [],
+    "runes": [
+      "Stoneshower",
+      "Thunderstorm"
+    ],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "endgame",
+      "mage"
+    ]
+  },
+  {
+    "id": "oskayaat-weretigers-solo-tr",
+    "name": "Oskayaat Weretigers",
+    "slug": "oskayaat-weretigers-solo-tr",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 500,
+    "levelMax": null,
+    "location": "Oskayaat Weretigers",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Cunning Werepanther",
+      "Weretiger",
+      "White Weretiger"
+    ],
+    "rawXpPerHour": 5100000,
+    "xp150PerHour": null,
+    "profitPerHour": 900000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places/Oskayaat-Weretigers",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "knight"
+    ]
+  },
+  {
+    "id": "solo-girtablilus",
+    "name": "Girtablilus",
+    "slug": "girtablilus",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 600,
+    "levelMax": null,
+    "location": "Girtablilu area",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Girtablilu Warrior",
+      "Girtablilu Shaman"
+    ],
+    "rawXpPerHour": 3700000,
+    "xp150PerHour": null,
+    "profitPerHour": 1400000,
+    "weaponType": [
+      "Energy"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "profit",
+      "endgame"
+    ]
+  },
+  {
+    "id": "solo-oramond-mountain-hideout",
+    "name": "Oramond Mountain Hideout",
+    "slug": "oramond-mountain-hideout",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 600,
+    "levelMax": null,
+    "location": "Mountain Hideout -1/-2",
+    "city": "Oramond",
+    "region": null,
+    "creatures": [
+      "Glooth Golem",
+      "Rustheap Golem"
+    ],
+    "rawXpPerHour": 4000000,
+    "xp150PerHour": null,
+    "profitPerHour": 800000,
+    "weaponType": [
+      "Energy"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "endgame",
+      "profit"
+    ]
+  },
+  {
+    "id": "solo-temple-of-the-sun-and-sea",
+    "name": "Temple of the Sun and Sea",
+    "slug": "temple-of-the-sun-and-sea",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 600,
+    "levelMax": null,
+    "location": "Temple of the Sun and Sea",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Thanatursus",
+      "Brachiodemon",
+      "Infernal Demon"
+    ],
+    "rawXpPerHour": 5200000,
+    "xp150PerHour": null,
+    "profitPerHour": 650000,
+    "weaponType": [
+      "Ice"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "endgame"
+    ]
+  },
+  {
+    "id": "solo-azzilon-castle",
+    "name": "Azzilon Castle",
+    "slug": "azzilon-castle",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 700,
+    "levelMax": null,
+    "location": "Azzilon Castle",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Azzilon Guard",
+      "Azzilon Shade"
+    ],
+    "rawXpPerHour": 7000000,
+    "xp150PerHour": null,
+    "profitPerHour": 1200000,
+    "weaponType": [
+      "Ice",
+      "Energy"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "endgame"
+    ]
+  },
+  {
+    "id": "solo-feru-plague-seal",
+    "name": "Ferumbras Plague Seal",
+    "slug": "feru-plague-seal",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 700,
+    "levelMax": null,
+    "location": "Ferumbras seals",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Plaguesmith",
+      "Hellflayer",
+      "Juggernaut"
+    ],
+    "rawXpPerHour": 5500000,
+    "xp150PerHour": null,
+    "profitPerHour": 1500000,
+    "weaponType": [
+      "Energy"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "endgame"
+    ]
+  },
+  {
+    "id": "solo-wardragons",
+    "name": "Wardragons",
+    "slug": "wardragons",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 700,
+    "levelMax": null,
+    "location": "Wardragon cave",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Wardragon"
+    ],
+    "rawXpPerHour": 7000000,
+    "xp150PerHour": null,
+    "profitPerHour": 1000000,
+    "weaponType": [
+      "Earth"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "endgame"
+    ]
+  },
+  {
+    "id": "upper-roshamuul-ek",
+    "name": "Upper Roshamuul",
+    "slug": "upper-roshamuul-ek",
+    "teamSize": "solo",
+    "vocations": [
+      "knight"
+    ],
+    "vocationCombos": [],
+    "levelMin": 750,
+    "levelMax": null,
+    "location": "Upper Roshamuul",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Choking Fear",
+      "Retching Horror",
+      "Silencer"
+    ],
+    "rawXpPerHour": 5500000,
+    "xp150PerHour": null,
+    "profitPerHour": 1000000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "endgame"
+    ]
+  },
+  {
+    "id": "solo-bulltaurs",
+    "name": "Bulltaurs",
+    "slug": "bulltaurs",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 800,
+    "levelMax": null,
+    "location": "Bulltaur cave",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Bulltaur Alchemist",
+      "Bulltaur Brute",
+      "Bulltaur Forgepriest"
+    ],
+    "rawXpPerHour": 7000000,
+    "xp150PerHour": null,
+    "profitPerHour": 1600000,
+    "weaponType": [
+      "Earth"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "endgame"
+    ]
+  },
+  {
+    "id": "solo-cobra-bastion",
+    "name": "Cobra Bastion",
+    "slug": "cobra-bastion",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 800,
+    "levelMax": null,
+    "location": "Cobra Bastion",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Cobra Assassin",
+      "Cobra Scout",
+      "Cobra Vizier"
+    ],
+    "rawXpPerHour": 9000000,
+    "xp150PerHour": null,
+    "profitPerHour": 1500000,
+    "weaponType": [
+      "Ice",
+      "Fire",
+      "Energy",
+      "Death"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "endgame",
+      "popular"
+    ]
+  },
+  {
+    "id": "solo-feru-pumin-seal",
+    "name": "Ferumbras Pumin Seal",
+    "slug": "feru-pumin-seal",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 800,
+    "levelMax": null,
+    "location": "Ferumbras seals",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Vexclaw",
+      "Juggernaut",
+      "Grimeleech"
+    ],
+    "rawXpPerHour": 7000000,
+    "xp150PerHour": null,
+    "profitPerHour": 1800000,
+    "weaponType": [
+      "Energy"
+    ],
+    "runes": [],
+    "notes": [
+      "Data quality: source-grounded"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiapal",
+    "sourceLabel": "TibiaPal",
+    "sourceUrl": "https://tibiapal.com/hunting",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "endgame"
+    ]
+  },
+  {
+    "id": "roshamuul-mines-solo",
+    "name": "Roshamuul Mines",
+    "slug": "roshamuul-mines-solo",
+    "teamSize": "solo",
+    "vocations": [
+      "knight",
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 850,
+    "levelMax": null,
+    "location": "Roshamuul Mines",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Feversleep",
+      "Terrorsleep"
+    ],
+    "rawXpPerHour": 2000000,
+    "xp150PerHour": null,
+    "profitPerHour": 350000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "endgame"
+    ]
+  },
+  {
+    "id": "warzone-3-solo",
+    "name": "Warzone 3",
+    "slug": "warzone-3-solo",
+    "teamSize": "solo",
+    "vocations": [
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 900,
+    "levelMax": null,
+    "location": "Warzone 3",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Cliff Strider",
+      "Ironblight",
+      "Lost Berserker",
+      "Orewalker"
+    ],
+    "rawXpPerHour": 6000000,
+    "xp150PerHour": null,
+    "profitPerHour": 1000000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "endgame"
+    ]
+  },
+  {
+    "id": "infernatil-seal-solo",
+    "name": "Infernatil Seal",
+    "slug": "infernatil-seal-solo",
+    "teamSize": "solo",
+    "vocations": [
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 950,
+    "levelMax": null,
+    "location": "Infernatil Seal",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Fury",
+      "Hellfire Fighter",
+      "Hellflayer",
+      "Hellhound",
+      "Vexclaw"
+    ],
+    "rawXpPerHour": 7500000,
+    "xp150PerHour": null,
+    "profitPerHour": 1500000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "endgame",
+      "xp"
+    ]
+  },
+  {
+    "id": "grounds-of-undeath-solo",
+    "name": "Grounds of Undeath",
+    "slug": "grounds-of-undeath-solo",
+    "teamSize": "solo",
+    "vocations": [
+      "paladin"
+    ],
+    "vocationCombos": [],
+    "levelMin": 1000,
+    "levelMax": null,
+    "location": "Grounds of Undeath",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Blightwalker",
+      "Hellflayer",
+      "Undead Dragon"
+    ],
+    "rawXpPerHour": 6000000,
+    "xp150PerHour": null,
+    "profitPerHour": 1600000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "endgame",
+      "profit"
+    ]
+  },
+  {
+    "id": "iskupan-occupied-sanctuary-solo",
+    "name": "Iskupan Occupied Sanctuary",
+    "slug": "iskupan-occupied-sanctuary-solo",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer"
+    ],
+    "vocationCombos": [
+      "ED",
+      "MS"
+    ],
+    "levelMin": 1000,
+    "levelMax": null,
+    "location": "Iskupan Occupied Sanctuary",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Iks Yapunac",
+      "Mitmah Scout",
+      "Mitmah Seer"
+    ],
+    "rawXpPerHour": 5200000,
+    "xp150PerHour": null,
+    "profitPerHour": 1000000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "endgame"
+    ]
+  },
+  {
+    "id": "podzilla-quara-solo",
+    "name": "Podzilla Quara",
+    "slug": "podzilla-quara-solo",
+    "teamSize": "solo",
+    "vocations": [
+      "druid",
+      "sorcerer",
+      "paladin"
+    ],
+    "vocationCombos": [
+      "ED",
+      "MS",
+      "RP"
+    ],
+    "levelMin": 1100,
+    "levelMax": null,
+    "location": "Podzilla Quara",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Quara Looter",
+      "Quara Plunderer",
+      "Quara Raider"
+    ],
+    "rawXpPerHour": 9000000,
+    "xp150PerHour": null,
+    "profitPerHour": 200000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "solo",
+      "endgame",
+      "xp"
+    ]
+  },
+  {
+    "id": "x4-burning-gladiators",
+    "name": "Burning Gladiators",
+    "slug": "burning-gladiators",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS"
+    ],
+    "levelMin": 180,
+    "levelMax": null,
+    "location": "Svargrond Arena style pull",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Burning Gladiator"
+    ],
+    "rawXpPerHour": 5000000,
+    "xp150PerHour": null,
+    "profitPerHour": 250000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4"
+    ]
+  },
+  {
+    "id": "x4-prison",
+    "name": "Roshamuul Prison Teamhunt",
+    "slug": "roshamuul-prison-teamhunt",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS"
+    ],
+    "levelMin": 250,
+    "levelMax": null,
+    "location": "Roshamuul Prison",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Frazzlemaw",
+      "Silencer",
+      "Guzzlemaw"
+    ],
+    "rawXpPerHour": 8500000,
+    "xp150PerHour": null,
+    "profitPerHour": 600000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4"
+    ]
+  },
+  {
+    "id": "x4-cathedral",
+    "name": "The Nightmare Isles / Cathedral",
+    "slug": "the-nightmare-isles-cathedral",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS"
+    ],
+    "levelMin": 250,
+    "levelMax": null,
+    "location": "Nightmare Isles / Cathedral",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Undead Dragon",
+      "Hellhound",
+      "Dark Torturer"
+    ],
+    "rawXpPerHour": 7000000,
+    "xp150PerHour": null,
+    "profitPerHour": 500000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4"
+    ]
+  },
+  {
+    "id": "cobra-bastion-x4",
+    "name": "Cobra Bastion",
+    "slug": "cobra-bastion-x4",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS"
+    ],
+    "levelMin": 300,
+    "levelMax": null,
+    "location": "Cobra Bastion",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Cobra Assassin",
+      "Cobra Scout",
+      "Cobra Vizier"
+    ],
+    "rawXpPerHour": 2250001,
+    "xp150PerHour": null,
+    "profitPerHour": 750400,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places?size=AllVoc",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4"
+    ]
+  },
+  {
+    "id": "marapur-nagas-x4",
+    "name": "Marapur Nagas",
+    "slug": "marapur-nagas-x4",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS"
+    ],
+    "levelMin": 300,
+    "levelMax": null,
+    "location": "Marapur Nagas",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Makara",
+      "Naga Archer",
+      "Naga Warrior"
+    ],
+    "rawXpPerHour": 2500001,
+    "xp150PerHour": null,
+    "profitPerHour": 1000000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places?size=AllVoc",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4"
+    ]
+  },
+  {
+    "id": "prison-3-x4-tr",
+    "name": "Prison -3",
+    "slug": "prison-3-x4-tr",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS"
+    ],
+    "levelMin": 300,
+    "levelMax": null,
+    "location": "Prison -3",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Dark Torturer",
+      "Blightwalker",
+      "Demon Outcast",
+      "Juggernaut",
+      "Plaguesmith",
+      "Hellhound"
+    ],
+    "rawXpPerHour": null,
+    "xp150PerHour": null,
+    "profitPerHour": null,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "TibiaRoute page confirms route and creature set; XP/profit not exposed in snippet.",
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places/Prison-3-4VOC",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4"
+    ]
+  },
+  {
+    "id": "x4-summer-elves",
+    "name": "Summer Court Teamhunt",
+    "slug": "summer-court-teamhunt",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS"
+    ],
+    "levelMin": 300,
+    "levelMax": null,
+    "location": "Summer Court",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Arachnophobica",
+      "Crazed Summer Vanguard",
+      "Thanatursus"
+    ],
+    "rawXpPerHour": 9000000,
+    "xp150PerHour": null,
+    "profitPerHour": 700000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4"
+    ]
+  },
+  {
+    "id": "x4-winter-elves",
+    "name": "Winter Court Teamhunt",
+    "slug": "winter-court-teamhunt",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS"
+    ],
+    "levelMin": 300,
+    "levelMax": null,
+    "location": "Winter Court",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Insane Siren",
+      "Crazed Winter Vanguard",
+      "Icecold Book"
+    ],
+    "rawXpPerHour": 9200000,
+    "xp150PerHour": null,
+    "profitPerHour": 750000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4"
+    ]
+  },
+  {
+    "id": "x4-feru-seals",
+    "name": "Ferumbras Seals",
+    "slug": "ferumbras-seals",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS"
+    ],
+    "levelMin": 350,
+    "levelMax": null,
+    "location": "Ferumbras seals",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Hellflayer",
+      "Grimeleech",
+      "Vexclaw"
+    ],
+    "rawXpPerHour": 9500000,
+    "xp150PerHour": null,
+    "profitPerHour": 1200000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4",
+      "endgame"
+    ]
+  },
+  {
+    "id": "lower-roshamuul-x4",
+    "name": "Lower Roshamuul",
+    "slug": "lower-roshamuul-x4",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS"
+    ],
+    "levelMin": 350,
+    "levelMax": null,
+    "location": "Lower Roshamuul",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Frazzlemaw",
+      "Shock Head",
+      "Silencer"
+    ],
+    "rawXpPerHour": 2000000,
+    "xp150PerHour": null,
+    "profitPerHour": 400000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places?size=AllVoc",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4"
+    ]
+  },
+  {
+    "id": "fire-library-x4",
+    "name": "Fire Library",
+    "slug": "fire-library-x4",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS"
+    ],
+    "levelMin": 400,
+    "levelMax": null,
+    "location": "Fire Library",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Burning Book",
+      "Rage Squid"
+    ],
+    "rawXpPerHour": 4000000,
+    "xp150PerHour": null,
+    "profitPerHour": 400350,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places?size=AllVoc",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4"
+    ]
+  },
+  {
+    "id": "ice-library-x4",
+    "name": "Ice Library",
+    "slug": "ice-library-x4",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS"
+    ],
+    "levelMin": 400,
+    "levelMax": null,
+    "location": "Ice Library",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Icecold Book",
+      "Squid Warden"
+    ],
+    "rawXpPerHour": 3750002,
+    "xp150PerHour": null,
+    "profitPerHour": 1000001,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places?size=AllVoc",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4",
+      "xp"
+    ]
+  },
+  {
+    "id": "x4-library",
+    "name": "Secret Library",
+    "slug": "secret-library",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS",
+      "EK+ED+RP+ED"
+    ],
+    "levelMin": 400,
+    "levelMax": null,
+    "location": "Secret Library",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Burning Book",
+      "Rage Squid",
+      "Ink Blob"
+    ],
+    "rawXpPerHour": 12000000,
+    "xp150PerHour": null,
+    "profitPerHour": 900000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4",
+      "meta",
+      "endgame"
+    ]
+  },
+  {
+    "id": "x4-cobras",
+    "name": "Cobra Bastion Teamhunt",
+    "slug": "cobra-bastion-teamhunt",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS"
+    ],
+    "levelMin": 450,
+    "levelMax": null,
+    "location": "Cobra Bastion",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Cobra Assassin",
+      "Cobra Scout",
+      "Cobra Vizier"
+    ],
+    "rawXpPerHour": 11000000,
+    "xp150PerHour": null,
+    "profitPerHour": 1500000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4",
+      "popular"
+    ]
+  },
+  {
+    "id": "nimmersatts-breeding-ground-x4",
+    "name": "Nimmersatt's Breeding Ground",
+    "slug": "nimmersatts-breeding-ground-x4",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS"
+    ],
+    "levelMin": 550,
+    "levelMax": null,
+    "location": "Nimmersatt's Breeding Ground",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Dragolisk",
+      "Mega Dragon",
+      "Wardragon"
+    ],
+    "rawXpPerHour": 7000000,
+    "xp150PerHour": null,
+    "profitPerHour": 2000002,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places?size=AllVoc",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4",
+      "profit"
+    ]
+  },
+  {
+    "id": "x4-soulwar-crater",
+    "name": "Soul War Crater",
+    "slug": "soul-war-crater",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS"
+    ],
+    "levelMin": 600,
+    "levelMax": null,
+    "location": "Soul War crater",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Brachiodemon",
+      "Infernal Demon",
+      "Many Faces"
+    ],
+    "rawXpPerHour": 15000000,
+    "xp150PerHour": null,
+    "profitPerHour": 1500000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4",
+      "endgame"
+    ]
+  },
+  {
+    "id": "x4-bulltaurs",
+    "name": "Bulltaurs Teamhunt",
+    "slug": "bulltaurs-teamhunt",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS"
+    ],
+    "levelMin": 700,
+    "levelMax": null,
+    "location": "Bulltaur cave",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Bulltaur Alchemist",
+      "Bulltaur Brute",
+      "Bulltaur Forgepriest"
+    ],
+    "rawXpPerHour": 13000000,
+    "xp150PerHour": null,
+    "profitPerHour": 1800000,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: curated"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "manual",
+    "sourceLabel": "Manual curated seed",
+    "sourceUrl": null,
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4",
+      "endgame"
+    ]
+  },
+  {
+    "id": "deeper-ingol-x4",
+    "name": "Deeper Ingol",
+    "slug": "deeper-ingol-x4",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS"
+    ],
+    "levelMin": 700,
+    "levelMax": null,
+    "location": "Deeper Ingol",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Boar Man",
+      "Carnivostrich",
+      "Crape Man",
+      "Harpy",
+      "Liodile",
+      "Rhindeer"
+    ],
+    "rawXpPerHour": 6000000,
+    "xp150PerHour": null,
+    "profitPerHour": 1100001,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places?size=AllVoc",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4",
+      "endgame"
+    ]
+  },
+  {
+    "id": "jaded-roots-x4",
+    "name": "Jaded Roots",
+    "slug": "jaded-roots-x4",
+    "teamSize": "x4",
+    "vocations": [
+      "all"
+    ],
+    "vocationCombos": [
+      "EK+ED+RP+MS"
+    ],
+    "levelMin": 950,
+    "levelMax": null,
+    "location": "Jaded Roots",
+    "city": null,
+    "region": null,
+    "creatures": [
+      "Bloated Man-Maggot",
+      "Mycobiontic Beetle",
+      "Oozing Corpus",
+      "Sopping Corpus"
+    ],
+    "rawXpPerHour": 12000000,
+    "xp150PerHour": null,
+    "profitPerHour": 1750001,
+    "weaponType": [],
+    "runes": [],
+    "notes": [
+      "Data quality: tibiaroute"
+    ],
+    "areaStatus": "premium",
+    "popularityScore": null,
+    "recencyScore": null,
+    "source": "tibiaroute",
+    "sourceLabel": "TibiaRoute",
+    "sourceUrl": "https://tibiaroute.com/hunting-places/Jaded-Roots-4VOC",
+    "verifiedAt": "2026-03-18",
+    "tags": [
+      "x4",
+      "endgame",
+      "xp"
+    ]
+  }
+]

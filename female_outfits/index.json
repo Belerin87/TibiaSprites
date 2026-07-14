@@ -100,14 +100,14 @@
     "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/d/df/Outfit_Chaos_Acolyte_Female_Addon_3.gif/revision/latest?cb=20230730025214&path-prefix=en"
   },
   {
-    "name": "Citizen Outfits",
-    "file": "Citizen_Outfits.png",
-    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/a2/Outfit_Citizen_Female_Addon_3.gif/revision/latest?cb=20060828193906&path-prefix=en"
-  },
-  {
     "name": "Citizen of Issavi Outfits",
     "file": "Citizen_of_Issavi_Outfits.png",
     "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/2/25/Outfit_Citizen_of_Issavi_Female_Addon_3.gif/revision/latest?cb=20210521150844&path-prefix=en"
+  },
+  {
+    "name": "Citizen Outfits",
+    "file": "Citizen_Outfits.png",
+    "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/a/a2/Outfit_Citizen_Female_Addon_3.gif/revision/latest?cb=20060828193906&path-prefix=en"
   },
   {
     "name": "Conjurer Outfits",
@@ -303,6 +303,11 @@
     "name": "Hunter Outfits",
     "file": "Hunter_Outfits.png",
     "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/0/02/Outfit_Hunter_Female_Addon_3.gif/revision/latest?cb=20190809144413&path-prefix=en"
+  },
+  {
+    "name": "Illuminated Warrior",
+    "file": "Outfit_Illuminated_Warrior_Female.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/archive/0/04/20260623214950%21Outfit_Illuminated_Warrior_Female_Addon_3.gif"
   },
   {
     "name": "Illuminator Outfits",
@@ -648,11 +653,6 @@
     "name": "Wizard Outfits",
     "file": "Wizard_Outfits.png",
     "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/86/Outfit_Wizard_Female_Addon_3.gif/revision/latest?cb=20060830000105&path-prefix=en"
-  },
-  {
-    "name": "Illuminated Warrior",
-    "file": "Outfit_Illuminated_Warrior_Female.gif",
-    "sourceUrl": "https://www.tibiawiki.com.br/images/archive/0/04/20260623214950%21Outfit_Illuminated_Warrior_Female_Addon_3.gif"
   },
   {
     "name": "Yalaharian Outfits",

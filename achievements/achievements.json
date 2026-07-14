@@ -4976,6 +4976,78 @@
     "secret": true,
     "implemented": "November 24, 2025"
   },
+   {
+    "name": "Amati's Echo",
+    "grade": 2,
+    "points": 4,
+    "description": "You answered the call of the moon goddess and thwarted the asuri's plans. Yet the echoes will linger, and the whisper of the moonsilver is now a part of Marapur.",
+    "id": 594,
+    "secret": false,
+    "implemented": "July 13, 2026"
+  },
+  {
+    "name": "Echo Hunter",
+    "grade": 1,
+    "points": 4,
+    "description": "The echoes are beginning to infiltrate your dreams.",
+    "id": 587,
+    "secret": false,
+    "implemented": "July 14, 2026"
+  },
+  {
+    "name": "Echo Initiate",
+    "grade": 1,
+    "points": 1,
+    "description": "You are quite curious about these echoes.",
+    "id": 586,
+    "secret": false,
+    "implemented": "July 15, 2026"
+  },
+  {
+    "name": "Echo Walker",
+    "grade": 2,
+    "points": 0,
+    "description": "Walking past an echo is no option. You're already addicted.",
+    "id": 588,
+    "secret": false,
+    "implemented": "July 16, 2026"
+  },
+  {
+    "name": "Enlightened, Indeed",
+    "grade": 1,
+    "points": 0,
+    "description": "Currently Unknown",
+    "id": 595,
+    "secret": false,
+    "implemented": "July 17, 2026"
+  },
+  {
+    "name": "Purrfectly Addicted",
+    "grade": 1,
+    "points": 1,
+    "description": "Psss psss psss...",
+    "id": 591,
+    "secret": true,
+    "implemented": "July 18, 2026"
+  },
+  {
+    "name": "Radiant Nimbus",
+    "grade": 1,
+    "points": 0,
+    "description": "On top of a cloud, the sun is always shining.",
+    "id": 593,
+    "secret": false,
+    "implemented": "July 19, 2026"
+  },
+  {
+    "name": "Six Steps Ahead",
+    "grade": 1,
+    "points": 2,
+    "description": "Swift and silent, the jaracal now runs at your side.",
+    "id": 592,
+    "secret": false,
+    "implemented": "July 20, 2026"
+  },
   {
     "name": "Feral Trapper",
     "grade": 1,

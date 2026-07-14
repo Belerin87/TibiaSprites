@@ -4065,6 +4065,111 @@
     "fileName": "Young_Sea_Serpent.gif"
   },
   {
+    "name": "Devoted Radiant Acolyte",
+    "bestiaryClass": "Human",
+    "fileName": "Devoted_Radiant_Acolyte.gif"
+  },
+  {
+    "name": "Devoted Radiant Inquisitor",
+    "bestiaryClass": "Human",
+    "fileName": "Devoted_Radiant_Inquisitor.gif"
+  },
+  {
+    "name": "Devoted Radiant Paragon",
+    "bestiaryClass": "Human",
+    "fileName": "Devoted_Radiant_Paragon.gif"
+  },
+  {
+    "name": "Devoted Radiant Templar",
+    "bestiaryClass": "Human",
+    "fileName": "Devoted_Radiant_Templar.gif"
+  },
+  {
+    "name": "Devoted Radiant Warden",
+    "bestiaryClass": "Human",
+    "fileName": "Devoted_Radiant_Warden.gif"
+  },
+  {
+    "name": "Devoted Radiant Zealot",
+    "bestiaryClass": "Human",
+    "fileName": "Devoted_Radiant_Zealot.gif"
+  },
+  {
+    "name": "Iceplume Strider",
+    "bestiaryClass": "Construct",
+    "fileName": "Iceplume_Strider.gif"
+  },
+  {
+    "name": "Jaracal",
+    "bestiaryClass": "Mammal",
+    "fileName": "Jaracal.gif"
+  },
+  {
+    "name": "Moonspawn Blightspitter",
+    "bestiaryClass": "Plant",
+    "fileName": "Moonspawn_Blightspitter.gif"
+  },
+  {
+    "name": "Moonspawn Oozecrown",
+    "bestiaryClass": "Plant",
+    "fileName": "Moonspawn_Oozecrown.gif"
+  },
+  {
+    "name": "Moonstone Excavator",
+    "bestiaryClass": "Human",
+    "fileName": "Moonstone_Excavator.gif"
+  },
+  {
+    "name": "Moonstone Overseer",
+    "bestiaryClass": "Human",
+    "fileName": "Moonstone_Overseer.gif"
+  },
+  {
+    "name": "Radiant Acolyte",
+    "bestiaryClass": "Human",
+    "fileName": "Radiant_Acolyte.gif"
+  },
+  {
+    "name": "Radiant Inquisitor",
+    "bestiaryClass": "Human",
+    "fileName": "Radiant_Inquisitor.gif"
+  },
+  {
+    "name": "Radiant Paragon",
+    "bestiaryClass": "Human",
+    "fileName": "Radiant_Paragon.gif"
+  },
+  {
+    "name": "Radiant Templar",
+    "bestiaryClass": "Human",
+    "fileName": "Radiant_Templar.gif"
+  },
+  {
+    "name": "Radiant Warden",
+    "bestiaryClass": "Human",
+    "fileName": "Radiant_Warden.gif"
+  },
+  {
+    "name": "Radiant Zealot",
+    "bestiaryClass": "Human",
+    "fileName": "Radiant_Zealot.gif"
+  },
+  {
+    "name": "Silverfrost Sentinel",
+    "bestiaryClass": "Construct",
+    "fileName": "Silverfrost_Sentinel.gif"
+  },
+  {
+    "name": "True Feverbloom Asura",
+    "bestiaryClass": "Demon",
+    "fileName": "True_Feverbloom_Asura.gif"
+  },
+  {
+    "name": "Winged Jaracal",
+    "bestiaryClass": "Mammal",
+    "fileName": "Winged_Jaracal.gif"
+  },
+  {
     "name": "Zombie",
     "bestiaryClass": "Undead",
     "fileName": "Zombie.gif"

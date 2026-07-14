@@ -11531,6 +11531,132 @@
     "sourceWikiFile": "Giant Spider (Nostalgia).gif",
     "sourceUrl": "https://www.tibiawiki.com.br/images/4/4a/Giant_Spider_%28Nostalgia%29.gif"
   },
+   {
+    "name": "Devoted Radiant Acolyte",
+    "file": "Devoted_Radiant_Acolyte.gif",
+    "sourceWikiFile": "Devoted Radiant Acolyte.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/b/b2/Devoted_Radiant_Acolyte.gif"
+  },
+  {
+    "name": "Devoted Radiant Inquisitor",
+    "file": "Devoted_Radiant_Inquisitor.gif",
+    "sourceWikiFile": "Devoted Radiant Inquisitor.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/5/59/Devoted_Radiant_Inquisitor.gif"
+  },
+  {
+    "name": "Devoted Radiant Paragon",
+    "file": "Devoted_Radiant_Paragon.gif",
+    "sourceWikiFile": "Devoted Radiant Paragon.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/2/2e/Devoted_Radiant_Paragon.gif"
+  },
+  {
+    "name": "Devoted Radiant Templar",
+    "file": "Devoted_Radiant_Templar.gif",
+    "sourceWikiFile": "Devoted Radiant Templar.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/9/9f/Devoted_Radiant_Templar.gif"
+  },
+  {
+    "name": "Devoted Radiant Warden",
+    "file": "Devoted_Radiant_Warden.gif",
+    "sourceWikiFile": "Devoted Radiant Warden.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/9/9b/Devoted_Radiant_Warden.gif"
+  },
+  {
+    "name": "Devoted Radiant Zealot",
+    "file": "Devoted_Radiant_Zealot.gif",
+    "sourceWikiFile": "Devoted Radiant Zealot.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/1/17/Devoted_Radiant_Zealot.gif"
+  },
+  {
+    "name": "Iceplume Strider",
+    "file": "Iceplume_Strider.gif",
+    "sourceWikiFile": "Iceplume Strider.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/3/3a/Iceplume_Strider.gif"
+  },
+  {
+    "name": "Jaracal",
+    "file": "Jaracal.gif",
+    "sourceWikiFile": "Jaracal.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/f/f2/Jaracal.gif"
+  },
+  {
+    "name": "Moonspawn Blightspitter",
+    "file": "Moonspawn_Blightspitter.gif",
+    "sourceWikiFile": "Moonspawn Blightspitter.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/6/6b/Moonspawn_Blightspitter.gif"
+  },
+  {
+    "name": "Moonspawn Oozecrown",
+    "file": "Moonspawn_Oozecrown.gif",
+    "sourceWikiFile": "Moonspawn Oozecrown.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/5/5b/Moonspawn_Oozecrown.gif"
+  },
+  {
+    "name": "Moonstone Excavator",
+    "file": "Moonstone_Excavator.gif",
+    "sourceWikiFile": "Moonstone Excavator.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/1/1d/Moonstone_Excavator.gif"
+  },
+  {
+    "name": "Moonstone Overseer",
+    "file": "Moonstone_Overseer.gif",
+    "sourceWikiFile": "Moonstone Overseer.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/5/54/Moonstone_Overseer.gif"
+  },
+  {
+    "name": "Radiant Acolyte",
+    "file": "Radiant_Acolyte.gif",
+    "sourceWikiFile": "Radiant Acolyte.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/7/78/Radiant_Acolyte.gif"
+  },
+  {
+    "name": "Radiant Inquisitor",
+    "file": "Radiant_Inquisitor.gif",
+    "sourceWikiFile": "Radiant Inquisitor.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/b/b3/Radiant_Inquisitor.gif"
+  },
+  {
+    "name": "Radiant Paragon",
+    "file": "Radiant_Paragon.gif",
+    "sourceWikiFile": "Radiant Paragon.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/7/70/Radiant_Paragon.gif"
+  },
+  {
+    "name": "Radiant Templar",
+    "file": "Radiant_Templar.gif",
+    "sourceWikiFile": "Radiant Templar.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/7/74/Radiant_Templar.gif"
+  },
+  {
+    "name": "Radiant Warden",
+    "file": "Radiant_Warden.gif",
+    "sourceWikiFile": "Radiant Warden.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/7/74/Radiant_Warden.gif"
+  },
+  {
+    "name": "Radiant Zealot",
+    "file": "Radiant_Zealot.gif",
+    "sourceWikiFile": "Radiant Zealot.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/b/bd/Radiant_Zealot.gif"
+  },
+  {
+    "name": "Silverfrost Sentinel",
+    "file": "Silverfrost_Sentinel.gif",
+    "sourceWikiFile": "Silverfrost Sentinel.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/8/8c/Silverfrost_Sentinel.gif"
+  },
+  {
+    "name": "True Feverbloom Asura",
+    "file": "True_Feverbloom_Asura.gif",
+    "sourceWikiFile": "True Feverbloom Asura.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/9/97/True_Feverbloom_Asura.gif"
+  },
+  {
+    "name": "Winged Jaracal",
+    "file": "Winged_Jaracal.gif",
+    "sourceWikiFile": "Winged Jaracal.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/7/7a/Winged_Jaracal.gif"
+  },
   {
     "name": "Spider (Nostalgia)",
     "file": "Spider_(nostalgia).gif",

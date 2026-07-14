@@ -650,6 +650,11 @@
     "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/8/86/Outfit_Wizard_Female_Addon_3.gif/revision/latest?cb=20060830000105&path-prefix=en"
   },
   {
+    "name": "Illuminated Warrior",
+    "file": "Outfit_Illuminated_Warrior_Female.gif",
+    "sourceUrl": "https://www.tibiawiki.com.br/images/archive/0/04/20260623214950%21Outfit_Illuminated_Warrior_Female_Addon_3.gif"
+  },
+  {
     "name": "Yalaharian Outfits",
     "file": "Yalaharian_Outfits.png",
     "sourceUrl": "https://static.wikia.nocookie.net/tibia/images/3/37/Outfit_Yalaharian_Female_Addon_3.gif/revision/latest?cb=20140905175421&path-prefix=en"
